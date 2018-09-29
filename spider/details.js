@@ -61,7 +61,7 @@ const exportExcel = async () => {
     try {
         const allSpuDetails = await getAllPrdouctDetails();
         console.info(`${allSpuDetails.length} 条机型详情信息......`);
-        const result = [['机型ID', '机型名称', '问题项ID', '问题项名称', '答案项ID', '答案选名称']];
+        const result = [['机型ID', '机型名称', '问题项ID', '问题项名称', '答案项ID', '答案项名称']];
         for(let spuDetail of allSpuDetails){
             const row = [];
             row.push(spuDetail.mid);
