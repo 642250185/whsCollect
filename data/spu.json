@@ -1,0 +1,9207 @@
+[
+    {
+        "mid": "10016",
+        "mname": "iPhone X",
+        "mrank": "1"
+    },
+    {
+        "mid": "10015",
+        "mname": "iPhone 8 Plus",
+        "mrank": "2"
+    },
+    {
+        "mid": "10014",
+        "mname": "iPhone 8",
+        "mrank": "3"
+    },
+    {
+        "mid": "10013",
+        "mname": "iPhone 7 Plus",
+        "mrank": "4"
+    },
+    {
+        "mid": "10012",
+        "mname": "iPhone 7",
+        "mrank": "5"
+    },
+    {
+        "mid": "10010",
+        "mname": "iPhone 6s Plus",
+        "mrank": "6"
+    },
+    {
+        "mid": "10009",
+        "mname": "iPhone 6s",
+        "mrank": "7"
+    },
+    {
+        "mid": "10008",
+        "mname": "iPhone 6 Plus",
+        "mrank": "8"
+    },
+    {
+        "mid": "10007",
+        "mname": "iPhone 6",
+        "mrank": "9"
+    },
+    {
+        "mid": "10011",
+        "mname": "iPhone SE",
+        "mrank": "10"
+    },
+    {
+        "mid": "10006",
+        "mname": "iPhone 5s",
+        "mrank": "11"
+    },
+    {
+        "mid": "10005",
+        "mname": "iPhone 5c",
+        "mrank": "12"
+    },
+    {
+        "mid": "10004",
+        "mname": "iPhone 5",
+        "mrank": "13"
+    },
+    {
+        "mid": "10003",
+        "mname": "iPhone 4s",
+        "mrank": "14"
+    },
+    {
+        "mid": "10002",
+        "mname": "iPhone 4",
+        "mrank": "15"
+    },
+    {
+        "mid": "10001",
+        "mname": "iPhone 3GS",
+        "mrank": "16"
+    },
+    {
+        "mid": "10017",
+        "mname": "iPhone XS",
+        "mrank": "200"
+    },
+    {
+        "mid": "10018",
+        "mname": "iPhone XS Max",
+        "mrank": "200"
+    },
+    {
+        "mid": "20095",
+        "mname": "OPPO R17 Pro",
+        "mrank": "1"
+    },
+    {
+        "mid": "20094",
+        "mname": "OPPO R17",
+        "mrank": "2"
+    },
+    {
+        "mid": "20089",
+        "mname": "OPPO Find X",
+        "mrank": "3"
+    },
+    {
+        "mid": "20086",
+        "mname": "OPPO R15",
+        "mrank": "4"
+    },
+    {
+        "mid": "20082",
+        "mname": "OPPO R11s Plus",
+        "mrank": "5"
+    },
+    {
+        "mid": "20081",
+        "mname": "OPPO R11s",
+        "mrank": "6"
+    },
+    {
+        "mid": "20077",
+        "mname": "OPPO R11 Plus",
+        "mrank": "7"
+    },
+    {
+        "mid": "20075",
+        "mname": "OPPO R11",
+        "mrank": "8"
+    },
+    {
+        "mid": "20072",
+        "mname": "OPPO R9s Plus",
+        "mrank": "9"
+    },
+    {
+        "mid": "20070",
+        "mname": "OPPO R9s",
+        "mrank": "10"
+    },
+    {
+        "mid": "20056",
+        "mname": "OPPO R9 Plus",
+        "mrank": "11"
+    },
+    {
+        "mid": "20055",
+        "mname": "OPPO R9",
+        "mrank": "12"
+    },
+    {
+        "mid": "20076",
+        "mname": "OPPO R7s Plus",
+        "mrank": "13"
+    },
+    {
+        "mid": "20034",
+        "mname": "OPPO R7s",
+        "mrank": "14"
+    },
+    {
+        "mid": "20031",
+        "mname": "OPPO R7 Plus",
+        "mrank": "15"
+    },
+    {
+        "mid": "20033",
+        "mname": "OPPO R7",
+        "mrank": "16"
+    },
+    {
+        "mid": "20028",
+        "mname": "OPPO R3",
+        "mrank": "17"
+    },
+    {
+        "mid": "20025",
+        "mname": "OPPO R1s",
+        "mrank": "18"
+    },
+    {
+        "mid": "20024",
+        "mname": "OPPO R1c",
+        "mrank": "19"
+    },
+    {
+        "mid": "20023",
+        "mname": "OPPO R1",
+        "mrank": "20"
+    },
+    {
+        "mid": "20054",
+        "mname": "OPPO R850",
+        "mrank": "21"
+    },
+    {
+        "mid": "20053",
+        "mname": "OPPO R833T",
+        "mrank": "22"
+    },
+    {
+        "mid": "20052",
+        "mname": "OPPO R831T",
+        "mrank": "23"
+    },
+    {
+        "mid": "20051",
+        "mname": "OPPO R831S",
+        "mrank": "24"
+    },
+    {
+        "mid": "20050",
+        "mname": "OPPO R830",
+        "mrank": "25"
+    },
+    {
+        "mid": "20049",
+        "mname": "OPPO R827T",
+        "mrank": "26"
+    },
+    {
+        "mid": "20048",
+        "mname": "OPPO R823T",
+        "mrank": "27"
+    },
+    {
+        "mid": "20047",
+        "mname": "OPPO R821T",
+        "mrank": "28"
+    },
+    {
+        "mid": "20046",
+        "mname": "OPPO R819T",
+        "mrank": "29"
+    },
+    {
+        "mid": "20045",
+        "mname": "OPPO R817",
+        "mrank": "30"
+    },
+    {
+        "mid": "20044",
+        "mname": "OPPO R815T",
+        "mrank": "31"
+    },
+    {
+        "mid": "20043",
+        "mname": "OPPO R813T",
+        "mrank": "32"
+    },
+    {
+        "mid": "20042",
+        "mname": "OPPO R811",
+        "mrank": "33"
+    },
+    {
+        "mid": "20074",
+        "mname": "OPPO R8109",
+        "mrank": "34"
+    },
+    {
+        "mid": "20041",
+        "mname": "OPPO R8107",
+        "mrank": "35"
+    },
+    {
+        "mid": "20040",
+        "mname": "OPPO R809T",
+        "mrank": "36"
+    },
+    {
+        "mid": "20039",
+        "mname": "OPPO R807",
+        "mrank": "37"
+    },
+    {
+        "mid": "20038",
+        "mname": "OPPO R803",
+        "mrank": "38"
+    },
+    {
+        "mid": "20037",
+        "mname": "OPPO R801",
+        "mrank": "39"
+    },
+    {
+        "mid": "20030",
+        "mname": "OPPO R6607",
+        "mrank": "40"
+    },
+    {
+        "mid": "20029",
+        "mname": "OPPO R6007",
+        "mrank": "41"
+    },
+    {
+        "mid": "20027",
+        "mname": "OPPO R2017",
+        "mrank": "42"
+    },
+    {
+        "mid": "20026",
+        "mname": "OPPO R2010",
+        "mrank": "43"
+    },
+    {
+        "mid": "20090",
+        "mname": "OPPO Find X 兰博基尼版",
+        "mrank": "44"
+    },
+    {
+        "mid": "20018",
+        "mname": "OPPO Find7",
+        "mrank": "45"
+    },
+    {
+        "mid": "20017",
+        "mname": "OPPO Find5",
+        "mrank": "46"
+    },
+    {
+        "mid": "20069",
+        "mname": "OPPO X907",
+        "mrank": "47"
+    },
+    {
+        "mid": "20068",
+        "mname": "OPPO X905",
+        "mrank": "48"
+    },
+    {
+        "mid": "20067",
+        "mname": "OPPO X903",
+        "mrank": "49"
+    },
+    {
+        "mid": "20092",
+        "mname": "OPPO A5",
+        "mrank": "50"
+    },
+    {
+        "mid": "20088",
+        "mname": "OPPO A3",
+        "mrank": "51"
+    },
+    {
+        "mid": "20087",
+        "mname": "OPPO A1",
+        "mrank": "52"
+    },
+    {
+        "mid": "20016",
+        "mname": "OPPO A90",
+        "mrank": "53"
+    },
+    {
+        "mid": "20083",
+        "mname": "OPPO A83",
+        "mrank": "54"
+    },
+    {
+        "mid": "20084",
+        "mname": "OPPO A79",
+        "mrank": "55"
+    },
+    {
+        "mid": "20080",
+        "mname": "OPPO A77",
+        "mrank": "56"
+    },
+    {
+        "mid": "20085",
+        "mname": "OPPO A73",
+        "mrank": "57"
+    },
+    {
+        "mid": "20071",
+        "mname": "OPPO A59s",
+        "mrank": "58"
+    },
+    {
+        "mid": "20014",
+        "mname": "OPPO A59",
+        "mrank": "59"
+    },
+    {
+        "mid": "20073",
+        "mname": "OPPO A57",
+        "mrank": "60"
+    },
+    {
+        "mid": "20013",
+        "mname": "OPPO A53",
+        "mrank": "61"
+    },
+    {
+        "mid": "20012",
+        "mname": "OPPO A51",
+        "mrank": "62"
+    },
+    {
+        "mid": "20093",
+        "mname": "OPPO A39",
+        "mrank": "63"
+    },
+    {
+        "mid": "20011",
+        "mname": "OPPO A37",
+        "mrank": "64"
+    },
+    {
+        "mid": "20010",
+        "mname": "OPPO A33",
+        "mrank": "65"
+    },
+    {
+        "mid": "20008",
+        "mname": "OPPO A31",
+        "mrank": "66"
+    },
+    {
+        "mid": "20007",
+        "mname": "OPPO A30",
+        "mrank": "67"
+    },
+    {
+        "mid": "20006",
+        "mname": "OPPO A11",
+        "mrank": "68"
+    },
+    {
+        "mid": "20015",
+        "mname": "OPPO A613",
+        "mrank": "69"
+    },
+    {
+        "mid": "20022",
+        "mname": "OPPO N3",
+        "mrank": "70"
+    },
+    {
+        "mid": "20021",
+        "mname": "OPPO N1t",
+        "mrank": "71"
+    },
+    {
+        "mid": "20019",
+        "mname": "OPPO N1 mini",
+        "mrank": "72"
+    },
+    {
+        "mid": "20020",
+        "mname": "OPPO N1",
+        "mrank": "73"
+    },
+    {
+        "mid": "20066",
+        "mname": "OPPO Ulike 2 U705T",
+        "mrank": "74"
+    },
+    {
+        "mid": "20065",
+        "mname": "OPPO Ulike 2S U707T",
+        "mrank": "75"
+    },
+    {
+        "mid": "20064",
+        "mname": "OPPO U701T",
+        "mrank": "76"
+    },
+    {
+        "mid": "20063",
+        "mname": "OPPO U701",
+        "mrank": "77"
+    },
+    {
+        "mid": "20062",
+        "mname": "OPPO U539",
+        "mrank": "78"
+    },
+    {
+        "mid": "20061",
+        "mname": "OPPO U529",
+        "mrank": "79"
+    },
+    {
+        "mid": "20060",
+        "mname": "OPPO U525",
+        "mrank": "80"
+    },
+    {
+        "mid": "20059",
+        "mname": "OPPO T703",
+        "mrank": "81"
+    },
+    {
+        "mid": "20058",
+        "mname": "OPPO T29",
+        "mrank": "82"
+    },
+    {
+        "mid": "20057",
+        "mname": "OPPO T15",
+        "mrank": "83"
+    },
+    {
+        "mid": "20005",
+        "mname": "OPPO 3007",
+        "mrank": "84"
+    },
+    {
+        "mid": "20004",
+        "mname": "OPPO 3005",
+        "mrank": "85"
+    },
+    {
+        "mid": "20079",
+        "mname": "OPPO 3000",
+        "mrank": "86"
+    },
+    {
+        "mid": "20003",
+        "mname": "OPPO 1107",
+        "mrank": "87"
+    },
+    {
+        "mid": "20002",
+        "mname": "OPPO 1105",
+        "mrank": "88"
+    },
+    {
+        "mid": "20001",
+        "mname": "OPPO 1100",
+        "mrank": "89"
+    },
+    {
+        "mid": "20096",
+        "mname": "OPPO A7x ",
+        "mrank": "200"
+    },
+    {
+        "mid": "30331",
+        "mname": "三星 Galaxy Note9",
+        "mrank": "1"
+    },
+    {
+        "mid": "30321",
+        "mname": "三星 Galaxy S9+",
+        "mrank": "2"
+    },
+    {
+        "mid": "30320",
+        "mname": "三星 Galaxy S9",
+        "mrank": "3"
+    },
+    {
+        "mid": "30314",
+        "mname": "三星 Galaxy S8+",
+        "mrank": "4"
+    },
+    {
+        "mid": "30303",
+        "mname": "三星 Galaxy S8",
+        "mrank": "5"
+    },
+    {
+        "mid": "30335",
+        "mname": "三星 Galaxy S 轻奢版",
+        "mrank": "6"
+    },
+    {
+        "mid": "30325",
+        "mname": "三星 Galaxy S7 Active",
+        "mrank": "7"
+    },
+    {
+        "mid": "30097",
+        "mname": "三星 Galaxy S7 edge",
+        "mrank": "8"
+    },
+    {
+        "mid": "30098",
+        "mname": "三星 Galaxy S7",
+        "mrank": "9"
+    },
+    {
+        "mid": "30095",
+        "mname": "三星 Galaxy S6 edge+",
+        "mrank": "10"
+    },
+    {
+        "mid": "30094",
+        "mname": "三星 Galaxy S6 edge",
+        "mrank": "11"
+    },
+    {
+        "mid": "30096",
+        "mname": "三星 Galaxy S6",
+        "mrank": "12"
+    },
+    {
+        "mid": "30333",
+        "mname": "三星 Galaxy S5 mini",
+        "mrank": "13"
+    },
+    {
+        "mid": "30332",
+        "mname": "三星 Galaxy S5 Active",
+        "mrank": "14"
+    },
+    {
+        "mid": "30093",
+        "mname": "三星 Galaxy S5",
+        "mrank": "15"
+    },
+    {
+        "mid": "30092",
+        "mname": "三星 Galaxy S4 mini",
+        "mrank": "16"
+    },
+    {
+        "mid": "30090",
+        "mname": "三星 Galaxy S4 Active",
+        "mrank": "17"
+    },
+    {
+        "mid": "30091",
+        "mname": "三星 Galaxy S4",
+        "mrank": "18"
+    },
+    {
+        "mid": "30089",
+        "mname": "三星 Galaxy S3 mini",
+        "mrank": "19"
+    },
+    {
+        "mid": "30088",
+        "mname": "三星 Galaxy S3",
+        "mrank": "20"
+    },
+    {
+        "mid": "30087",
+        "mname": "三星 Galaxy S2",
+        "mrank": "21"
+    },
+    {
+        "mid": "30155",
+        "mname": "三星 Galaxy S1",
+        "mrank": "22"
+    },
+    {
+        "mid": "30317",
+        "mname": "三星 Galaxy Note8",
+        "mrank": "23"
+    },
+    {
+        "mid": "30305",
+        "mname": "三星 Galaxy Note7",
+        "mrank": "24"
+    },
+    {
+        "mid": "30084",
+        "mname": "三星 Galaxy Note5",
+        "mrank": "25"
+    },
+    {
+        "mid": "30083",
+        "mname": "三星 Galaxy Note4",
+        "mrank": "26"
+    },
+    {
+        "mid": "30079",
+        "mname": "三星 Galaxy Note3 Lite",
+        "mrank": "27"
+    },
+    {
+        "mid": "30082",
+        "mname": "三星 Galaxy Note3",
+        "mrank": "28"
+    },
+    {
+        "mid": "30081",
+        "mname": "三星 Galaxy Note2",
+        "mrank": "29"
+    },
+    {
+        "mid": "30080",
+        "mname": "三星 Galaxy Note1",
+        "mrank": "30"
+    },
+    {
+        "mid": "30334",
+        "mname": "三星 Galaxy J7 Pro",
+        "mrank": "31"
+    },
+    {
+        "mid": "30319",
+        "mname": "三星 Galaxy J7 2016版",
+        "mrank": "32"
+    },
+    {
+        "mid": "30078",
+        "mname": "三星 Galaxy J7",
+        "mrank": "33"
+    },
+    {
+        "mid": "30077",
+        "mname": "三星 Galaxy J5",
+        "mrank": "34"
+    },
+    {
+        "mid": "30310",
+        "mname": "三星 Galaxy J3 Pro",
+        "mrank": "35"
+    },
+    {
+        "mid": "30330",
+        "mname": "三星 Galaxy J3 (2017版）",
+        "mrank": "36"
+    },
+    {
+        "mid": "30076",
+        "mname": "三星 Galaxy J3",
+        "mrank": "37"
+    },
+    {
+        "mid": "30312",
+        "mname": "三星 Galaxy J1",
+        "mrank": "38"
+    },
+    {
+        "mid": "30298",
+        "mname": "三星 Galaxy C9 Pro",
+        "mrank": "39"
+    },
+    {
+        "mid": "30316",
+        "mname": "三星 Galaxy C8",
+        "mrank": "40"
+    },
+    {
+        "mid": "30302",
+        "mname": "三星 Galaxy C7 Pro",
+        "mrank": "41"
+    },
+    {
+        "mid": "30301",
+        "mname": "三星 Galaxy C7",
+        "mrank": "42"
+    },
+    {
+        "mid": "30315",
+        "mname": "三星 Galaxy C5 Pro",
+        "mrank": "43"
+    },
+    {
+        "mid": "30072",
+        "mname": "三星 Galaxy C5",
+        "mrank": "44"
+    },
+    {
+        "mid": "30324",
+        "mname": "三星 Galaxy A9 Star Lite",
+        "mrank": "45"
+    },
+    {
+        "mid": "30323",
+        "mname": "三星 Galaxy A9 Star",
+        "mrank": "46"
+    },
+    {
+        "mid": "30071",
+        "mname": "三星 Galaxy A9",
+        "mrank": "47"
+    },
+    {
+        "mid": "30327",
+        "mname": "三星 Galaxy A8+  2018版",
+        "mrank": "48"
+    },
+    {
+        "mid": "30326",
+        "mname": "三星 Galaxy A8  2018版",
+        "mrank": "49"
+    },
+    {
+        "mid": "30070",
+        "mname": "三星 Galaxy A8",
+        "mrank": "50"
+    },
+    {
+        "mid": "30069",
+        "mname": "三星 Galaxy A7",
+        "mrank": "51"
+    },
+    {
+        "mid": "30329",
+        "mname": "三星 Galaxy A5 2017版",
+        "mrank": "52"
+    },
+    {
+        "mid": "30304",
+        "mname": "三星 Galaxy A5 2016版",
+        "mrank": "53"
+    },
+    {
+        "mid": "30068",
+        "mname": "三星 Galaxy A5",
+        "mrank": "54"
+    },
+    {
+        "mid": "30067",
+        "mname": "三星 Galaxy A3",
+        "mrank": "55"
+    },
+    {
+        "mid": "30300",
+        "mname": "三星 Galaxy On7 2016版",
+        "mrank": "56"
+    },
+    {
+        "mid": "30086",
+        "mname": "三星 Galaxy On7",
+        "mrank": "57"
+    },
+    {
+        "mid": "30085",
+        "mname": "三星 Galaxy On5",
+        "mrank": "58"
+    },
+    {
+        "mid": "30328",
+        "mname": "三星 W2018",
+        "mrank": "59"
+    },
+    {
+        "mid": "30313",
+        "mname": "三星 W2017",
+        "mrank": "60"
+    },
+    {
+        "mid": "30286",
+        "mname": "三星 W2016",
+        "mrank": "61"
+    },
+    {
+        "mid": "30285",
+        "mname": "三星 W2015",
+        "mrank": "62"
+    },
+    {
+        "mid": "30284",
+        "mname": "三星 W2014",
+        "mrank": "63"
+    },
+    {
+        "mid": "30283",
+        "mname": "三星 W2013",
+        "mrank": "64"
+    },
+    {
+        "mid": "30296",
+        "mname": "三星 W999",
+        "mrank": "65"
+    },
+    {
+        "mid": "30295",
+        "mname": "三星 W899",
+        "mrank": "66"
+    },
+    {
+        "mid": "30294",
+        "mname": "三星 W799",
+        "mrank": "67"
+    },
+    {
+        "mid": "30293",
+        "mname": "三星 W789",
+        "mrank": "68"
+    },
+    {
+        "mid": "30292",
+        "mname": "三星 W699",
+        "mrank": "69"
+    },
+    {
+        "mid": "30291",
+        "mname": "三星 W689",
+        "mrank": "70"
+    },
+    {
+        "mid": "30290",
+        "mname": "三星 W589",
+        "mrank": "71"
+    },
+    {
+        "mid": "30289",
+        "mname": "三星 W579",
+        "mrank": "72"
+    },
+    {
+        "mid": "30288",
+        "mname": "三星 W319",
+        "mrank": "73"
+    },
+    {
+        "mid": "30287",
+        "mname": "三星 W289",
+        "mrank": "74"
+    },
+    {
+        "mid": "30322",
+        "mname": "三星 领世旗舰8（G9298）",
+        "mrank": "75"
+    },
+    {
+        "mid": "30297",
+        "mname": "三星 领世旗舰3（G9198）",
+        "mrank": "76"
+    },
+    {
+        "mid": "30299",
+        "mname": "三星 大器3 （G9092）",
+        "mrank": "77"
+    },
+    {
+        "mid": "30282",
+        "mname": "三星 U608",
+        "mrank": "78"
+    },
+    {
+        "mid": "30280",
+        "mname": "三星 T989",
+        "mrank": "79"
+    },
+    {
+        "mid": "30279",
+        "mname": "三星 T959",
+        "mrank": "80"
+    },
+    {
+        "mid": "30278",
+        "mname": "三星 T759",
+        "mrank": "81"
+    },
+    {
+        "mid": "30276",
+        "mname": "三星 T2558",
+        "mrank": "82"
+    },
+    {
+        "mid": "30275",
+        "mname": "三星 T2556",
+        "mrank": "83"
+    },
+    {
+        "mid": "30274",
+        "mname": "三星 T2519",
+        "mrank": "84"
+    },
+    {
+        "mid": "30273",
+        "mname": "三星 Sk-S100",
+        "mrank": "85"
+    },
+    {
+        "mid": "30272",
+        "mname": "三星 S8600",
+        "mrank": "86"
+    },
+    {
+        "mid": "30271",
+        "mname": "三星 S8530",
+        "mrank": "87"
+    },
+    {
+        "mid": "30270",
+        "mname": "三星 S8500",
+        "mrank": "88"
+    },
+    {
+        "mid": "30269",
+        "mname": "三星 S7898",
+        "mrank": "89"
+    },
+    {
+        "mid": "30268",
+        "mname": "三星 S7572",
+        "mrank": "90"
+    },
+    {
+        "mid": "30267",
+        "mname": "三星 S7568I",
+        "mrank": "91"
+    },
+    {
+        "mid": "30266",
+        "mname": "三星 S7568",
+        "mrank": "92"
+    },
+    {
+        "mid": "30265",
+        "mname": "三星 S7566",
+        "mrank": "93"
+    },
+    {
+        "mid": "30264",
+        "mname": "三星 S7562I",
+        "mrank": "94"
+    },
+    {
+        "mid": "30263",
+        "mname": "三星 S7562C",
+        "mrank": "95"
+    },
+    {
+        "mid": "30262",
+        "mname": "三星 S7562",
+        "mrank": "96"
+    },
+    {
+        "mid": "30261",
+        "mname": "三星 S7530E",
+        "mrank": "97"
+    },
+    {
+        "mid": "30260",
+        "mname": "三星 S7508",
+        "mrank": "98"
+    },
+    {
+        "mid": "30259",
+        "mname": "三星 S7500",
+        "mrank": "99"
+    },
+    {
+        "mid": "30258",
+        "mname": "三星 S7392",
+        "mrank": "100"
+    },
+    {
+        "mid": "30257",
+        "mname": "三星 S7320E",
+        "mrank": "101"
+    },
+    {
+        "mid": "30256",
+        "mname": "三星 S7278U",
+        "mrank": "102"
+    },
+    {
+        "mid": "30255",
+        "mname": "三星 S7278",
+        "mrank": "103"
+    },
+    {
+        "mid": "30254",
+        "mname": "三星 S7275",
+        "mrank": "104"
+    },
+    {
+        "mid": "30253",
+        "mname": "三星 S7272C",
+        "mrank": "105"
+    },
+    {
+        "mid": "30252",
+        "mname": "三星 S7270",
+        "mrank": "106"
+    },
+    {
+        "mid": "30251",
+        "mname": "三星 S7250D",
+        "mrank": "107"
+    },
+    {
+        "mid": "30250",
+        "mname": "三星 S7230E",
+        "mrank": "108"
+    },
+    {
+        "mid": "30249",
+        "mname": "三星 S7120U",
+        "mrank": "109"
+    },
+    {
+        "mid": "30248",
+        "mname": "三星 S6818V",
+        "mrank": "110"
+    },
+    {
+        "mid": "30247",
+        "mname": "三星 S6818",
+        "mrank": "111"
+    },
+    {
+        "mid": "30246",
+        "mname": "三星 S6812I",
+        "mrank": "112"
+    },
+    {
+        "mid": "30245",
+        "mname": "三星 S6812C",
+        "mrank": "113"
+    },
+    {
+        "mid": "30244",
+        "mname": "三星 S6810",
+        "mrank": "114"
+    },
+    {
+        "mid": "30243",
+        "mname": "三星 S6802",
+        "mrank": "115"
+    },
+    {
+        "mid": "30242",
+        "mname": "三星 S6500D",
+        "mrank": "116"
+    },
+    {
+        "mid": "30241",
+        "mname": "三星 S6358",
+        "mrank": "117"
+    },
+    {
+        "mid": "30240",
+        "mname": "三星 S6352",
+        "mrank": "118"
+    },
+    {
+        "mid": "30239",
+        "mname": "三星 S6312",
+        "mrank": "119"
+    },
+    {
+        "mid": "30238",
+        "mname": "三星 S6310",
+        "mrank": "120"
+    },
+    {
+        "mid": "30237",
+        "mname": "三星 S6108",
+        "mrank": "121"
+    },
+    {
+        "mid": "30236",
+        "mname": "三星 S6102E",
+        "mrank": "122"
+    },
+    {
+        "mid": "30235",
+        "mname": "三星 S6102",
+        "mrank": "123"
+    },
+    {
+        "mid": "30234",
+        "mname": "三星 S5838",
+        "mrank": "124"
+    },
+    {
+        "mid": "30233",
+        "mname": "三星 S5831I",
+        "mrank": "125"
+    },
+    {
+        "mid": "30232",
+        "mname": "三星 S5830I",
+        "mrank": "126"
+    },
+    {
+        "mid": "30231",
+        "mname": "三星 S5830",
+        "mrank": "127"
+    },
+    {
+        "mid": "30230",
+        "mname": "三星 S5820",
+        "mrank": "128"
+    },
+    {
+        "mid": "30229",
+        "mname": "三星 S5698",
+        "mrank": "129"
+    },
+    {
+        "mid": "30228",
+        "mname": "三星 S5690",
+        "mrank": "130"
+    },
+    {
+        "mid": "30227",
+        "mname": "三星 S5670",
+        "mrank": "131"
+    },
+    {
+        "mid": "30226",
+        "mname": "三星 S5660",
+        "mrank": "132"
+    },
+    {
+        "mid": "30225",
+        "mname": "三星 S5603",
+        "mrank": "133"
+    },
+    {
+        "mid": "30224",
+        "mname": "三星 S5578",
+        "mrank": "134"
+    },
+    {
+        "mid": "30223",
+        "mname": "三星 S5570",
+        "mrank": "135"
+    },
+    {
+        "mid": "30222",
+        "mname": "三星 S5560",
+        "mrank": "136"
+    },
+    {
+        "mid": "30221",
+        "mname": "三星 S5520",
+        "mrank": "137"
+    },
+    {
+        "mid": "30220",
+        "mname": "三星 S5380D",
+        "mrank": "138"
+    },
+    {
+        "mid": "30219",
+        "mname": "三星 S5368",
+        "mrank": "139"
+    },
+    {
+        "mid": "30218",
+        "mname": "三星 S5360",
+        "mrank": "140"
+    },
+    {
+        "mid": "30217",
+        "mname": "三星 S5330",
+        "mrank": "141"
+    },
+    {
+        "mid": "30216",
+        "mname": "三星 S5300",
+        "mrank": "142"
+    },
+    {
+        "mid": "30215",
+        "mname": "三星 S5230C",
+        "mrank": "143"
+    },
+    {
+        "mid": "30214",
+        "mname": "三星 S3850",
+        "mrank": "144"
+    },
+    {
+        "mid": "30213",
+        "mname": "三星 S3778",
+        "mrank": "145"
+    },
+    {
+        "mid": "30210",
+        "mname": "三星 P729",
+        "mrank": "146"
+    },
+    {
+        "mid": "30209",
+        "mname": "三星 P709",
+        "mrank": "147"
+    },
+    {
+        "mid": "30208",
+        "mname": "三星 P3100",
+        "mrank": "148"
+    },
+    {
+        "mid": "30207",
+        "mname": "三星 P1000",
+        "mrank": "149"
+    },
+    {
+        "mid": "30206",
+        "mname": "三星 N9150",
+        "mrank": "150"
+    },
+    {
+        "mid": "30205",
+        "mname": "三星 N7507V",
+        "mrank": "151"
+    },
+    {
+        "mid": "30204",
+        "mname": "三星 N7005",
+        "mrank": "152"
+    },
+    {
+        "mid": "30203",
+        "mname": "三星 N075T",
+        "mrank": "153"
+    },
+    {
+        "mid": "30202",
+        "mname": "三星 M8910",
+        "mrank": "154"
+    },
+    {
+        "mid": "30201",
+        "mname": "三星 M130K",
+        "mrank": "155"
+    },
+    {
+        "mid": "30200",
+        "mname": "三星 M110S",
+        "mrank": "156"
+    },
+    {
+        "mid": "30198",
+        "mname": "三星 I997",
+        "mrank": "157"
+    },
+    {
+        "mid": "30197",
+        "mname": "三星 I9802I",
+        "mrank": "158"
+    },
+    {
+        "mid": "30196",
+        "mname": "三星 I937",
+        "mrank": "159"
+    },
+    {
+        "mid": "30195",
+        "mname": "三星 I929",
+        "mrank": "160"
+    },
+    {
+        "mid": "30194",
+        "mname": "三星 I927",
+        "mrank": "161"
+    },
+    {
+        "mid": "30193",
+        "mname": "三星 I9268",
+        "mrank": "162"
+    },
+    {
+        "mid": "30192",
+        "mname": "三星 I9260",
+        "mrank": "163"
+    },
+    {
+        "mid": "30191",
+        "mname": "三星 I9250",
+        "mrank": "164"
+    },
+    {
+        "mid": "30190",
+        "mname": "三星 I9235",
+        "mrank": "165"
+    },
+    {
+        "mid": "30188",
+        "mname": "三星 I9210",
+        "mrank": "166"
+    },
+    {
+        "mid": "30187",
+        "mname": "三星 I9208",
+        "mrank": "167"
+    },
+    {
+        "mid": "30186",
+        "mname": "三星 I9205",
+        "mrank": "168"
+    },
+    {
+        "mid": "30185",
+        "mname": "三星 I9200",
+        "mrank": "169"
+    },
+    {
+        "mid": "30184",
+        "mname": "三星 I919",
+        "mrank": "170"
+    },
+    {
+        "mid": "30183",
+        "mname": "三星 I9188",
+        "mrank": "171"
+    },
+    {
+        "mid": "30182",
+        "mname": "三星 I9158P",
+        "mrank": "172"
+    },
+    {
+        "mid": "30181",
+        "mname": "三星 I9158",
+        "mrank": "173"
+    },
+    {
+        "mid": "30180",
+        "mname": "三星 I9152P",
+        "mrank": "174"
+    },
+    {
+        "mid": "30179",
+        "mname": "三星 I9152",
+        "mrank": "175"
+    },
+    {
+        "mid": "30178",
+        "mname": "三星 I9150",
+        "mrank": "176"
+    },
+    {
+        "mid": "30177",
+        "mname": "三星 I9128V",
+        "mrank": "177"
+    },
+    {
+        "mid": "30176",
+        "mname": "三星 I9128I",
+        "mrank": "178"
+    },
+    {
+        "mid": "30175",
+        "mname": "三星 I9128E",
+        "mrank": "179"
+    },
+    {
+        "mid": "30174",
+        "mname": "三星 I9128",
+        "mrank": "180"
+    },
+    {
+        "mid": "30173",
+        "mname": "三星 I9118",
+        "mrank": "181"
+    },
+    {
+        "mid": "30172",
+        "mname": "三星 I9105P",
+        "mrank": "182"
+    },
+    {
+        "mid": "30171",
+        "mname": "三星 I9105",
+        "mrank": "183"
+    },
+    {
+        "mid": "30170",
+        "mname": "三星 I9103",
+        "mrank": "184"
+    },
+    {
+        "mid": "30169",
+        "mname": "三星 I909",
+        "mrank": "185"
+    },
+    {
+        "mid": "30168",
+        "mname": "三星 I9088",
+        "mrank": "186"
+    },
+    {
+        "mid": "30167",
+        "mname": "三星 I9082I",
+        "mrank": "187"
+    },
+    {
+        "mid": "30166",
+        "mname": "三星 I9082",
+        "mrank": "188"
+    },
+    {
+        "mid": "30165",
+        "mname": "三星 I9080",
+        "mrank": "189"
+    },
+    {
+        "mid": "30164",
+        "mname": "三星 I9070",
+        "mrank": "190"
+    },
+    {
+        "mid": "30163",
+        "mname": "三星 I9050",
+        "mrank": "191"
+    },
+    {
+        "mid": "30162",
+        "mname": "三星 I9023",
+        "mrank": "192"
+    },
+    {
+        "mid": "30161",
+        "mname": "三星 I9020",
+        "mrank": "193"
+    },
+    {
+        "mid": "30160",
+        "mname": "三星 I9018",
+        "mrank": "194"
+    },
+    {
+        "mid": "30159",
+        "mname": "三星 I9010",
+        "mrank": "195"
+    },
+    {
+        "mid": "30157",
+        "mname": "三星 I9003",
+        "mrank": "196"
+    },
+    {
+        "mid": "30154",
+        "mname": "三星 I900",
+        "mrank": "197"
+    },
+    {
+        "mid": "30153",
+        "mname": "三星 I897",
+        "mrank": "198"
+    },
+    {
+        "mid": "30152",
+        "mname": "三星 I8910",
+        "mrank": "199"
+    },
+    {
+        "mid": "30150",
+        "mname": "三星 I879",
+        "mrank": "200"
+    },
+    {
+        "mid": "30149",
+        "mname": "三星 I8750",
+        "mrank": "201"
+    },
+    {
+        "mid": "30148",
+        "mname": "三星 I8730",
+        "mrank": "202"
+    },
+    {
+        "mid": "30147",
+        "mname": "三星 I8700",
+        "mrank": "203"
+    },
+    {
+        "mid": "30146",
+        "mname": "三星 I869",
+        "mrank": "204"
+    },
+    {
+        "mid": "30145",
+        "mname": "三星 I8580",
+        "mrank": "205"
+    },
+    {
+        "mid": "30144",
+        "mname": "三星 I8558",
+        "mrank": "206"
+    },
+    {
+        "mid": "30143",
+        "mname": "三星 I8552",
+        "mrank": "207"
+    },
+    {
+        "mid": "30142",
+        "mname": "三星 I8530",
+        "mrank": "208"
+    },
+    {
+        "mid": "30141",
+        "mname": "三星 I8520",
+        "mrank": "209"
+    },
+    {
+        "mid": "30140",
+        "mname": "三星 I8500",
+        "mrank": "210"
+    },
+    {
+        "mid": "30139",
+        "mname": "三星 I8350",
+        "mrank": "211"
+    },
+    {
+        "mid": "30138",
+        "mname": "三星 I8330",
+        "mrank": "212"
+    },
+    {
+        "mid": "30137",
+        "mname": "三星 I829",
+        "mrank": "213"
+    },
+    {
+        "mid": "30136",
+        "mname": "三星 I8268",
+        "mrank": "214"
+    },
+    {
+        "mid": "30135",
+        "mname": "三星 I8262D",
+        "mrank": "215"
+    },
+    {
+        "mid": "30134",
+        "mname": "三星 I8262",
+        "mrank": "216"
+    },
+    {
+        "mid": "30133",
+        "mname": "三星 I8258",
+        "mrank": "217"
+    },
+    {
+        "mid": "30132",
+        "mname": "三星 I8250",
+        "mrank": "218"
+    },
+    {
+        "mid": "30131",
+        "mname": "三星 I8160",
+        "mrank": "219"
+    },
+    {
+        "mid": "30130",
+        "mname": "三星 I8150",
+        "mrank": "220"
+    },
+    {
+        "mid": "30129",
+        "mname": "三星 I809",
+        "mrank": "221"
+    },
+    {
+        "mid": "30128",
+        "mname": "三星 I8000",
+        "mrank": "222"
+    },
+    {
+        "mid": "30127",
+        "mname": "三星 I779",
+        "mrank": "223"
+    },
+    {
+        "mid": "30126",
+        "mname": "三星 I777",
+        "mrank": "224"
+    },
+    {
+        "mid": "30125",
+        "mname": "三星 I759",
+        "mrank": "225"
+    },
+    {
+        "mid": "30124",
+        "mname": "三星 I739",
+        "mrank": "226"
+    },
+    {
+        "mid": "30123",
+        "mname": "三星 I727",
+        "mrank": "227"
+    },
+    {
+        "mid": "30122",
+        "mname": "三星 I717",
+        "mrank": "228"
+    },
+    {
+        "mid": "30121",
+        "mname": "三星 I699I",
+        "mrank": "229"
+    },
+    {
+        "mid": "30120",
+        "mname": "三星 I699",
+        "mrank": "230"
+    },
+    {
+        "mid": "30119",
+        "mname": "三星 I679",
+        "mrank": "231"
+    },
+    {
+        "mid": "30118",
+        "mname": "三星 I659",
+        "mrank": "232"
+    },
+    {
+        "mid": "30117",
+        "mname": "三星 I6330C",
+        "mrank": "233"
+    },
+    {
+        "mid": "30116",
+        "mname": "三星 I629",
+        "mrank": "234"
+    },
+    {
+        "mid": "30115",
+        "mname": "三星 I619",
+        "mrank": "235"
+    },
+    {
+        "mid": "30114",
+        "mname": "三星 I589",
+        "mrank": "236"
+    },
+    {
+        "mid": "30113",
+        "mname": "三星 I579",
+        "mrank": "237"
+    },
+    {
+        "mid": "30112",
+        "mname": "三星 I5700",
+        "mrank": "238"
+    },
+    {
+        "mid": "30111",
+        "mname": "三星 I569",
+        "mrank": "239"
+    },
+    {
+        "mid": "30110",
+        "mname": "三星 I559",
+        "mrank": "240"
+    },
+    {
+        "mid": "30109",
+        "mname": "三星 I5510",
+        "mrank": "241"
+    },
+    {
+        "mid": "30108",
+        "mname": "三星 I5500",
+        "mrank": "242"
+    },
+    {
+        "mid": "30107",
+        "mname": "三星 I535",
+        "mrank": "243"
+    },
+    {
+        "mid": "30106",
+        "mname": "三星 I519",
+        "mrank": "244"
+    },
+    {
+        "mid": "30105",
+        "mname": "三星 I509",
+        "mrank": "245"
+    },
+    {
+        "mid": "30104",
+        "mname": "三星 I500",
+        "mrank": "246"
+    },
+    {
+        "mid": "30103",
+        "mname": "三星 I339",
+        "mrank": "247"
+    },
+    {
+        "mid": "30102",
+        "mname": "三星 I337",
+        "mrank": "248"
+    },
+    {
+        "mid": "30101",
+        "mname": "三星 I329",
+        "mrank": "249"
+    },
+    {
+        "mid": "30100",
+        "mname": "三星 I317",
+        "mrank": "250"
+    },
+    {
+        "mid": "30099",
+        "mname": "三星 I100",
+        "mrank": "251"
+    },
+    {
+        "mid": "30075",
+        "mname": "三星 Galaxy Grand Neo+",
+        "mrank": "252"
+    },
+    {
+        "mid": "30074",
+        "mname": "三星 Galaxy Golden",
+        "mrank": "253"
+    },
+    {
+        "mid": "30318",
+        "mname": "三星 Galaxy Folder2",
+        "mrank": "254"
+    },
+    {
+        "mid": "30311",
+        "mname": "三星 Galaxy Folder",
+        "mrank": "255"
+    },
+    {
+        "mid": "30073",
+        "mname": "三星 Galaxy E7",
+        "mrank": "256"
+    },
+    {
+        "mid": "30066",
+        "mname": "三星 G910",
+        "mrank": "257"
+    },
+    {
+        "mid": "30065",
+        "mname": "三星 G9098",
+        "mrank": "258"
+    },
+    {
+        "mid": "30064",
+        "mname": "三星 G906S",
+        "mrank": "259"
+    },
+    {
+        "mid": "30063",
+        "mname": "三星 G8508S",
+        "mrank": "260"
+    },
+    {
+        "mid": "30062",
+        "mname": "三星 G7509",
+        "mrank": "261"
+    },
+    {
+        "mid": "30061",
+        "mname": "三星 G7508Q",
+        "mrank": "262"
+    },
+    {
+        "mid": "30060",
+        "mname": "三星 G7200",
+        "mrank": "263"
+    },
+    {
+        "mid": "30059",
+        "mname": "三星 G7109",
+        "mrank": "264"
+    },
+    {
+        "mid": "30058",
+        "mname": "三星 G7108V",
+        "mrank": "265"
+    },
+    {
+        "mid": "30057",
+        "mname": "三星 G7108",
+        "mrank": "266"
+    },
+    {
+        "mid": "30056",
+        "mname": "三星 G7106",
+        "mrank": "267"
+    },
+    {
+        "mid": "30055",
+        "mname": "三星 G5309W",
+        "mrank": "268"
+    },
+    {
+        "mid": "30054",
+        "mname": "三星 G5308W",
+        "mrank": "269"
+    },
+    {
+        "mid": "30053",
+        "mname": "三星 G5306W",
+        "mrank": "270"
+    },
+    {
+        "mid": "30052",
+        "mname": "三星 G5109",
+        "mrank": "271"
+    },
+    {
+        "mid": "30051",
+        "mname": "三星 G5108Q",
+        "mrank": "272"
+    },
+    {
+        "mid": "30050",
+        "mname": "三星 G5108",
+        "mrank": "273"
+    },
+    {
+        "mid": "30049",
+        "mname": "三星 G3858",
+        "mrank": "274"
+    },
+    {
+        "mid": "30048",
+        "mname": "三星 G3819D",
+        "mrank": "275"
+    },
+    {
+        "mid": "30047",
+        "mname": "三星 G3818",
+        "mrank": "276"
+    },
+    {
+        "mid": "30046",
+        "mname": "三星 G3812",
+        "mrank": "277"
+    },
+    {
+        "mid": "30045",
+        "mname": "三星 G3609",
+        "mrank": "278"
+    },
+    {
+        "mid": "30044",
+        "mname": "三星 G3608",
+        "mrank": "279"
+    },
+    {
+        "mid": "30043",
+        "mname": "三星 G3606",
+        "mrank": "280"
+    },
+    {
+        "mid": "30042",
+        "mname": "三星 G3589W",
+        "mrank": "281"
+    },
+    {
+        "mid": "30041",
+        "mname": "三星 G3588V",
+        "mrank": "282"
+    },
+    {
+        "mid": "30040",
+        "mname": "三星 G3586V",
+        "mrank": "283"
+    },
+    {
+        "mid": "30039",
+        "mname": "三星 G3568V",
+        "mrank": "284"
+    },
+    {
+        "mid": "30038",
+        "mname": "三星 G3559",
+        "mrank": "285"
+    },
+    {
+        "mid": "30037",
+        "mname": "三星 G3558",
+        "mrank": "286"
+    },
+    {
+        "mid": "30036",
+        "mname": "三星 G3556D",
+        "mrank": "287"
+    },
+    {
+        "mid": "30035",
+        "mname": "三星 G3518",
+        "mrank": "288"
+    },
+    {
+        "mid": "30034",
+        "mname": "三星 G3509W",
+        "mrank": "289"
+    },
+    {
+        "mid": "30033",
+        "mname": "三星 G3509",
+        "mrank": "290"
+    },
+    {
+        "mid": "30032",
+        "mname": "三星 G3508W",
+        "mrank": "291"
+    },
+    {
+        "mid": "30031",
+        "mname": "三星 G3508J",
+        "mrank": "292"
+    },
+    {
+        "mid": "30030",
+        "mname": "三星 G3508I",
+        "mrank": "293"
+    },
+    {
+        "mid": "30029",
+        "mname": "三星 G3508",
+        "mrank": "294"
+    },
+    {
+        "mid": "30028",
+        "mname": "三星 G3502U",
+        "mrank": "295"
+    },
+    {
+        "mid": "30027",
+        "mname": "三星 G3502I",
+        "mrank": "296"
+    },
+    {
+        "mid": "30026",
+        "mname": "三星 G3502C",
+        "mrank": "297"
+    },
+    {
+        "mid": "30024",
+        "mname": "三星 E330S",
+        "mrank": "298"
+    },
+    {
+        "mid": "30023",
+        "mname": "三星 E270S",
+        "mrank": "299"
+    },
+    {
+        "mid": "30022",
+        "mname": "三星 E220",
+        "mrank": "300"
+    },
+    {
+        "mid": "30021",
+        "mname": "三星 E210K",
+        "mrank": "301"
+    },
+    {
+        "mid": "30020",
+        "mname": "三星 E170L",
+        "mrank": "302"
+    },
+    {
+        "mid": "30019",
+        "mname": "三星 E120",
+        "mrank": "303"
+    },
+    {
+        "mid": "30018",
+        "mname": "三星 E110S",
+        "mrank": "304"
+    },
+    {
+        "mid": "30017",
+        "mname": "三星 D710",
+        "mrank": "305"
+    },
+    {
+        "mid": "30016",
+        "mname": "三星 C6712",
+        "mrank": "306"
+    },
+    {
+        "mid": "30015",
+        "mname": "三星 C3518",
+        "mrank": "307"
+    },
+    {
+        "mid": "30014",
+        "mname": "三星 C1158",
+        "mrank": "308"
+    },
+    {
+        "mid": "30013",
+        "mname": "三星 C1116",
+        "mrank": "309"
+    },
+    {
+        "mid": "30012",
+        "mname": "三星 C101",
+        "mrank": "310"
+    },
+    {
+        "mid": "30011",
+        "mname": "三星 B9388",
+        "mrank": "311"
+    },
+    {
+        "mid": "30010",
+        "mname": "三星 B9120",
+        "mrank": "312"
+    },
+    {
+        "mid": "30009",
+        "mname": "三星 B9062",
+        "mrank": "313"
+    },
+    {
+        "mid": "30008",
+        "mname": "三星 B7732U",
+        "mrank": "314"
+    },
+    {
+        "mid": "30007",
+        "mname": "三星 B7732",
+        "mrank": "315"
+    },
+    {
+        "mid": "30006",
+        "mname": "三星 B7722",
+        "mrank": "316"
+    },
+    {
+        "mid": "30005",
+        "mname": "三星 B7702C",
+        "mrank": "317"
+    },
+    {
+        "mid": "30004",
+        "mname": "三星 B7330",
+        "mrank": "318"
+    },
+    {
+        "mid": "30003",
+        "mname": "三星 B5330",
+        "mrank": "319"
+    },
+    {
+        "mid": "30002",
+        "mname": "三星 931SC",
+        "mrank": "320"
+    },
+    {
+        "mid": "30336",
+        "mname": "三星 1952",
+        "mrank": "321"
+    },
+    {
+        "mid": "30001",
+        "mname": "三星 580",
+        "mrank": "322"
+    },
+    {
+        "mid": "40527",
+        "mname": "华为 P20 Pro",
+        "mrank": "1"
+    },
+    {
+        "mid": "40526",
+        "mname": "华为 P20",
+        "mrank": "2"
+    },
+    {
+        "mid": "40533",
+        "mname": "华为 nova 3",
+        "mrank": "3"
+    },
+    {
+        "mid": "40535",
+        "mname": "华为 P10 青春版",
+        "mrank": "4"
+    },
+    {
+        "mid": "40133",
+        "mname": "华为 P10 Plus",
+        "mrank": "5"
+    },
+    {
+        "mid": "40132",
+        "mname": "华为 P10",
+        "mrank": "6"
+    },
+    {
+        "mid": "40067",
+        "mname": "华为 P9 Plus",
+        "mrank": "7"
+    },
+    {
+        "mid": "40066",
+        "mname": "华为 P9",
+        "mrank": "8"
+    },
+    {
+        "mid": "40065",
+        "mname": "华为 P8 Max",
+        "mrank": "9"
+    },
+    {
+        "mid": "40064",
+        "mname": "华为 P8 Lite 青春版",
+        "mrank": "10"
+    },
+    {
+        "mid": "40063",
+        "mname": "华为 P8",
+        "mrank": "11"
+    },
+    {
+        "mid": "40061",
+        "mname": "华为 P7",
+        "mrank": "12"
+    },
+    {
+        "mid": "40059",
+        "mname": "华为 P6 S",
+        "mrank": "13"
+    },
+    {
+        "mid": "40060",
+        "mname": "华为 P6",
+        "mrank": "14"
+    },
+    {
+        "mid": "40531",
+        "mname": "华为 Mate10 保时捷设计",
+        "mrank": "15"
+    },
+    {
+        "mid": "40528",
+        "mname": "华为 Mate RS 保时捷设计",
+        "mrank": "16"
+    },
+    {
+        "mid": "40520",
+        "mname": "华为 Mate 10 Pro",
+        "mrank": "17"
+    },
+    {
+        "mid": "40521",
+        "mname": "华为 Mate 10",
+        "mrank": "18"
+    },
+    {
+        "mid": "40134",
+        "mname": "华为 Mate 9 保时捷",
+        "mrank": "19"
+    },
+    {
+        "mid": "40130",
+        "mname": "华为 Mate 9 Pro",
+        "mrank": "20"
+    },
+    {
+        "mid": "40128",
+        "mname": "华为 Mate 9",
+        "mrank": "21"
+    },
+    {
+        "mid": "40056",
+        "mname": "华为 Mate 8",
+        "mrank": "22"
+    },
+    {
+        "mid": "40057",
+        "mname": "华为 Mate S",
+        "mrank": "23"
+    },
+    {
+        "mid": "40055",
+        "mname": "华为 Mate 7",
+        "mrank": "24"
+    },
+    {
+        "mid": "40536",
+        "mname": "华为 Mate 7 青春版",
+        "mrank": "25"
+    },
+    {
+        "mid": "40054",
+        "mname": "华为 Mate 2",
+        "mrank": "26"
+    },
+    {
+        "mid": "40053",
+        "mname": "华为 Mate",
+        "mrank": "27"
+    },
+    {
+        "mid": "40534",
+        "mname": "华为 nova 3i",
+        "mrank": "28"
+    },
+    {
+        "mid": "40525",
+        "mname": "华为 nova 3e",
+        "mrank": "29"
+    },
+    {
+        "mid": "40524",
+        "mname": "华为 nova 2s",
+        "mrank": "30"
+    },
+    {
+        "mid": "40519",
+        "mname": "华为 nova 2 Plus",
+        "mrank": "31"
+    },
+    {
+        "mid": "40518",
+        "mname": "华为 nova 2",
+        "mrank": "32"
+    },
+    {
+        "mid": "40124",
+        "mname": "华为 nova",
+        "mrank": "33"
+    },
+    {
+        "mid": "40131",
+        "mname": "华为 nova 青春版",
+        "mrank": "34"
+    },
+    {
+        "mid": "40522",
+        "mname": "华为 麦芒6",
+        "mrank": "35"
+    },
+    {
+        "mid": "40122",
+        "mname": "华为 麦芒5",
+        "mrank": "36"
+    },
+    {
+        "mid": "40121",
+        "mname": "华为 麦芒4",
+        "mrank": "37"
+    },
+    {
+        "mid": "40120",
+        "mname": "华为 麦芒2",
+        "mrank": "38"
+    },
+    {
+        "mid": "40532",
+        "mname": "华为 畅享8e 青春版",
+        "mrank": "39"
+    },
+    {
+        "mid": "210037",
+        "mname": "华为 畅享8e",
+        "mrank": "40"
+    },
+    {
+        "mid": "40530",
+        "mname": "华为 畅享8 Plus",
+        "mrank": "41"
+    },
+    {
+        "mid": "40529",
+        "mname": "华为 畅享8",
+        "mrank": "42"
+    },
+    {
+        "mid": "40523",
+        "mname": "华为 畅享7S",
+        "mrank": "43"
+    },
+    {
+        "mid": "40517",
+        "mname": "华为 畅享7 Plus",
+        "mrank": "44"
+    },
+    {
+        "mid": "40516",
+        "mname": "华为 畅享7",
+        "mrank": "45"
+    },
+    {
+        "mid": "40129",
+        "mname": "华为 畅享6S",
+        "mrank": "46"
+    },
+    {
+        "mid": "40127",
+        "mname": "华为 畅享6",
+        "mrank": "47"
+    },
+    {
+        "mid": "40119",
+        "mname": "华为 畅享5S",
+        "mrank": "48"
+    },
+    {
+        "mid": "40118",
+        "mname": "华为 畅享5",
+        "mrank": "49"
+    },
+    {
+        "mid": "40050",
+        "mname": "华为 G9 青春版",
+        "mrank": "50"
+    },
+    {
+        "mid": "40123",
+        "mname": "华为 G9 Plus",
+        "mrank": "51"
+    },
+    {
+        "mid": "40044",
+        "mname": "华为 G7 Plus",
+        "mrank": "52"
+    },
+    {
+        "mid": "40043",
+        "mname": "华为 G7",
+        "mrank": "53"
+    },
+    {
+        "mid": "40032",
+        "mname": "华为 G6",
+        "mrank": "54"
+    },
+    {
+        "mid": "40146",
+        "mname": "华为 G735",
+        "mrank": "55"
+    },
+    {
+        "mid": "40049",
+        "mname": "华为 G730",
+        "mrank": "56"
+    },
+    {
+        "mid": "40048",
+        "mname": "华为 G718",
+        "mrank": "57"
+    },
+    {
+        "mid": "40047",
+        "mname": "华为 G716",
+        "mrank": "58"
+    },
+    {
+        "mid": "40001",
+        "mname": "华为 A199",
+        "mrank": "59"
+    },
+    {
+        "mid": "40045",
+        "mname": "华为 G700",
+        "mrank": "60"
+    },
+    {
+        "mid": "40313",
+        "mname": "华为 G6620",
+        "mrank": "61"
+    },
+    {
+        "mid": "40312",
+        "mname": "华为 G6610V",
+        "mrank": "62"
+    },
+    {
+        "mid": "40311",
+        "mname": "华为 G6610",
+        "mrank": "63"
+    },
+    {
+        "mid": "40310",
+        "mname": "华为 G6609",
+        "mrank": "64"
+    },
+    {
+        "mid": "40309",
+        "mname": "华为 G6608",
+        "mrank": "65"
+    },
+    {
+        "mid": "40308",
+        "mname": "华为 G6605",
+        "mrank": "66"
+    },
+    {
+        "mid": "40307",
+        "mname": "华为 G6603",
+        "mrank": "67"
+    },
+    {
+        "mid": "40306",
+        "mname": "华为 G6600E",
+        "mrank": "68"
+    },
+    {
+        "mid": "40305",
+        "mname": "华为 G6600D",
+        "mrank": "69"
+    },
+    {
+        "mid": "40303",
+        "mname": "华为 G6600",
+        "mrank": "70"
+    },
+    {
+        "mid": "40042",
+        "mname": "华为 G660",
+        "mrank": "71"
+    },
+    {
+        "mid": "40302",
+        "mname": "华为 G6310",
+        "mrank": "72"
+    },
+    {
+        "mid": "40041",
+        "mname": "华为 G630",
+        "mrank": "73"
+    },
+    {
+        "mid": "40136",
+        "mname": "华为 G629",
+        "mrank": "74"
+    },
+    {
+        "mid": "40040",
+        "mname": "华为 G628",
+        "mrank": "75"
+    },
+    {
+        "mid": "40039",
+        "mname": "华为 G620",
+        "mrank": "76"
+    },
+    {
+        "mid": "40038",
+        "mname": "华为 G616",
+        "mrank": "77"
+    },
+    {
+        "mid": "40301",
+        "mname": "华为 G6153",
+        "mrank": "78"
+    },
+    {
+        "mid": "40300",
+        "mname": "华为 G6151",
+        "mrank": "79"
+    },
+    {
+        "mid": "40299",
+        "mname": "华为 G6150",
+        "mrank": "80"
+    },
+    {
+        "mid": "40037",
+        "mname": "华为 G615",
+        "mrank": "81"
+    },
+    {
+        "mid": "40034",
+        "mname": "华为 G610",
+        "mrank": "82"
+    },
+    {
+        "mid": "40033",
+        "mname": "华为 G606",
+        "mrank": "83"
+    },
+    {
+        "mid": "40298",
+        "mname": "华为 G6050",
+        "mrank": "84"
+    },
+    {
+        "mid": "40296",
+        "mname": "华为 G6008",
+        "mrank": "85"
+    },
+    {
+        "mid": "40295",
+        "mname": "华为 G6007",
+        "mrank": "86"
+    },
+    {
+        "mid": "40294",
+        "mname": "华为 G6006",
+        "mrank": "87"
+    },
+    {
+        "mid": "40293",
+        "mname": "华为 G6005",
+        "mrank": "88"
+    },
+    {
+        "mid": "40292",
+        "mname": "华为 G6003",
+        "mrank": "89"
+    },
+    {
+        "mid": "40297",
+        "mname": "华为 G600",
+        "mrank": "90"
+    },
+    {
+        "mid": "40291",
+        "mname": "华为 G5760",
+        "mrank": "91"
+    },
+    {
+        "mid": "40290",
+        "mname": "华为 G5730",
+        "mrank": "92"
+    },
+    {
+        "mid": "40289",
+        "mname": "华为 G5726",
+        "mrank": "93"
+    },
+    {
+        "mid": "40288",
+        "mname": "华为 G5521",
+        "mrank": "94"
+    },
+    {
+        "mid": "40287",
+        "mname": "华为 G5520",
+        "mrank": "95"
+    },
+    {
+        "mid": "40286",
+        "mname": "华为 G5510",
+        "mrank": "96"
+    },
+    {
+        "mid": "40285",
+        "mname": "华为 G5500",
+        "mrank": "97"
+    },
+    {
+        "mid": "40284",
+        "mname": "华为 G535",
+        "mrank": "98"
+    },
+    {
+        "mid": "40283",
+        "mname": "华为 G527",
+        "mrank": "99"
+    },
+    {
+        "mid": "40282",
+        "mname": "华为 G526",
+        "mrank": "100"
+    },
+    {
+        "mid": "40031",
+        "mname": "华为 G525",
+        "mrank": "101"
+    },
+    {
+        "mid": "40030",
+        "mname": "华为 G521",
+        "mrank": "102"
+    },
+    {
+        "mid": "40029",
+        "mname": "华为 G520",
+        "mrank": "103"
+    },
+    {
+        "mid": "40028",
+        "mname": "华为 G510",
+        "mrank": "104"
+    },
+    {
+        "mid": "40281",
+        "mname": "华为 G506",
+        "mrank": "105"
+    },
+    {
+        "mid": "40280",
+        "mname": "华为 G5010",
+        "mrank": "106"
+    },
+    {
+        "mid": "40279",
+        "mname": "华为 G5000",
+        "mrank": "107"
+    },
+    {
+        "mid": "40278",
+        "mname": "华为 G3702",
+        "mrank": "108"
+    },
+    {
+        "mid": "40277",
+        "mname": "华为 G3622",
+        "mrank": "109"
+    },
+    {
+        "mid": "40276",
+        "mname": "华为 G3621L",
+        "mrank": "110"
+    },
+    {
+        "mid": "40275",
+        "mname": "华为 G3621",
+        "mrank": "111"
+    },
+    {
+        "mid": "40274",
+        "mname": "华为 G3620S",
+        "mrank": "112"
+    },
+    {
+        "mid": "40273",
+        "mname": "华为 G3620D",
+        "mrank": "113"
+    },
+    {
+        "mid": "40272",
+        "mname": "华为 G3620",
+        "mrank": "114"
+    },
+    {
+        "mid": "40271",
+        "mname": "华为 G3610",
+        "mrank": "115"
+    },
+    {
+        "mid": "40270",
+        "mname": "华为 G3512S",
+        "mrank": "116"
+    },
+    {
+        "mid": "40269",
+        "mname": "华为 G3512D",
+        "mrank": "117"
+    },
+    {
+        "mid": "40268",
+        "mname": "华为 G3512",
+        "mrank": "118"
+    },
+    {
+        "mid": "40267",
+        "mname": "华为 G3511",
+        "mrank": "119"
+    },
+    {
+        "mid": "40266",
+        "mname": "华为 G3510S",
+        "mrank": "120"
+    },
+    {
+        "mid": "40265",
+        "mname": "华为 G3510",
+        "mrank": "121"
+    },
+    {
+        "mid": "40264",
+        "mname": "华为 G3501T",
+        "mrank": "122"
+    },
+    {
+        "mid": "40263",
+        "mname": "华为 G3501",
+        "mrank": "123"
+    },
+    {
+        "mid": "40262",
+        "mname": "华为 G3500",
+        "mrank": "124"
+    },
+    {
+        "mid": "40027",
+        "mname": "华为 G350",
+        "mrank": "125"
+    },
+    {
+        "mid": "40261",
+        "mname": "华为 G2802S",
+        "mrank": "126"
+    },
+    {
+        "mid": "40260",
+        "mname": "华为 G2802",
+        "mrank": "127"
+    },
+    {
+        "mid": "40259",
+        "mname": "华为 G2800S",
+        "mrank": "128"
+    },
+    {
+        "mid": "40258",
+        "mname": "华为 G2800D",
+        "mrank": "129"
+    },
+    {
+        "mid": "40257",
+        "mname": "华为 G2800",
+        "mrank": "130"
+    },
+    {
+        "mid": "40256",
+        "mname": "华为 G2201C",
+        "mrank": "131"
+    },
+    {
+        "mid": "40255",
+        "mname": "华为 G2201",
+        "mrank": "132"
+    },
+    {
+        "mid": "40254",
+        "mname": "华为 G2200C",
+        "mrank": "133"
+    },
+    {
+        "mid": "40253",
+        "mname": "华为 G2200",
+        "mrank": "134"
+    },
+    {
+        "mid": "40252",
+        "mname": "华为 G2158",
+        "mrank": "135"
+    },
+    {
+        "mid": "40251",
+        "mname": "华为 G2157",
+        "mrank": "136"
+    },
+    {
+        "mid": "40250",
+        "mname": "华为 G2103",
+        "mrank": "137"
+    },
+    {
+        "mid": "40249",
+        "mname": "华为 G2101",
+        "mrank": "138"
+    },
+    {
+        "mid": "40248",
+        "mname": "华为 G2100",
+        "mrank": "139"
+    },
+    {
+        "mid": "40247",
+        "mname": "华为 G1158",
+        "mrank": "140"
+    },
+    {
+        "mid": "40246",
+        "mname": "华为 G1157",
+        "mrank": "141"
+    },
+    {
+        "mid": "40245",
+        "mname": "华为 G1103",
+        "mrank": "142"
+    },
+    {
+        "mid": "40244",
+        "mname": "华为 G1101",
+        "mrank": "143"
+    },
+    {
+        "mid": "40243",
+        "mname": "华为 G1000",
+        "mrank": "144"
+    },
+    {
+        "mid": "40051",
+        "mname": "华为 GX1",
+        "mrank": "145"
+    },
+    {
+        "mid": "40314",
+        "mname": "华为 G play mini",
+        "mrank": "146"
+    },
+    {
+        "mid": "40157",
+        "mname": "华为 Edison-AL10",
+        "mrank": "147"
+    },
+    {
+        "mid": "40147",
+        "mname": "华为 EDGE-U00",
+        "mrank": "148"
+    },
+    {
+        "mid": "40242",
+        "mname": "华为 D51",
+        "mrank": "149"
+    },
+    {
+        "mid": "40026",
+        "mname": "华为 D2",
+        "mrank": "150"
+    },
+    {
+        "mid": "40025",
+        "mname": "华为 D1",
+        "mrank": "151"
+    },
+    {
+        "mid": "40241",
+        "mname": "华为 C9000",
+        "mrank": "152"
+    },
+    {
+        "mid": "40240",
+        "mname": "华为 C8869L",
+        "mrank": "153"
+    },
+    {
+        "mid": "40024",
+        "mname": "华为 C8860",
+        "mrank": "154"
+    },
+    {
+        "mid": "40239",
+        "mname": "华为 C8850",
+        "mrank": "155"
+    },
+    {
+        "mid": "40022",
+        "mname": "华为 C8833",
+        "mrank": "156"
+    },
+    {
+        "mid": "40021",
+        "mname": "华为 C8826D",
+        "mrank": "157"
+    },
+    {
+        "mid": "40238",
+        "mname": "华为 C8826",
+        "mrank": "158"
+    },
+    {
+        "mid": "40020",
+        "mname": "华为 C8825D",
+        "mrank": "159"
+    },
+    {
+        "mid": "40138",
+        "mname": "华为 C8818",
+        "mrank": "160"
+    },
+    {
+        "mid": "40137",
+        "mname": "华为 C8817E",
+        "mrank": "161"
+    },
+    {
+        "mid": "40018",
+        "mname": "华为 C8817",
+        "mrank": "162"
+    },
+    {
+        "mid": "40016",
+        "mname": "华为 C8816",
+        "mrank": "163"
+    },
+    {
+        "mid": "40015",
+        "mname": "华为 C8815",
+        "mrank": "164"
+    },
+    {
+        "mid": "40012",
+        "mname": "华为 C8813",
+        "mrank": "165"
+    },
+    {
+        "mid": "40010",
+        "mname": "华为 C8812",
+        "mrank": "166"
+    },
+    {
+        "mid": "40009",
+        "mname": "华为 C8810",
+        "mrank": "167"
+    },
+    {
+        "mid": "40237",
+        "mname": "华为 C8800",
+        "mrank": "168"
+    },
+    {
+        "mid": "40236",
+        "mname": "华为 C8685D",
+        "mrank": "169"
+    },
+    {
+        "mid": "40008",
+        "mname": "华为 C8655",
+        "mrank": "170"
+    },
+    {
+        "mid": "40235",
+        "mname": "华为 C8652",
+        "mrank": "171"
+    },
+    {
+        "mid": "40234",
+        "mname": "华为 C8651",
+        "mrank": "172"
+    },
+    {
+        "mid": "40233",
+        "mname": "华为 C8650E",
+        "mrank": "173"
+    },
+    {
+        "mid": "40007",
+        "mname": "华为 C8650",
+        "mrank": "174"
+    },
+    {
+        "mid": "40232",
+        "mname": "华为 C8600",
+        "mrank": "175"
+    },
+    {
+        "mid": "40231",
+        "mname": "华为 C8550",
+        "mrank": "176"
+    },
+    {
+        "mid": "40230",
+        "mname": "华为 C8512",
+        "mrank": "177"
+    },
+    {
+        "mid": "40229",
+        "mname": "华为 C8511",
+        "mrank": "178"
+    },
+    {
+        "mid": "40006",
+        "mname": "华为 C8500S",
+        "mrank": "179"
+    },
+    {
+        "mid": "40228",
+        "mname": "华为 C8500",
+        "mrank": "180"
+    },
+    {
+        "mid": "40005",
+        "mname": "华为 C8300",
+        "mrank": "181"
+    },
+    {
+        "mid": "40227",
+        "mname": "华为 C8150",
+        "mrank": "182"
+    },
+    {
+        "mid": "40226",
+        "mname": "华为 C8100",
+        "mrank": "183"
+    },
+    {
+        "mid": "40225",
+        "mname": "华为 C8000",
+        "mrank": "184"
+    },
+    {
+        "mid": "40224",
+        "mname": "华为 C7600",
+        "mrank": "185"
+    },
+    {
+        "mid": "40223",
+        "mname": "华为 C7300",
+        "mrank": "186"
+    },
+    {
+        "mid": "40222",
+        "mname": "华为 C7266",
+        "mrank": "187"
+    },
+    {
+        "mid": "40221",
+        "mname": "华为 C7260",
+        "mrank": "188"
+    },
+    {
+        "mid": "40220",
+        "mname": "华为 C7189",
+        "mrank": "189"
+    },
+    {
+        "mid": "40219",
+        "mname": "华为 C7100",
+        "mrank": "190"
+    },
+    {
+        "mid": "40218",
+        "mname": "华为 C6300",
+        "mrank": "191"
+    },
+    {
+        "mid": "40217",
+        "mname": "华为 C6200",
+        "mrank": "192"
+    },
+    {
+        "mid": "40216",
+        "mname": "华为 C6111",
+        "mrank": "193"
+    },
+    {
+        "mid": "40215",
+        "mname": "华为 C6110",
+        "mrank": "194"
+    },
+    {
+        "mid": "40214",
+        "mname": "华为 C6100",
+        "mrank": "195"
+    },
+    {
+        "mid": "40213",
+        "mname": "华为 C6071",
+        "mrank": "196"
+    },
+    {
+        "mid": "40212",
+        "mname": "华为 C6050",
+        "mrank": "197"
+    },
+    {
+        "mid": "40211",
+        "mname": "华为 C6005",
+        "mrank": "198"
+    },
+    {
+        "mid": "40210",
+        "mname": "华为 C6000",
+        "mrank": "199"
+    },
+    {
+        "mid": "40209",
+        "mname": "华为 C5900",
+        "mrank": "200"
+    },
+    {
+        "mid": "40537",
+        "mname": "华为 麦芒7",
+        "mrank": "200"
+    },
+    {
+        "mid": "40208",
+        "mname": "华为 C5800",
+        "mrank": "201"
+    },
+    {
+        "mid": "40207",
+        "mname": "华为 C5737",
+        "mrank": "202"
+    },
+    {
+        "mid": "40206",
+        "mname": "华为 C5736",
+        "mrank": "203"
+    },
+    {
+        "mid": "40205",
+        "mname": "华为 C5735",
+        "mrank": "204"
+    },
+    {
+        "mid": "40204",
+        "mname": "华为 C5730",
+        "mrank": "205"
+    },
+    {
+        "mid": "40203",
+        "mname": "华为 C5720",
+        "mrank": "206"
+    },
+    {
+        "mid": "40202",
+        "mname": "华为 C5710",
+        "mrank": "207"
+    },
+    {
+        "mid": "40201",
+        "mname": "华为 C5700",
+        "mrank": "208"
+    },
+    {
+        "mid": "40200",
+        "mname": "华为 C5635",
+        "mrank": "209"
+    },
+    {
+        "mid": "40199",
+        "mname": "华为 C5630",
+        "mrank": "210"
+    },
+    {
+        "mid": "40198",
+        "mname": "华为 C5610",
+        "mrank": "211"
+    },
+    {
+        "mid": "40197",
+        "mname": "华为 C5600",
+        "mrank": "212"
+    },
+    {
+        "mid": "40196",
+        "mname": "华为 C5300",
+        "mrank": "213"
+    },
+    {
+        "mid": "40195",
+        "mname": "华为 C5120",
+        "mrank": "214"
+    },
+    {
+        "mid": "40194",
+        "mname": "华为 C5110",
+        "mrank": "215"
+    },
+    {
+        "mid": "40193",
+        "mname": "华为 C5100",
+        "mrank": "216"
+    },
+    {
+        "mid": "40192",
+        "mname": "华为 C5070",
+        "mrank": "217"
+    },
+    {
+        "mid": "40191",
+        "mname": "华为 C5060",
+        "mrank": "218"
+    },
+    {
+        "mid": "40190",
+        "mname": "华为 C3500",
+        "mrank": "219"
+    },
+    {
+        "mid": "40189",
+        "mname": "华为 C3300",
+        "mrank": "220"
+    },
+    {
+        "mid": "40188",
+        "mname": "华为 C3200",
+        "mrank": "221"
+    },
+    {
+        "mid": "40187",
+        "mname": "华为 C3105",
+        "mrank": "222"
+    },
+    {
+        "mid": "40004",
+        "mname": "华为 C3100",
+        "mrank": "223"
+    },
+    {
+        "mid": "40186",
+        "mname": "华为 C2931",
+        "mrank": "224"
+    },
+    {
+        "mid": "40185",
+        "mname": "华为 C2930T",
+        "mrank": "225"
+    },
+    {
+        "mid": "40184",
+        "mname": "华为 C2930",
+        "mrank": "226"
+    },
+    {
+        "mid": "40183",
+        "mname": "华为 C2907",
+        "mrank": "227"
+    },
+    {
+        "mid": "40182",
+        "mname": "华为 C2906",
+        "mrank": "228"
+    },
+    {
+        "mid": "40181",
+        "mname": "华为 C2900I",
+        "mrank": "229"
+    },
+    {
+        "mid": "40180",
+        "mname": "华为 C2900",
+        "mrank": "230"
+    },
+    {
+        "mid": "40179",
+        "mname": "华为 C2857",
+        "mrank": "231"
+    },
+    {
+        "mid": "40178",
+        "mname": "华为 C2856S",
+        "mrank": "232"
+    },
+    {
+        "mid": "40177",
+        "mname": "华为 C2856",
+        "mrank": "233"
+    },
+    {
+        "mid": "40176",
+        "mname": "华为 C2835D",
+        "mrank": "234"
+    },
+    {
+        "mid": "40175",
+        "mname": "华为 C2835",
+        "mrank": "235"
+    },
+    {
+        "mid": "40174",
+        "mname": "华为 C2831",
+        "mrank": "236"
+    },
+    {
+        "mid": "40173",
+        "mname": "华为 C2830",
+        "mrank": "237"
+    },
+    {
+        "mid": "40172",
+        "mname": "华为 C2829",
+        "mrank": "238"
+    },
+    {
+        "mid": "40171",
+        "mname": "华为 C2828",
+        "mrank": "239"
+    },
+    {
+        "mid": "40170",
+        "mname": "华为 C2827",
+        "mrank": "240"
+    },
+    {
+        "mid": "40169",
+        "mname": "华为 C2823",
+        "mrank": "241"
+    },
+    {
+        "mid": "40168",
+        "mname": "华为 C2822",
+        "mrank": "242"
+    },
+    {
+        "mid": "40167",
+        "mname": "华为 C2809",
+        "mrank": "243"
+    },
+    {
+        "mid": "40166",
+        "mname": "华为 C2808",
+        "mrank": "244"
+    },
+    {
+        "mid": "40165",
+        "mname": "华为 C2807",
+        "mrank": "245"
+    },
+    {
+        "mid": "40164",
+        "mname": "华为 C2806",
+        "mrank": "246"
+    },
+    {
+        "mid": "40163",
+        "mname": "华为 C2610S",
+        "mrank": "247"
+    },
+    {
+        "mid": "40162",
+        "mname": "华为 C2610",
+        "mrank": "248"
+    },
+    {
+        "mid": "40161",
+        "mname": "华为 C2609",
+        "mrank": "249"
+    },
+    {
+        "mid": "40160",
+        "mname": "华为 C2281",
+        "mrank": "250"
+    },
+    {
+        "mid": "40159",
+        "mname": "华为 C2206",
+        "mrank": "251"
+    },
+    {
+        "mid": "40158",
+        "mname": "华为 C210E",
+        "mrank": "252"
+    },
+    {
+        "mid": "40003",
+        "mname": "华为 C199S",
+        "mrank": "253"
+    },
+    {
+        "mid": "40002",
+        "mname": "华为 C199",
+        "mrank": "254"
+    },
+    {
+        "mid": "40117",
+        "mname": "华为 Y635",
+        "mrank": "255"
+    },
+    {
+        "mid": "40145",
+        "mname": "华为 Y625",
+        "mrank": "256"
+    },
+    {
+        "mid": "40116",
+        "mname": "华为 Y618",
+        "mrank": "257"
+    },
+    {
+        "mid": "40115",
+        "mname": "华为 Y610",
+        "mrank": "258"
+    },
+    {
+        "mid": "40114",
+        "mname": "华为 Y600",
+        "mrank": "259"
+    },
+    {
+        "mid": "40113",
+        "mname": "华为 Y560",
+        "mrank": "260"
+    },
+    {
+        "mid": "40144",
+        "mname": "华为 Y550",
+        "mrank": "261"
+    },
+    {
+        "mid": "40143",
+        "mname": "华为 Y541",
+        "mrank": "262"
+    },
+    {
+        "mid": "40142",
+        "mname": "华为 Y538",
+        "mrank": "263"
+    },
+    {
+        "mid": "40141",
+        "mname": "华为 Y536",
+        "mrank": "264"
+    },
+    {
+        "mid": "40112",
+        "mname": "华为 Y535",
+        "mrank": "265"
+    },
+    {
+        "mid": "40156",
+        "mname": "华为 Y530",
+        "mrank": "266"
+    },
+    {
+        "mid": "40111",
+        "mname": "华为 Y523",
+        "mrank": "267"
+    },
+    {
+        "mid": "40140",
+        "mname": "华为 Y520",
+        "mrank": "268"
+    },
+    {
+        "mid": "40110",
+        "mname": "华为 Y518",
+        "mrank": "269"
+    },
+    {
+        "mid": "40109",
+        "mname": "华为 Y516",
+        "mrank": "270"
+    },
+    {
+        "mid": "40108",
+        "mname": "华为 Y511",
+        "mrank": "271"
+    },
+    {
+        "mid": "40107",
+        "mname": "华为 Y500",
+        "mrank": "272"
+    },
+    {
+        "mid": "40154",
+        "mname": "华为 Y360",
+        "mrank": "273"
+    },
+    {
+        "mid": "40106",
+        "mname": "华为 Y330",
+        "mrank": "274"
+    },
+    {
+        "mid": "40105",
+        "mname": "华为 Y325",
+        "mrank": "275"
+    },
+    {
+        "mid": "40104",
+        "mname": "华为 Y321C",
+        "mrank": "276"
+    },
+    {
+        "mid": "40102",
+        "mname": "华为 Y320",
+        "mrank": "277"
+    },
+    {
+        "mid": "40101",
+        "mname": "华为 Y310",
+        "mrank": "278"
+    },
+    {
+        "mid": "40139",
+        "mname": "华为 Y221",
+        "mrank": "279"
+    },
+    {
+        "mid": "40100",
+        "mname": "华为 Y220T",
+        "mrank": "280"
+    },
+    {
+        "mid": "40098",
+        "mname": "华为 Y210",
+        "mrank": "281"
+    },
+    {
+        "mid": "40095",
+        "mname": "华为 U9508",
+        "mrank": "282"
+    },
+    {
+        "mid": "40094",
+        "mname": "华为 U9200E",
+        "mrank": "283"
+    },
+    {
+        "mid": "40093",
+        "mname": "华为 U9200",
+        "mrank": "284"
+    },
+    {
+        "mid": "40092",
+        "mname": "华为 U9000",
+        "mrank": "285"
+    },
+    {
+        "mid": "40091",
+        "mname": "华为 U8860",
+        "mrank": "286"
+    },
+    {
+        "mid": "40089",
+        "mname": "华为 U8833",
+        "mrank": "287"
+    },
+    {
+        "mid": "40088",
+        "mname": "华为 U8832D",
+        "mrank": "288"
+    },
+    {
+        "mid": "40087",
+        "mname": "华为 U8825D",
+        "mrank": "289"
+    },
+    {
+        "mid": "40086",
+        "mname": "华为 U8818",
+        "mrank": "290"
+    },
+    {
+        "mid": "40085",
+        "mname": "华为 U8812D",
+        "mrank": "291"
+    },
+    {
+        "mid": "40084",
+        "mname": "华为 U8800+",
+        "mrank": "292"
+    },
+    {
+        "mid": "40083",
+        "mname": "华为 U8800",
+        "mrank": "293"
+    },
+    {
+        "mid": "40082",
+        "mname": "华为 U8661",
+        "mrank": "294"
+    },
+    {
+        "mid": "40081",
+        "mname": "华为 U8660",
+        "mrank": "295"
+    },
+    {
+        "mid": "40080",
+        "mname": "华为 U8650",
+        "mrank": "296"
+    },
+    {
+        "mid": "40079",
+        "mname": "华为 U8520",
+        "mrank": "297"
+    },
+    {
+        "mid": "40078",
+        "mname": "华为 U8230",
+        "mrank": "298"
+    },
+    {
+        "mid": "40151",
+        "mname": "华为 U5760",
+        "mrank": "299"
+    },
+    {
+        "mid": "40150",
+        "mname": "华为 U5130",
+        "mrank": "300"
+    },
+    {
+        "mid": "40077",
+        "mname": "华为 T9510E",
+        "mrank": "301"
+    },
+    {
+        "mid": "40076",
+        "mname": "华为 T9200",
+        "mrank": "302"
+    },
+    {
+        "mid": "40075",
+        "mname": "华为 T8833",
+        "mrank": "303"
+    },
+    {
+        "mid": "40074",
+        "mname": "华为 T8830",
+        "mrank": "304"
+    },
+    {
+        "mid": "40073",
+        "mname": "华为 T8828",
+        "mrank": "305"
+    },
+    {
+        "mid": "40072",
+        "mname": "华为 T8808D",
+        "mrank": "306"
+    },
+    {
+        "mid": "40071",
+        "mname": "华为 T8620",
+        "mrank": "307"
+    },
+    {
+        "mid": "40070",
+        "mname": "华为 T8500",
+        "mrank": "308"
+    },
+    {
+        "mid": "40069",
+        "mname": "华为 T8100",
+        "mrank": "309"
+    },
+    {
+        "mid": "40068",
+        "mname": "华为 S8600",
+        "mrank": "310"
+    },
+    {
+        "mid": "40097",
+        "mname": "华为 W2",
+        "mrank": "311"
+    },
+    {
+        "mid": "40096",
+        "mname": "华为 W1",
+        "mrank": "312"
+    },
+    {
+        "mid": "40058",
+        "mname": "华为 OPhone",
+        "mrank": "313"
+    },
+    {
+        "mid": "40052",
+        "mname": "华为 M860",
+        "mrank": "314"
+    },
+    {
+        "mid": "50051",
+        "mname": "小米手机8 透明探索版",
+        "mrank": "1"
+    },
+    {
+        "mid": "50048",
+        "mname": "小米手机8",
+        "mrank": "2"
+    },
+    {
+        "mid": "50049",
+        "mname": "小米手机8 SE",
+        "mrank": "3"
+    },
+    {
+        "mid": "50046",
+        "mname": "小米 MIX2S",
+        "mrank": "4"
+    },
+    {
+        "mid": "50038",
+        "mname": "小米 MIX2",
+        "mrank": "5"
+    },
+    {
+        "mid": "50029",
+        "mname": "小米 MIX",
+        "mrank": "6"
+    },
+    {
+        "mid": "50052",
+        "mname": "黑鲨手机",
+        "mrank": "7"
+    },
+    {
+        "mid": "50057",
+        "mname": "小米Max 3",
+        "mrank": "8"
+    },
+    {
+        "mid": "50036",
+        "mname": "小米Max 2",
+        "mrank": "9"
+    },
+    {
+        "mid": "50010",
+        "mname": "小米Max",
+        "mrank": "10"
+    },
+    {
+        "mid": "50037",
+        "mname": "小米Note 3",
+        "mrank": "11"
+    },
+    {
+        "mid": "50028",
+        "mname": "小米Note 2",
+        "mrank": "12"
+    },
+    {
+        "mid": "50011",
+        "mname": "小米Note",
+        "mrank": "13"
+    },
+    {
+        "mid": "50035",
+        "mname": "小米手机6",
+        "mrank": "14"
+    },
+    {
+        "mid": "50047",
+        "mname": "小米手机6X",
+        "mrank": "15"
+    },
+    {
+        "mid": "50040",
+        "mname": "小米手机5X",
+        "mrank": "16"
+    },
+    {
+        "mid": "50027",
+        "mname": "小米手机5s Plus",
+        "mrank": "17"
+    },
+    {
+        "mid": "50026",
+        "mname": "小米手机5s",
+        "mrank": "18"
+    },
+    {
+        "mid": "50033",
+        "mname": "小米手机5c",
+        "mrank": "19"
+    },
+    {
+        "mid": "50022",
+        "mname": "小米手机5",
+        "mrank": "20"
+    },
+    {
+        "mid": "50021",
+        "mname": "小米手机4s",
+        "mrank": "21"
+    },
+    {
+        "mid": "50020",
+        "mname": "小米手机4c",
+        "mrank": "22"
+    },
+    {
+        "mid": "50019",
+        "mname": "小米手机4",
+        "mrank": "23"
+    },
+    {
+        "mid": "50018",
+        "mname": "小米手机3",
+        "mrank": "24"
+    },
+    {
+        "mid": "50017",
+        "mname": "小米手机2s",
+        "mrank": "25"
+    },
+    {
+        "mid": "50016",
+        "mname": "小米手机2A",
+        "mrank": "26"
+    },
+    {
+        "mid": "50015",
+        "mname": "小米手机2",
+        "mrank": "27"
+    },
+    {
+        "mid": "50013",
+        "mname": "小米手机1s",
+        "mrank": "28"
+    },
+    {
+        "mid": "50012",
+        "mname": "小米手机1",
+        "mrank": "29"
+    },
+    {
+        "mid": "50023",
+        "mname": "红米手机Pro",
+        "mrank": "30"
+    },
+    {
+        "mid": "50056",
+        "mname": "红米手机6 Pro",
+        "mrank": "31"
+    },
+    {
+        "mid": "50053",
+        "mname": "红米手机S2",
+        "mrank": "32"
+    },
+    {
+        "mid": "50054",
+        "mname": "红米手机6A",
+        "mrank": "33"
+    },
+    {
+        "mid": "50055",
+        "mname": "红米手机6",
+        "mrank": "34"
+    },
+    {
+        "mid": "50044",
+        "mname": "红米手机5A",
+        "mrank": "35"
+    },
+    {
+        "mid": "50043",
+        "mname": "红米手机5 Plus",
+        "mrank": "36"
+    },
+    {
+        "mid": "50042",
+        "mname": "红米手机5",
+        "mrank": "37"
+    },
+    {
+        "mid": "50034",
+        "mname": "红米手机4X",
+        "mrank": "38"
+    },
+    {
+        "mid": "50031",
+        "mname": "红米手机4A",
+        "mrank": "39"
+    },
+    {
+        "mid": "50030",
+        "mname": "红米手机4",
+        "mrank": "40"
+    },
+    {
+        "mid": "50024",
+        "mname": "红米手机3X",
+        "mrank": "41"
+    },
+    {
+        "mid": "50009",
+        "mname": "红米手机3s",
+        "mrank": "42"
+    },
+    {
+        "mid": "50008",
+        "mname": "红米手机3",
+        "mrank": "43"
+    },
+    {
+        "mid": "50007",
+        "mname": "红米手机2A",
+        "mrank": "44"
+    },
+    {
+        "mid": "50006",
+        "mname": "红米手机2",
+        "mrank": "45"
+    },
+    {
+        "mid": "50005",
+        "mname": "红米手机1s",
+        "mrank": "46"
+    },
+    {
+        "mid": "50004",
+        "mname": "红米手机1",
+        "mrank": "47"
+    },
+    {
+        "mid": "50039",
+        "mname": "红米Note 5A",
+        "mrank": "48"
+    },
+    {
+        "mid": "50045",
+        "mname": "红米Note 5",
+        "mrank": "49"
+    },
+    {
+        "mid": "50032",
+        "mname": "红米Note 4X",
+        "mrank": "50"
+    },
+    {
+        "mid": "50025",
+        "mname": "红米Note 4",
+        "mrank": "51"
+    },
+    {
+        "mid": "50002",
+        "mname": "红米Note 3",
+        "mrank": "52"
+    },
+    {
+        "mid": "50001",
+        "mname": "红米Note 2",
+        "mrank": "53"
+    },
+    {
+        "mid": "50003",
+        "mname": "红米Note",
+        "mrank": "54"
+    },
+    {
+        "mid": "50058",
+        "mname": "小米手机8 屏幕指纹版",
+        "mrank": "200"
+    },
+    {
+        "mid": "50059",
+        "mname": "小米手机8 青春版",
+        "mrank": "200"
+    },
+    {
+        "mid": "60042",
+        "mname": "魅族 16th Plus",
+        "mrank": "1"
+    },
+    {
+        "mid": "60041",
+        "mname": "魅族 16th",
+        "mrank": "2"
+    },
+    {
+        "mid": "60040",
+        "mname": "魅蓝 E3",
+        "mrank": "3"
+    },
+    {
+        "mid": "60026",
+        "mname": "魅蓝 Note5",
+        "mrank": "4"
+    },
+    {
+        "mid": "60032",
+        "mname": "魅蓝 Note6",
+        "mrank": "5"
+    },
+    {
+        "mid": "60008",
+        "mname": "魅蓝 Note3",
+        "mrank": "6"
+    },
+    {
+        "mid": "60038",
+        "mname": "魅族 15 Plus",
+        "mrank": "7"
+    },
+    {
+        "mid": "60037",
+        "mname": "魅族 15",
+        "mrank": "8"
+    },
+    {
+        "mid": "60039",
+        "mname": "魅族 M15",
+        "mrank": "9"
+    },
+    {
+        "mid": "60033",
+        "mname": "魅族 Pro 7 Plus",
+        "mrank": "10"
+    },
+    {
+        "mid": "60034",
+        "mname": "魅族 Pro 7",
+        "mrank": "11"
+    },
+    {
+        "mid": "60024",
+        "mname": "魅族 Pro 6s",
+        "mrank": "12"
+    },
+    {
+        "mid": "60028",
+        "mname": "魅族 Pro 6 Plus",
+        "mrank": "13"
+    },
+    {
+        "mid": "60018",
+        "mname": "魅族 Pro 6",
+        "mrank": "14"
+    },
+    {
+        "mid": "60017",
+        "mname": "魅族 Pro 5",
+        "mrank": "15"
+    },
+    {
+        "mid": "60020",
+        "mname": "魅族 MX6",
+        "mrank": "16"
+    },
+    {
+        "mid": "60016",
+        "mname": "魅族 MX5",
+        "mrank": "17"
+    },
+    {
+        "mid": "60014",
+        "mname": "魅族 MX4 Pro",
+        "mrank": "18"
+    },
+    {
+        "mid": "60015",
+        "mname": "魅族 MX4",
+        "mrank": "19"
+    },
+    {
+        "mid": "60013",
+        "mname": "魅族 MX3",
+        "mrank": "20"
+    },
+    {
+        "mid": "60012",
+        "mname": "魅族 MX2",
+        "mrank": "21"
+    },
+    {
+        "mid": "60011",
+        "mname": "魅族 MX",
+        "mrank": "22"
+    },
+    {
+        "mid": "60010",
+        "mname": "魅族 M9",
+        "mrank": "23"
+    },
+    {
+        "mid": "60009",
+        "mname": "魅族 M8",
+        "mrank": "24"
+    },
+    {
+        "mid": "60036",
+        "mname": "魅蓝 S6",
+        "mrank": "25"
+    },
+    {
+        "mid": "60031",
+        "mname": "魅蓝 A5",
+        "mrank": "26"
+    },
+    {
+        "mid": "60043",
+        "mname": "魅蓝 6T",
+        "mrank": "27"
+    },
+    {
+        "mid": "60035",
+        "mname": "魅蓝 6",
+        "mrank": "28"
+    },
+    {
+        "mid": "60029",
+        "mname": "魅蓝 5s",
+        "mrank": "29"
+    },
+    {
+        "mid": "60025",
+        "mname": "魅蓝 5",
+        "mrank": "30"
+    },
+    {
+        "mid": "60004",
+        "mname": "魅蓝 3s",
+        "mrank": "31"
+    },
+    {
+        "mid": "60003",
+        "mname": "魅蓝 3",
+        "mrank": "32"
+    },
+    {
+        "mid": "60002",
+        "mname": "魅蓝 2",
+        "mrank": "33"
+    },
+    {
+        "mid": "60001",
+        "mname": "魅蓝",
+        "mrank": "34"
+    },
+    {
+        "mid": "60007",
+        "mname": "魅蓝 Note2",
+        "mrank": "35"
+    },
+    {
+        "mid": "60006",
+        "mname": "魅蓝 Note",
+        "mrank": "36"
+    },
+    {
+        "mid": "60030",
+        "mname": "魅蓝 E2",
+        "mrank": "37"
+    },
+    {
+        "mid": "60019",
+        "mname": "魅蓝 E",
+        "mrank": "38"
+    },
+    {
+        "mid": "60022",
+        "mname": "魅蓝 U20",
+        "mrank": "39"
+    },
+    {
+        "mid": "60021",
+        "mname": "魅蓝 U10",
+        "mrank": "40"
+    },
+    {
+        "mid": "60027",
+        "mname": "魅蓝 X",
+        "mrank": "41"
+    },
+    {
+        "mid": "60005",
+        "mname": "魅蓝 metal",
+        "mrank": "42"
+    },
+    {
+        "mid": "60023",
+        "mname": "魅蓝 Max",
+        "mrank": "43"
+    },
+    {
+        "mid": "60044",
+        "mname": "魅族 16X",
+        "mrank": "200"
+    },
+    {
+        "mid": "60045",
+        "mname": "魅族 V8",
+        "mrank": "200"
+    },
+    {
+        "mid": "70117",
+        "mname": "HTC 10 lifestyle",
+        "mrank": "1"
+    },
+    {
+        "mid": "70001",
+        "mname": "HTC 10",
+        "mrank": "2"
+    },
+    {
+        "mid": "70030",
+        "mname": "HTC Desire 820",
+        "mrank": "3"
+    },
+    {
+        "mid": "70107",
+        "mname": "HTC 霹雳2",
+        "mrank": "4"
+    },
+    {
+        "mid": "70106",
+        "mname": "HTC 霹雳",
+        "mrank": "5"
+    },
+    {
+        "mid": "70105",
+        "mname": "HTC Z510d",
+        "mrank": "6"
+    },
+    {
+        "mid": "70104",
+        "mname": "HTC XV6975",
+        "mrank": "7"
+    },
+    {
+        "mid": "70103",
+        "mname": "HTC X920e",
+        "mrank": "8"
+    },
+    {
+        "mid": "70102",
+        "mname": "HTC X710s",
+        "mrank": "9"
+    },
+    {
+        "mid": "70101",
+        "mname": "HTC X310e",
+        "mrank": "10"
+    },
+    {
+        "mid": "70120",
+        "mname": "HTC U12+",
+        "mrank": "11"
+    },
+    {
+        "mid": "70119",
+        "mname": "HTC U11+",
+        "mrank": "12"
+    },
+    {
+        "mid": "70118",
+        "mname": "HTC U11 EYEs",
+        "mrank": "13"
+    },
+    {
+        "mid": "70114",
+        "mname": "HTC U11",
+        "mrank": "14"
+    },
+    {
+        "mid": "70100",
+        "mname": "HTC T9199",
+        "mrank": "15"
+    },
+    {
+        "mid": "70099",
+        "mname": "HTC T9188",
+        "mrank": "16"
+    },
+    {
+        "mid": "70098",
+        "mname": "HTC T8698",
+        "mrank": "17"
+    },
+    {
+        "mid": "70097",
+        "mname": "HTC T8686",
+        "mrank": "18"
+    },
+    {
+        "mid": "70096",
+        "mname": "HTC T8588",
+        "mrank": "19"
+    },
+    {
+        "mid": "70095",
+        "mname": "HTC T5353",
+        "mrank": "20"
+    },
+    {
+        "mid": "70092",
+        "mname": "HTC T329",
+        "mrank": "21"
+    },
+    {
+        "mid": "70089",
+        "mname": "HTC T328",
+        "mrank": "22"
+    },
+    {
+        "mid": "70088",
+        "mname": "HTC T327w",
+        "mrank": "23"
+    },
+    {
+        "mid": "70087",
+        "mname": "HTC T327t",
+        "mrank": "24"
+    },
+    {
+        "mid": "70086",
+        "mname": "HTC T327d",
+        "mrank": "25"
+    },
+    {
+        "mid": "70085",
+        "mname": "HTC S610d",
+        "mrank": "26"
+    },
+    {
+        "mid": "70084",
+        "mname": "HTC S510d",
+        "mrank": "27"
+    },
+    {
+        "mid": "70083",
+        "mname": "HTC One XT",
+        "mrank": "28"
+    },
+    {
+        "mid": "70082",
+        "mname": "HTC One XL",
+        "mrank": "29"
+    },
+    {
+        "mid": "70081",
+        "mname": "HTC One XC",
+        "mrank": "30"
+    },
+    {
+        "mid": "70080",
+        "mname": "HTC One X9",
+        "mrank": "31"
+    },
+    {
+        "mid": "70079",
+        "mname": "HTC One X+",
+        "mrank": "32"
+    },
+    {
+        "mid": "70077",
+        "mname": "HTC One V",
+        "mrank": "33"
+    },
+    {
+        "mid": "70076",
+        "mname": "HTC One SV",
+        "mrank": "34"
+    },
+    {
+        "mid": "70075",
+        "mname": "HTC One S",
+        "mrank": "35"
+    },
+    {
+        "mid": "70074",
+        "mname": "HTC One Mini",
+        "mrank": "36"
+    },
+    {
+        "mid": "70073",
+        "mname": "HTC One Max",
+        "mrank": "37"
+    },
+    {
+        "mid": "70072",
+        "mname": "HTC One M9+",
+        "mrank": "38"
+    },
+    {
+        "mid": "70071",
+        "mname": "HTC One M9",
+        "mrank": "39"
+    },
+    {
+        "mid": "70108",
+        "mname": "HTC One M8 Eye M8Et",
+        "mrank": "40"
+    },
+    {
+        "mid": "70070",
+        "mname": "HTC One M8",
+        "mrank": "41"
+    },
+    {
+        "mid": "70069",
+        "mname": "HTC One M7",
+        "mrank": "42"
+    },
+    {
+        "mid": "70068",
+        "mname": "HTC One E9+",
+        "mrank": "43"
+    },
+    {
+        "mid": "70067",
+        "mname": "HTC One E9",
+        "mrank": "44"
+    },
+    {
+        "mid": "70066",
+        "mname": "HTC One E8",
+        "mrank": "45"
+    },
+    {
+        "mid": "70065",
+        "mname": "HTC One A9",
+        "mrank": "46"
+    },
+    {
+        "mid": "70064",
+        "mname": "HTC One",
+        "mrank": "47"
+    },
+    {
+        "mid": "70063",
+        "mname": "HTC Inspire 4G",
+        "mrank": "48"
+    },
+    {
+        "mid": "70062",
+        "mname": "HTC HD2",
+        "mrank": "49"
+    },
+    {
+        "mid": "70061",
+        "mname": "HTC G9",
+        "mrank": "50"
+    },
+    {
+        "mid": "70059",
+        "mname": "HTC G8",
+        "mrank": "51"
+    },
+    {
+        "mid": "70057",
+        "mname": "HTC G7",
+        "mrank": "52"
+    },
+    {
+        "mid": "70056",
+        "mname": "HTC G6",
+        "mrank": "53"
+    },
+    {
+        "mid": "70055",
+        "mname": "HTC G3",
+        "mrank": "54"
+    },
+    {
+        "mid": "70054",
+        "mname": "HTC G25",
+        "mrank": "55"
+    },
+    {
+        "mid": "70053",
+        "mname": "HTC G23",
+        "mrank": "56"
+    },
+    {
+        "mid": "70052",
+        "mname": "HTC G22",
+        "mrank": "57"
+    },
+    {
+        "mid": "70051",
+        "mname": "HTC G21",
+        "mrank": "58"
+    },
+    {
+        "mid": "70050",
+        "mname": "HTC G20",
+        "mrank": "59"
+    },
+    {
+        "mid": "70049",
+        "mname": "HTC G19",
+        "mrank": "60"
+    },
+    {
+        "mid": "70048",
+        "mname": "HTC G18",
+        "mrank": "61"
+    },
+    {
+        "mid": "70047",
+        "mname": "HTC G17",
+        "mrank": "62"
+    },
+    {
+        "mid": "70046",
+        "mname": "HTC G16",
+        "mrank": "63"
+    },
+    {
+        "mid": "70045",
+        "mname": "HTC G15",
+        "mrank": "64"
+    },
+    {
+        "mid": "70044",
+        "mname": "HTC G14",
+        "mrank": "65"
+    },
+    {
+        "mid": "70043",
+        "mname": "HTC G13",
+        "mrank": "66"
+    },
+    {
+        "mid": "70042",
+        "mname": "HTC G12",
+        "mrank": "67"
+    },
+    {
+        "mid": "70041",
+        "mname": "HTC G11",
+        "mrank": "68"
+    },
+    {
+        "mid": "70040",
+        "mname": "HTC G10",
+        "mrank": "69"
+    },
+    {
+        "mid": "70039",
+        "mname": "HTC Flyer",
+        "mrank": "70"
+    },
+    {
+        "mid": "70038",
+        "mname": "HTC E1 603e",
+        "mrank": "71"
+    },
+    {
+        "mid": "70037",
+        "mname": "HTC Droid Incredible",
+        "mrank": "72"
+    },
+    {
+        "mid": "70113",
+        "mname": "HTC Desire 830",
+        "mrank": "73"
+    },
+    {
+        "mid": "70033",
+        "mname": "HTC Desire 826w",
+        "mrank": "74"
+    },
+    {
+        "mid": "70032",
+        "mname": "HTC Desire 826t",
+        "mrank": "75"
+    },
+    {
+        "mid": "70115",
+        "mname": "HTC Desire 820 mini",
+        "mrank": "76"
+    },
+    {
+        "mid": "70029",
+        "mname": "HTC Desire 816",
+        "mrank": "77"
+    },
+    {
+        "mid": "70023",
+        "mname": "HTC Desire 728",
+        "mrank": "78"
+    },
+    {
+        "mid": "70022",
+        "mname": "HTC Desire 709d",
+        "mrank": "79"
+    },
+    {
+        "mid": "70021",
+        "mname": "HTC Desire 7088",
+        "mrank": "80"
+    },
+    {
+        "mid": "70020",
+        "mname": "HTC Desire 7060",
+        "mrank": "81"
+    },
+    {
+        "mid": "70019",
+        "mname": "HTC Desire 700",
+        "mrank": "82"
+    },
+    {
+        "mid": "70110",
+        "mname": "HTC Desire 626",
+        "mrank": "83"
+    },
+    {
+        "mid": "70018",
+        "mname": "HTC Desire 6160",
+        "mrank": "84"
+    },
+    {
+        "mid": "70017",
+        "mname": "HTC Desire 610t",
+        "mrank": "85"
+    },
+    {
+        "mid": "70016",
+        "mname": "HTC Desire 609d",
+        "mrank": "86"
+    },
+    {
+        "mid": "70015",
+        "mname": "HTC Desire 608t",
+        "mrank": "87"
+    },
+    {
+        "mid": "70014",
+        "mname": "HTC Desire 606w",
+        "mrank": "88"
+    },
+    {
+        "mid": "70036",
+        "mname": "HTC Desire 516",
+        "mrank": "89"
+    },
+    {
+        "mid": "70013",
+        "mname": "HTC Desire 5088",
+        "mrank": "90"
+    },
+    {
+        "mid": "70012",
+        "mname": "HTC Desire 5060",
+        "mrank": "91"
+    },
+    {
+        "mid": "70011",
+        "mname": "HTC Desire 316d",
+        "mrank": "92"
+    },
+    {
+        "mid": "70010",
+        "mname": "HTC Desire 310w",
+        "mrank": "93"
+    },
+    {
+        "mid": "70112",
+        "mname": "HTC Desire 10 Pro",
+        "mrank": "94"
+    },
+    {
+        "mid": "70009",
+        "mname": "HTC C715e",
+        "mrank": "95"
+    },
+    {
+        "mid": "70008",
+        "mname": "HTC C110e",
+        "mrank": "96"
+    },
+    {
+        "mid": "70007",
+        "mname": "HTC Butterfly S",
+        "mrank": "97"
+    },
+    {
+        "mid": "70006",
+        "mname": "HTC A9188",
+        "mrank": "98"
+    },
+    {
+        "mid": "70005",
+        "mname": "HTC A310e",
+        "mrank": "99"
+    },
+    {
+        "mid": "70004",
+        "mname": "HTC 8X",
+        "mrank": "100"
+    },
+    {
+        "mid": "70003",
+        "mname": "HTC 8S",
+        "mrank": "101"
+    },
+    {
+        "mid": "70002",
+        "mname": "HTC 301e",
+        "mrank": "102"
+    },
+    {
+        "mid": "80112",
+        "mname": "vivo X23",
+        "mrank": "0"
+    },
+    {
+        "mid": "80113",
+        "mname": "vivo Y81s",
+        "mrank": "0"
+    },
+    {
+        "mid": "80110",
+        "mname": "vivo NEX",
+        "mrank": "1"
+    },
+    {
+        "mid": "20091",
+        "mname": "vivo X21i",
+        "mrank": "2"
+    },
+    {
+        "mid": "80103",
+        "mname": "vivo X21",
+        "mrank": "3"
+    },
+    {
+        "mid": "80099",
+        "mname": "vivo X20 Plus",
+        "mrank": "4"
+    },
+    {
+        "mid": "80098",
+        "mname": "vivo X20",
+        "mrank": "5"
+    },
+    {
+        "mid": "80096",
+        "mname": "vivo X9s Plus",
+        "mrank": "6"
+    },
+    {
+        "mid": "80097",
+        "mname": "vivo X9s",
+        "mrank": "7"
+    },
+    {
+        "mid": "80089",
+        "mname": "vivo X9 Plus",
+        "mrank": "8"
+    },
+    {
+        "mid": "80086",
+        "mname": "vivo X9",
+        "mrank": "9"
+    },
+    {
+        "mid": "80044",
+        "mname": "vivo X7 Plus",
+        "mrank": "10"
+    },
+    {
+        "mid": "80043",
+        "mname": "vivo X7",
+        "mrank": "11"
+    },
+    {
+        "mid": "80042",
+        "mname": "vivo X6s Plus",
+        "mrank": "12"
+    },
+    {
+        "mid": "80041",
+        "mname": "vivo X6s",
+        "mrank": "13"
+    },
+    {
+        "mid": "80039",
+        "mname": "vivo X6 Plus",
+        "mrank": "14"
+    },
+    {
+        "mid": "80040",
+        "mname": "vivo X6",
+        "mrank": "15"
+    },
+    {
+        "mid": "80037",
+        "mname": "vivo X5s",
+        "mrank": "16"
+    },
+    {
+        "mid": "80031",
+        "mname": "vivo X5 Max",
+        "mrank": "17"
+    },
+    {
+        "mid": "80027",
+        "mname": "vivo X5 Pro",
+        "mrank": "18"
+    },
+    {
+        "mid": "80028",
+        "mname": "vivo X5",
+        "mrank": "19"
+    },
+    {
+        "mid": "80022",
+        "mname": "vivo X3",
+        "mrank": "20"
+    },
+    {
+        "mid": "80021",
+        "mname": "vivo X1st",
+        "mrank": "21"
+    },
+    {
+        "mid": "80020",
+        "mname": "vivo X1s",
+        "mrank": "22"
+    },
+    {
+        "mid": "80019",
+        "mname": "vivo X1",
+        "mrank": "23"
+    },
+    {
+        "mid": "80045",
+        "mname": "vivo X710",
+        "mrank": "24"
+    },
+    {
+        "mid": "80088",
+        "mname": "vivo Xplay6",
+        "mrank": "25"
+    },
+    {
+        "mid": "80048",
+        "mname": "vivo Xplay5",
+        "mrank": "26"
+    },
+    {
+        "mid": "80047",
+        "mname": "vivo Xplay3S",
+        "mrank": "27"
+    },
+    {
+        "mid": "80046",
+        "mname": "vivo Xplay",
+        "mrank": "28"
+    },
+    {
+        "mid": "80111",
+        "mname": "vivo Z1i",
+        "mrank": "29"
+    },
+    {
+        "mid": "80109",
+        "mname": "vivo Z1",
+        "mrank": "30"
+    },
+    {
+        "mid": "80104",
+        "mname": "vivo Y85",
+        "mrank": "31"
+    },
+    {
+        "mid": "80107",
+        "mname": "vivo Y83",
+        "mrank": "32"
+    },
+    {
+        "mid": "80100",
+        "mname": "vivo Y79",
+        "mrank": "33"
+    },
+    {
+        "mid": "80108",
+        "mname": "vivo Y75s",
+        "mrank": "34"
+    },
+    {
+        "mid": "80102",
+        "mname": "vivo Y75",
+        "mrank": "35"
+    },
+    {
+        "mid": "80105",
+        "mname": "vivo Y71",
+        "mrank": "36"
+    },
+    {
+        "mid": "80106",
+        "mname": "vivo Y69",
+        "mrank": "37"
+    },
+    {
+        "mid": "80091",
+        "mname": "vivo Y67",
+        "mrank": "38"
+    },
+    {
+        "mid": "80090",
+        "mname": "vivo Y66",
+        "mrank": "39"
+    },
+    {
+        "mid": "80085",
+        "mname": "vivo Y55",
+        "mrank": "40"
+    },
+    {
+        "mid": "80095",
+        "mname": "vivo Y53",
+        "mrank": "41"
+    },
+    {
+        "mid": "80074",
+        "mname": "vivo Y51",
+        "mrank": "42"
+    },
+    {
+        "mid": "80072",
+        "mname": "vivo Y37A",
+        "mrank": "43"
+    },
+    {
+        "mid": "80071",
+        "mname": "vivo Y37",
+        "mrank": "44"
+    },
+    {
+        "mid": "80070",
+        "mname": "vivo Y35A",
+        "mrank": "45"
+    },
+    {
+        "mid": "80069",
+        "mname": "vivo Y35",
+        "mrank": "46"
+    },
+    {
+        "mid": "80068",
+        "mname": "vivo Y33",
+        "mrank": "47"
+    },
+    {
+        "mid": "80093",
+        "mname": "vivo Y31",
+        "mrank": "48"
+    },
+    {
+        "mid": "80073",
+        "mname": "vivo Y3T",
+        "mrank": "49"
+    },
+    {
+        "mid": "80067",
+        "mname": "vivo Y29L",
+        "mrank": "50"
+    },
+    {
+        "mid": "80066",
+        "mname": "vivo Y28L",
+        "mrank": "51"
+    },
+    {
+        "mid": "80065",
+        "mname": "vivo Y27",
+        "mrank": "52"
+    },
+    {
+        "mid": "80064",
+        "mname": "vivo Y23L",
+        "mrank": "53"
+    },
+    {
+        "mid": "80063",
+        "mname": "vivo Y22iL",
+        "mrank": "54"
+    },
+    {
+        "mid": "80062",
+        "mname": "vivo Y22",
+        "mrank": "55"
+    },
+    {
+        "mid": "80061",
+        "mname": "vivo Y20",
+        "mrank": "56"
+    },
+    {
+        "mid": "80060",
+        "mname": "vivo Y19T",
+        "mrank": "57"
+    },
+    {
+        "mid": "80059",
+        "mname": "vivo Y18L",
+        "mrank": "58"
+    },
+    {
+        "mid": "80058",
+        "mname": "vivo Y17W",
+        "mrank": "59"
+    },
+    {
+        "mid": "80057",
+        "mname": "vivo Y17T",
+        "mrank": "60"
+    },
+    {
+        "mid": "80056",
+        "mname": "vivo Y15",
+        "mrank": "61"
+    },
+    {
+        "mid": "80055",
+        "mname": "vivo Y13T",
+        "mrank": "62"
+    },
+    {
+        "mid": "80101",
+        "mname": "vivo Y13L",
+        "mrank": "63"
+    },
+    {
+        "mid": "80054",
+        "mname": "vivo Y13iL",
+        "mrank": "64"
+    },
+    {
+        "mid": "80053",
+        "mname": "vivo Y11iW",
+        "mrank": "65"
+    },
+    {
+        "mid": "80052",
+        "mname": "vivo Y11iT",
+        "mrank": "66"
+    },
+    {
+        "mid": "80051",
+        "mname": "vivo Y11",
+        "mrank": "67"
+    },
+    {
+        "mid": "80050",
+        "mname": "vivo Y1",
+        "mrank": "68"
+    },
+    {
+        "mid": "80084",
+        "mname": "vivo Y937",
+        "mrank": "69"
+    },
+    {
+        "mid": "80083",
+        "mname": "vivo Y928",
+        "mrank": "70"
+    },
+    {
+        "mid": "80082",
+        "mname": "vivo Y927",
+        "mrank": "71"
+    },
+    {
+        "mid": "80081",
+        "mname": "vivo Y923",
+        "mrank": "72"
+    },
+    {
+        "mid": "80080",
+        "mname": "vivo Y913",
+        "mrank": "73"
+    },
+    {
+        "mid": "80087",
+        "mname": "vivo Y627",
+        "mrank": "74"
+    },
+    {
+        "mid": "80079",
+        "mname": "vivo Y623",
+        "mrank": "75"
+    },
+    {
+        "mid": "80092",
+        "mname": "vivo Y622",
+        "mrank": "76"
+    },
+    {
+        "mid": "80078",
+        "mname": "vivo Y613",
+        "mrank": "77"
+    },
+    {
+        "mid": "80003",
+        "mname": "vivo E5",
+        "mrank": "78"
+    },
+    {
+        "mid": "80002",
+        "mname": "vivo E3",
+        "mrank": "79"
+    },
+    {
+        "mid": "80001",
+        "mname": "vivo E1",
+        "mrank": "80"
+    },
+    {
+        "mid": "80018",
+        "mname": "vivo V3 Max",
+        "mrank": "81"
+    },
+    {
+        "mid": "80017",
+        "mname": "vivo V3",
+        "mrank": "82"
+    },
+    {
+        "mid": "80016",
+        "mname": "vivo V1",
+        "mrank": "83"
+    },
+    {
+        "mid": "80015",
+        "mname": "vivo S9T",
+        "mrank": "84"
+    },
+    {
+        "mid": "80014",
+        "mname": "vivo S9",
+        "mrank": "85"
+    },
+    {
+        "mid": "80013",
+        "mname": "vivo S7T",
+        "mrank": "86"
+    },
+    {
+        "mid": "80012",
+        "mname": "vivo S7i",
+        "mrank": "87"
+    },
+    {
+        "mid": "80011",
+        "mname": "vivo S7",
+        "mrank": "88"
+    },
+    {
+        "mid": "80010",
+        "mname": "vivo S6T",
+        "mrank": "89"
+    },
+    {
+        "mid": "80009",
+        "mname": "vivo S6",
+        "mrank": "90"
+    },
+    {
+        "mid": "80008",
+        "mname": "vivo S3",
+        "mrank": "91"
+    },
+    {
+        "mid": "80007",
+        "mname": "vivo S12",
+        "mrank": "92"
+    },
+    {
+        "mid": "80006",
+        "mname": "vivo S11T",
+        "mrank": "93"
+    },
+    {
+        "mid": "80005",
+        "mname": "vivo S1",
+        "mrank": "94"
+    },
+    {
+        "mid": "80004",
+        "mname": "vivo K203M",
+        "mrank": "95"
+    },
+    {
+        "mid": "80114",
+        "mname": "vivo Y97",
+        "mrank": "200"
+    },
+    {
+        "mid": "90137",
+        "mname": "酷派 酷玩7",
+        "mrank": "1"
+    },
+    {
+        "mid": "90139",
+        "mname": "酷派 锋尚N3M",
+        "mrank": "2"
+    },
+    {
+        "mid": "90138",
+        "mname": "酷派 锋尚N3D",
+        "mrank": "3"
+    },
+    {
+        "mid": "90115",
+        "mname": "酷派 锋尚Pro2",
+        "mrank": "4"
+    },
+    {
+        "mid": "90114",
+        "mname": "酷派 锋尚Pro",
+        "mrank": "5"
+    },
+    {
+        "mid": "90131",
+        "mname": "酷派 锋尚N2M",
+        "mrank": "6"
+    },
+    {
+        "mid": "90132",
+        "mname": "酷派 锋尚N1S",
+        "mrank": "7"
+    },
+    {
+        "mid": "90128",
+        "mname": "酷派 锋尚N1",
+        "mrank": "8"
+    },
+    {
+        "mid": "90113",
+        "mname": "酷派 锋尚mini",
+        "mrank": "9"
+    },
+    {
+        "mid": "90112",
+        "mname": "酷派 锋尚Max",
+        "mrank": "10"
+    },
+    {
+        "mid": "90111",
+        "mname": "酷派 锋尚Air",
+        "mrank": "11"
+    },
+    {
+        "mid": "90110",
+        "mname": "酷派 锋尚3",
+        "mrank": "12"
+    },
+    {
+        "mid": "90109",
+        "mname": "酷派 锋尚2",
+        "mrank": "13"
+    },
+    {
+        "mid": "90108",
+        "mname": "酷派 锋尚",
+        "mrank": "14"
+    },
+    {
+        "mid": "90107",
+        "mname": "酷派 大神X7",
+        "mrank": "15"
+    },
+    {
+        "mid": "90106",
+        "mname": "酷派 大神note3",
+        "mrank": "16"
+    },
+    {
+        "mid": "90105",
+        "mname": "酷派 大神Note",
+        "mrank": "17"
+    },
+    {
+        "mid": "90104",
+        "mname": "酷派 大神F2",
+        "mrank": "18"
+    },
+    {
+        "mid": "90102",
+        "mname": "酷派 大神F1",
+        "mrank": "19"
+    },
+    {
+        "mid": "90101",
+        "mname": "酷派 大神1S",
+        "mrank": "20"
+    },
+    {
+        "mid": "90100",
+        "mname": "酷派 大神",
+        "mrank": "21"
+    },
+    {
+        "mid": "90135",
+        "mname": "酷派 酷玩6C",
+        "mrank": "22"
+    },
+    {
+        "mid": "90134",
+        "mname": "酷派 酷玩6",
+        "mrank": "23"
+    },
+    {
+        "mid": "90133",
+        "mname": "酷派 Cool M7",
+        "mrank": "24"
+    },
+    {
+        "mid": "90136",
+        "mname": "酷派 Cool 2",
+        "mrank": "25"
+    },
+    {
+        "mid": "90130",
+        "mname": "酷派 Cool S1",
+        "mrank": "26"
+    },
+    {
+        "mid": "90124",
+        "mname": "酷派 Cool 1C",
+        "mrank": "27"
+    },
+    {
+        "mid": "90093",
+        "mname": "酷派 S6",
+        "mrank": "28"
+    },
+    {
+        "mid": "90125",
+        "mname": "酷派 改变者S1",
+        "mrank": "29"
+    },
+    {
+        "mid": "90116",
+        "mname": "酷派 全魔王",
+        "mrank": "30"
+    },
+    {
+        "mid": "90099",
+        "mname": "酷派 大观铂顿",
+        "mrank": "31"
+    },
+    {
+        "mid": "90098",
+        "mname": "酷派 大观4",
+        "mrank": "32"
+    },
+    {
+        "mid": "90097",
+        "mname": "酷派 春雷HD",
+        "mrank": "33"
+    },
+    {
+        "mid": "90129",
+        "mname": "酷派 Y891",
+        "mrank": "34"
+    },
+    {
+        "mid": "90096",
+        "mname": "酷派 Y75",
+        "mrank": "35"
+    },
+    {
+        "mid": "90095",
+        "mname": "酷派 Y1",
+        "mrank": "36"
+    },
+    {
+        "mid": "90094",
+        "mname": "酷派 T1",
+        "mrank": "37"
+    },
+    {
+        "mid": "90117",
+        "mname": "酷派 炫影S+",
+        "mrank": "38"
+    },
+    {
+        "mid": "90126",
+        "mname": "酷派 新K1",
+        "mrank": "39"
+    },
+    {
+        "mid": "90092",
+        "mname": "酷派 N930",
+        "mrank": "40"
+    },
+    {
+        "mid": "90091",
+        "mname": "酷派 N900+",
+        "mrank": "41"
+    },
+    {
+        "mid": "90090",
+        "mname": "酷派 N900",
+        "mrank": "42"
+    },
+    {
+        "mid": "90089",
+        "mname": "酷派 D539",
+        "mrank": "43"
+    },
+    {
+        "mid": "90088",
+        "mname": "酷派 9960",
+        "mrank": "44"
+    },
+    {
+        "mid": "90087",
+        "mname": "酷派 9930",
+        "mrank": "45"
+    },
+    {
+        "mid": "90086",
+        "mname": "酷派 9900",
+        "mrank": "46"
+    },
+    {
+        "mid": "90085",
+        "mname": "酷派 9150W",
+        "mrank": "47"
+    },
+    {
+        "mid": "90084",
+        "mname": "酷派 9150",
+        "mrank": "48"
+    },
+    {
+        "mid": "90083",
+        "mname": "酷派 9120",
+        "mrank": "49"
+    },
+    {
+        "mid": "90082",
+        "mname": "酷派 9080W",
+        "mrank": "50"
+    },
+    {
+        "mid": "90081",
+        "mname": "酷派 9070",
+        "mrank": "51"
+    },
+    {
+        "mid": "90080",
+        "mname": "酷派 8950",
+        "mrank": "52"
+    },
+    {
+        "mid": "90079",
+        "mname": "酷派 8908",
+        "mrank": "53"
+    },
+    {
+        "mid": "90078",
+        "mname": "酷派 8810",
+        "mrank": "54"
+    },
+    {
+        "mid": "90077",
+        "mname": "酷派 8809",
+        "mrank": "55"
+    },
+    {
+        "mid": "90076",
+        "mname": "酷派 8750",
+        "mrank": "56"
+    },
+    {
+        "mid": "90075",
+        "mname": "酷派 8736",
+        "mrank": "57"
+    },
+    {
+        "mid": "90074",
+        "mname": "酷派 8732",
+        "mrank": "58"
+    },
+    {
+        "mid": "90073",
+        "mname": "酷派 8730L",
+        "mrank": "59"
+    },
+    {
+        "mid": "90072",
+        "mname": "酷派 8730",
+        "mrank": "60"
+    },
+    {
+        "mid": "90071",
+        "mname": "酷派 8729",
+        "mrank": "61"
+    },
+    {
+        "mid": "90070",
+        "mname": "酷派 8722V",
+        "mrank": "62"
+    },
+    {
+        "mid": "90069",
+        "mname": "酷派 8721",
+        "mrank": "63"
+    },
+    {
+        "mid": "90068",
+        "mname": "酷派 8720L",
+        "mrank": "64"
+    },
+    {
+        "mid": "90067",
+        "mname": "酷派 8720",
+        "mrank": "65"
+    },
+    {
+        "mid": "90066",
+        "mname": "酷派 8705",
+        "mrank": "66"
+    },
+    {
+        "mid": "90063",
+        "mname": "酷派 8295",
+        "mrank": "67"
+    },
+    {
+        "mid": "90062",
+        "mname": "酷派 8198T",
+        "mrank": "68"
+    },
+    {
+        "mid": "90061",
+        "mname": "酷派 8195",
+        "mrank": "69"
+    },
+    {
+        "mid": "90059",
+        "mname": "酷派 8190",
+        "mrank": "70"
+    },
+    {
+        "mid": "90058",
+        "mname": "酷派 8185",
+        "mrank": "71"
+    },
+    {
+        "mid": "90057",
+        "mname": "酷派 8180",
+        "mrank": "72"
+    },
+    {
+        "mid": "90056",
+        "mname": "酷派 8150S",
+        "mrank": "73"
+    },
+    {
+        "mid": "90053",
+        "mname": "酷派 8085",
+        "mrank": "74"
+    },
+    {
+        "mid": "90052",
+        "mname": "酷派 8079",
+        "mrank": "75"
+    },
+    {
+        "mid": "90051",
+        "mname": "酷派 8076",
+        "mrank": "76"
+    },
+    {
+        "mid": "90050",
+        "mname": "酷派 8070D",
+        "mrank": "77"
+    },
+    {
+        "mid": "90049",
+        "mname": "酷派 8021",
+        "mrank": "78"
+    },
+    {
+        "mid": "90048",
+        "mname": "酷派 8013",
+        "mrank": "79"
+    },
+    {
+        "mid": "90047",
+        "mname": "酷派 7620L",
+        "mrank": "80"
+    },
+    {
+        "mid": "90046",
+        "mname": "酷派 7610",
+        "mrank": "81"
+    },
+    {
+        "mid": "90045",
+        "mname": "酷派 7500",
+        "mrank": "82"
+    },
+    {
+        "mid": "90044",
+        "mname": "酷派 7320",
+        "mrank": "83"
+    },
+    {
+        "mid": "90043",
+        "mname": "酷派 7298D",
+        "mrank": "84"
+    },
+    {
+        "mid": "90042",
+        "mname": "酷派 7296",
+        "mrank": "85"
+    },
+    {
+        "mid": "90038",
+        "mname": "酷派 7295",
+        "mrank": "86"
+    },
+    {
+        "mid": "90037",
+        "mname": "酷派 7290",
+        "mrank": "87"
+    },
+    {
+        "mid": "90036",
+        "mname": "酷派 7270",
+        "mrank": "88"
+    },
+    {
+        "mid": "90035",
+        "mname": "酷派 7269",
+        "mrank": "89"
+    },
+    {
+        "mid": "90034",
+        "mname": "酷派 7268",
+        "mrank": "90"
+    },
+    {
+        "mid": "90033",
+        "mname": "酷派 7260",
+        "mrank": "91"
+    },
+    {
+        "mid": "90032",
+        "mname": "酷派 7236",
+        "mrank": "92"
+    },
+    {
+        "mid": "90031",
+        "mname": "酷派 7235",
+        "mrank": "93"
+    },
+    {
+        "mid": "90030",
+        "mname": "酷派 7231",
+        "mrank": "94"
+    },
+    {
+        "mid": "90029",
+        "mname": "酷派 7060",
+        "mrank": "95"
+    },
+    {
+        "mid": "90028",
+        "mname": "酷派 5952",
+        "mrank": "96"
+    },
+    {
+        "mid": "90027",
+        "mname": "酷派 5951",
+        "mrank": "97"
+    },
+    {
+        "mid": "90026",
+        "mname": "酷派 5950",
+        "mrank": "98"
+    },
+    {
+        "mid": "90025",
+        "mname": "酷派 5930",
+        "mrank": "99"
+    },
+    {
+        "mid": "90024",
+        "mname": "酷派 5910",
+        "mrank": "100"
+    },
+    {
+        "mid": "90023",
+        "mname": "酷派 5892",
+        "mrank": "101"
+    },
+    {
+        "mid": "90021",
+        "mname": "酷派 5891",
+        "mrank": "102"
+    },
+    {
+        "mid": "90020",
+        "mname": "酷派 5890",
+        "mrank": "103"
+    },
+    {
+        "mid": "90019",
+        "mname": "酷派 5879",
+        "mrank": "104"
+    },
+    {
+        "mid": "90018",
+        "mname": "酷派 5876",
+        "mrank": "105"
+    },
+    {
+        "mid": "90017",
+        "mname": "酷派 5860S",
+        "mrank": "106"
+    },
+    {
+        "mid": "90016",
+        "mname": "酷派 5855",
+        "mrank": "107"
+    },
+    {
+        "mid": "90015",
+        "mname": "酷派 5360",
+        "mrank": "108"
+    },
+    {
+        "mid": "90014",
+        "mname": "酷派 5316",
+        "mrank": "109"
+    },
+    {
+        "mid": "90013",
+        "mname": "酷派 5311",
+        "mrank": "110"
+    },
+    {
+        "mid": "90012",
+        "mname": "酷派 5219",
+        "mrank": "111"
+    },
+    {
+        "mid": "90010",
+        "mname": "酷派 5218",
+        "mrank": "112"
+    },
+    {
+        "mid": "90008",
+        "mname": "酷派 5216",
+        "mrank": "113"
+    },
+    {
+        "mid": "90007",
+        "mname": "酷派 5213",
+        "mrank": "114"
+    },
+    {
+        "mid": "90006",
+        "mname": "酷派 5211",
+        "mrank": "115"
+    },
+    {
+        "mid": "90005",
+        "mname": "酷派 5200",
+        "mrank": "116"
+    },
+    {
+        "mid": "90004",
+        "mname": "酷派 5109",
+        "mrank": "117"
+    },
+    {
+        "mid": "90003",
+        "mname": "ivvi 小骨Pro",
+        "mrank": "118"
+    },
+    {
+        "mid": "90123",
+        "mname": "ivvi 小骨 SK3-02",
+        "mrank": "119"
+    },
+    {
+        "mid": "90001",
+        "mname": "ivvi 小i Plus",
+        "mrank": "120"
+    },
+    {
+        "mid": "90002",
+        "mname": "ivvi 小i",
+        "mrank": "121"
+    },
+    {
+        "mid": "90121",
+        "mname": "ivvi K1 mini SK1-01",
+        "mrank": "122"
+    },
+    {
+        "mid": "90122",
+        "mname": "ivvi K1 mini Pro SK1-02",
+        "mrank": "123"
+    },
+    {
+        "mid": "90127",
+        "mname": "ivvi CK2-01",
+        "mrank": "124"
+    },
+    {
+        "mid": "100165",
+        "mname": "联想 Z5",
+        "mrank": "1"
+    },
+    {
+        "mid": "100162",
+        "mname": "联想 S5",
+        "mrank": "2"
+    },
+    {
+        "mid": "100163",
+        "mname": "联想 K5",
+        "mrank": "3"
+    },
+    {
+        "mid": "100164",
+        "mname": "联想 K5 play",
+        "mrank": "4"
+    },
+    {
+        "mid": "100166",
+        "mname": "联想 A5",
+        "mrank": "5"
+    },
+    {
+        "mid": "100152",
+        "mname": "联想 ZUK Z2 Pro",
+        "mrank": "6"
+    },
+    {
+        "mid": "100151",
+        "mname": "联想 ZUK Z2",
+        "mrank": "7"
+    },
+    {
+        "mid": "100150",
+        "mname": "联想 ZUK Z1 Z1221",
+        "mrank": "8"
+    },
+    {
+        "mid": "100153",
+        "mname": "联想 ZUK Edge",
+        "mrank": "9"
+    },
+    {
+        "mid": "100146",
+        "mname": "联想 乐檬K5 Note",
+        "mrank": "10"
+    },
+    {
+        "mid": "100148",
+        "mname": "联想 乐檬X3 青春版",
+        "mrank": "11"
+    },
+    {
+        "mid": "100145",
+        "mname": "联想 乐檬K3 Note",
+        "mrank": "12"
+    },
+    {
+        "mid": "100144",
+        "mname": "联想 乐檬K3",
+        "mrank": "13"
+    },
+    {
+        "mid": "100143",
+        "mname": "联想 乐檬3",
+        "mrank": "14"
+    },
+    {
+        "mid": "100142",
+        "mname": "联想 乐檬",
+        "mrank": "15"
+    },
+    {
+        "mid": "100141",
+        "mname": "联想 乐phone S2",
+        "mrank": "16"
+    },
+    {
+        "mid": "100140",
+        "mname": "联想 乐Phone K2",
+        "mrank": "17"
+    },
+    {
+        "mid": "100139",
+        "mname": "联想 黄金斗士S8畅玩版",
+        "mrank": "18"
+    },
+    {
+        "mid": "100138",
+        "mname": "联想 黄金斗士S8",
+        "mrank": "19"
+    },
+    {
+        "mid": "100137",
+        "mname": "联想 黄金斗士 Note8",
+        "mrank": "20"
+    },
+    {
+        "mid": "100158",
+        "mname": "联想 黄金斗士 A3580",
+        "mrank": "21"
+    },
+    {
+        "mid": "100136",
+        "mname": "联想 黄金斗士",
+        "mrank": "22"
+    },
+    {
+        "mid": "100149",
+        "mname": "联想 笋尖",
+        "mrank": "23"
+    },
+    {
+        "mid": "100135",
+        "mname": "联想 大拍VIBE",
+        "mrank": "24"
+    },
+    {
+        "mid": "100134",
+        "mname": "联想 X1M",
+        "mrank": "25"
+    },
+    {
+        "mid": "100133",
+        "mname": "联想 VIBE Z2",
+        "mrank": "26"
+    },
+    {
+        "mid": "100132",
+        "mname": "联想 VIBE Z",
+        "mrank": "27"
+    },
+    {
+        "mid": "100131",
+        "mname": "联想 VIBE X2",
+        "mrank": "28"
+    },
+    {
+        "mid": "100130",
+        "mname": "联想 VIBE X",
+        "mrank": "29"
+    },
+    {
+        "mid": "100161",
+        "mname": "联想 VIBE Shot",
+        "mrank": "30"
+    },
+    {
+        "mid": "100160",
+        "mname": "联想 VIBE P2",
+        "mrank": "31"
+    },
+    {
+        "mid": "100129",
+        "mname": "联想 TD80T",
+        "mrank": "32"
+    },
+    {
+        "mid": "100128",
+        "mname": "联想 T798T",
+        "mrank": "33"
+    },
+    {
+        "mid": "100127",
+        "mname": "联想 S968T",
+        "mrank": "34"
+    },
+    {
+        "mid": "100125",
+        "mname": "联想 S939",
+        "mrank": "35"
+    },
+    {
+        "mid": "100124",
+        "mname": "联想 S938T",
+        "mrank": "36"
+    },
+    {
+        "mid": "100123",
+        "mname": "联想 S930",
+        "mrank": "37"
+    },
+    {
+        "mid": "100122",
+        "mname": "联想 S920",
+        "mrank": "38"
+    },
+    {
+        "mid": "100121",
+        "mname": "联想 S899T",
+        "mrank": "39"
+    },
+    {
+        "mid": "100120",
+        "mname": "联想 S890",
+        "mrank": "40"
+    },
+    {
+        "mid": "100119",
+        "mname": "联想 S889T",
+        "mrank": "41"
+    },
+    {
+        "mid": "100118",
+        "mname": "联想 S880I",
+        "mrank": "42"
+    },
+    {
+        "mid": "100117",
+        "mname": "联想 S880",
+        "mrank": "43"
+    },
+    {
+        "mid": "100116",
+        "mname": "联想 S870E",
+        "mrank": "44"
+    },
+    {
+        "mid": "100115",
+        "mname": "联想 S868T",
+        "mrank": "45"
+    },
+    {
+        "mid": "100114",
+        "mname": "联想 S860E",
+        "mrank": "46"
+    },
+    {
+        "mid": "100113",
+        "mname": "联想 S858T",
+        "mrank": "47"
+    },
+    {
+        "mid": "100112",
+        "mname": "联想 S850T",
+        "mrank": "48"
+    },
+    {
+        "mid": "100111",
+        "mname": "联想 S850E",
+        "mrank": "49"
+    },
+    {
+        "mid": "100110",
+        "mname": "联想 S850",
+        "mrank": "50"
+    },
+    {
+        "mid": "100109",
+        "mname": "联想 S820E",
+        "mrank": "51"
+    },
+    {
+        "mid": "100108",
+        "mname": "联想 S820",
+        "mrank": "52"
+    },
+    {
+        "mid": "100107",
+        "mname": "联想 S810T",
+        "mrank": "53"
+    },
+    {
+        "mid": "100106",
+        "mname": "联想 S760",
+        "mrank": "54"
+    },
+    {
+        "mid": "100105",
+        "mname": "联想 S750",
+        "mrank": "55"
+    },
+    {
+        "mid": "100104",
+        "mname": "联想 S720I",
+        "mrank": "56"
+    },
+    {
+        "mid": "100103",
+        "mname": "联想 S720",
+        "mrank": "57"
+    },
+    {
+        "mid": "100102",
+        "mname": "联想 S680",
+        "mrank": "58"
+    },
+    {
+        "mid": "100101",
+        "mname": "联想 S658T",
+        "mrank": "59"
+    },
+    {
+        "mid": "100099",
+        "mname": "联想 S650",
+        "mrank": "60"
+    },
+    {
+        "mid": "100156",
+        "mname": "联想 PB1 770N",
+        "mrank": "61"
+    },
+    {
+        "mid": "100098",
+        "mname": "联想 P80",
+        "mrank": "62"
+    },
+    {
+        "mid": "100097",
+        "mname": "联想 P780",
+        "mrank": "63"
+    },
+    {
+        "mid": "100096",
+        "mname": "联想 P770",
+        "mrank": "64"
+    },
+    {
+        "mid": "100095",
+        "mname": "联想 P700I",
+        "mrank": "65"
+    },
+    {
+        "mid": "100094",
+        "mname": "联想 P700",
+        "mrank": "66"
+    },
+    {
+        "mid": "100093",
+        "mname": "联想 P70",
+        "mrank": "67"
+    },
+    {
+        "mid": "100092",
+        "mname": "联想 P650WG",
+        "mrank": "68"
+    },
+    {
+        "mid": "100091",
+        "mname": "联想 P619",
+        "mrank": "69"
+    },
+    {
+        "mid": "100090",
+        "mname": "联想 P518E",
+        "mrank": "70"
+    },
+    {
+        "mid": "100088",
+        "mname": "联想 P1",
+        "mrank": "71"
+    },
+    {
+        "mid": "100087",
+        "mname": "联想 K920",
+        "mrank": "72"
+    },
+    {
+        "mid": "100086",
+        "mname": "联想 K900",
+        "mrank": "73"
+    },
+    {
+        "mid": "100085",
+        "mname": "联想 K860I",
+        "mrank": "74"
+    },
+    {
+        "mid": "100084",
+        "mname": "联想 K800",
+        "mrank": "75"
+    },
+    {
+        "mid": "100157",
+        "mname": "联想 K10",
+        "mrank": "76"
+    },
+    {
+        "mid": "100083",
+        "mname": "联想 I909",
+        "mrank": "77"
+    },
+    {
+        "mid": "100082",
+        "mname": "联想 I758",
+        "mrank": "78"
+    },
+    {
+        "mid": "100154",
+        "mname": "联想 A916",
+        "mrank": "79"
+    },
+    {
+        "mid": "100081",
+        "mname": "联想 A890E",
+        "mrank": "80"
+    },
+    {
+        "mid": "100080",
+        "mname": "联想 A889",
+        "mrank": "81"
+    },
+    {
+        "mid": "100079",
+        "mname": "联想 A880",
+        "mrank": "82"
+    },
+    {
+        "mid": "100078",
+        "mname": "联想 A860E",
+        "mrank": "83"
+    },
+    {
+        "mid": "100077",
+        "mname": "联想 A850+",
+        "mrank": "84"
+    },
+    {
+        "mid": "100076",
+        "mname": "联想 A850",
+        "mrank": "85"
+    },
+    {
+        "mid": "100075",
+        "mname": "联想 A830",
+        "mrank": "86"
+    },
+    {
+        "mid": "100074",
+        "mname": "联想 A828T",
+        "mrank": "87"
+    },
+    {
+        "mid": "100073",
+        "mname": "联想 A820T",
+        "mrank": "88"
+    },
+    {
+        "mid": "100072",
+        "mname": "联想 A820E",
+        "mrank": "89"
+    },
+    {
+        "mid": "100071",
+        "mname": "联想 A820",
+        "mrank": "90"
+    },
+    {
+        "mid": "100070",
+        "mname": "联想 A805E",
+        "mrank": "91"
+    },
+    {
+        "mid": "100069",
+        "mname": "联想 A800",
+        "mrank": "92"
+    },
+    {
+        "mid": "100068",
+        "mname": "联想 A798T",
+        "mrank": "93"
+    },
+    {
+        "mid": "100067",
+        "mname": "联想 A790E",
+        "mrank": "94"
+    },
+    {
+        "mid": "100066",
+        "mname": "联想 A789T",
+        "mrank": "95"
+    },
+    {
+        "mid": "100065",
+        "mname": "联想 A789",
+        "mrank": "96"
+    },
+    {
+        "mid": "100064",
+        "mname": "联想 A788T",
+        "mrank": "97"
+    },
+    {
+        "mid": "100063",
+        "mname": "联想 A780E",
+        "mrank": "98"
+    },
+    {
+        "mid": "100062",
+        "mname": "联想 A780",
+        "mrank": "99"
+    },
+    {
+        "mid": "100061",
+        "mname": "联想 A770E",
+        "mrank": "100"
+    },
+    {
+        "mid": "100060",
+        "mname": "联想 A766",
+        "mrank": "101"
+    },
+    {
+        "mid": "100059",
+        "mname": "联想 A765E",
+        "mrank": "102"
+    },
+    {
+        "mid": "100058",
+        "mname": "联想 A760",
+        "mrank": "103"
+    },
+    {
+        "mid": "100057",
+        "mname": "联想 A750E",
+        "mrank": "104"
+    },
+    {
+        "mid": "100056",
+        "mname": "联想 A750",
+        "mrank": "105"
+    },
+    {
+        "mid": "100055",
+        "mname": "联想 A710E",
+        "mrank": "106"
+    },
+    {
+        "mid": "100054",
+        "mname": "联想 A708T",
+        "mrank": "107"
+    },
+    {
+        "mid": "100053",
+        "mname": "联想 A706",
+        "mrank": "108"
+    },
+    {
+        "mid": "100052",
+        "mname": "联想 A700E",
+        "mrank": "109"
+    },
+    {
+        "mid": "100051",
+        "mname": "联想 A698T",
+        "mrank": "110"
+    },
+    {
+        "mid": "100050",
+        "mname": "联想 A690",
+        "mrank": "111"
+    },
+    {
+        "mid": "100049",
+        "mname": "联想 A689T",
+        "mrank": "112"
+    },
+    {
+        "mid": "100048",
+        "mname": "联想 A6800",
+        "mrank": "113"
+    },
+    {
+        "mid": "100047",
+        "mname": "联想 A680",
+        "mrank": "114"
+    },
+    {
+        "mid": "100046",
+        "mname": "联想 A678T",
+        "mrank": "115"
+    },
+    {
+        "mid": "100045",
+        "mname": "联想 A670T",
+        "mrank": "116"
+    },
+    {
+        "mid": "100044",
+        "mname": "联想 A66T",
+        "mrank": "117"
+    },
+    {
+        "mid": "100043",
+        "mname": "联想 A660",
+        "mrank": "118"
+    },
+    {
+        "mid": "100042",
+        "mname": "联想 A658T",
+        "mrank": "119"
+    },
+    {
+        "mid": "100041",
+        "mname": "联想 A656",
+        "mrank": "120"
+    },
+    {
+        "mid": "100040",
+        "mname": "联想 A630T",
+        "mrank": "121"
+    },
+    {
+        "mid": "100039",
+        "mname": "联想 A630E",
+        "mrank": "122"
+    },
+    {
+        "mid": "100038",
+        "mname": "联想 A630",
+        "mrank": "123"
+    },
+    {
+        "mid": "100037",
+        "mname": "联想 A616",
+        "mrank": "124"
+    },
+    {
+        "mid": "100036",
+        "mname": "联想 A600E",
+        "mrank": "125"
+    },
+    {
+        "mid": "100035",
+        "mname": "联想 A60+",
+        "mrank": "126"
+    },
+    {
+        "mid": "100034",
+        "mname": "联想 A60",
+        "mrank": "127"
+    },
+    {
+        "mid": "100033",
+        "mname": "联想 A590",
+        "mrank": "128"
+    },
+    {
+        "mid": "100155",
+        "mname": "联想 A5890",
+        "mrank": "129"
+    },
+    {
+        "mid": "100032",
+        "mname": "联想 A586",
+        "mrank": "130"
+    },
+    {
+        "mid": "100031",
+        "mname": "联想 A580",
+        "mrank": "131"
+    },
+    {
+        "mid": "100030",
+        "mname": "联想 A520",
+        "mrank": "132"
+    },
+    {
+        "mid": "100029",
+        "mname": "联想 A519",
+        "mrank": "133"
+    },
+    {
+        "mid": "100028",
+        "mname": "联想 A398T+",
+        "mrank": "134"
+    },
+    {
+        "mid": "100027",
+        "mname": "联想 A398T",
+        "mrank": "135"
+    },
+    {
+        "mid": "100026",
+        "mname": "联想 A396",
+        "mrank": "136"
+    },
+    {
+        "mid": "100025",
+        "mname": "联想 A390T",
+        "mrank": "137"
+    },
+    {
+        "mid": "100024",
+        "mname": "联想 A390",
+        "mrank": "138"
+    },
+    {
+        "mid": "100023",
+        "mname": "联想 A388T",
+        "mrank": "139"
+    },
+    {
+        "mid": "100022",
+        "mname": "联想 A385E",
+        "mrank": "140"
+    },
+    {
+        "mid": "100021",
+        "mname": "联想 A380T",
+        "mrank": "141"
+    },
+    {
+        "mid": "100020",
+        "mname": "联想 A380E",
+        "mrank": "142"
+    },
+    {
+        "mid": "100019",
+        "mname": "联想 A378T",
+        "mrank": "143"
+    },
+    {
+        "mid": "100018",
+        "mname": "联想 A376",
+        "mrank": "144"
+    },
+    {
+        "mid": "100017",
+        "mname": "联想 A375E",
+        "mrank": "145"
+    },
+    {
+        "mid": "100016",
+        "mname": "联想 A370",
+        "mrank": "146"
+    },
+    {
+        "mid": "100015",
+        "mname": "联想 A369",
+        "mrank": "147"
+    },
+    {
+        "mid": "100014",
+        "mname": "联想 A365E",
+        "mrank": "148"
+    },
+    {
+        "mid": "100013",
+        "mname": "联想 A365",
+        "mrank": "149"
+    },
+    {
+        "mid": "100012",
+        "mname": "联想 A360T",
+        "mrank": "150"
+    },
+    {
+        "mid": "100011",
+        "mname": "联想 A360E",
+        "mrank": "151"
+    },
+    {
+        "mid": "100010",
+        "mname": "联想 A356",
+        "mrank": "152"
+    },
+    {
+        "mid": "100009",
+        "mname": "联想 A320T",
+        "mrank": "153"
+    },
+    {
+        "mid": "100008",
+        "mname": "联想 A318T",
+        "mrank": "154"
+    },
+    {
+        "mid": "100007",
+        "mname": "联想 A308T",
+        "mrank": "155"
+    },
+    {
+        "mid": "100006",
+        "mname": "联想 A298T",
+        "mrank": "156"
+    },
+    {
+        "mid": "100005",
+        "mname": "联想 A288T",
+        "mrank": "157"
+    },
+    {
+        "mid": "100004",
+        "mname": "联想 A278T",
+        "mrank": "158"
+    },
+    {
+        "mid": "100003",
+        "mname": "联想 A269",
+        "mrank": "159"
+    },
+    {
+        "mid": "100002",
+        "mname": "联想 A2105",
+        "mrank": "160"
+    },
+    {
+        "mid": "100001",
+        "mname": "联想 3GW100",
+        "mrank": "161"
+    },
+    {
+        "mid": "100147",
+        "mname": "联想 乐檬X3",
+        "mrank": "200"
+    },
+    {
+        "mid": "110006",
+        "mname": "摩托罗拉 moto G",
+        "mrank": "1"
+    },
+    {
+        "mid": "110007",
+        "mname": "摩托罗拉 moto X",
+        "mrank": "2"
+    },
+    {
+        "mid": "110024",
+        "mname": "摩托罗拉 XT928",
+        "mrank": "3"
+    },
+    {
+        "mid": "110023",
+        "mname": "摩托罗拉 XT926",
+        "mrank": "4"
+    },
+    {
+        "mid": "110022",
+        "mname": "摩托罗拉 XT925",
+        "mrank": "5"
+    },
+    {
+        "mid": "110021",
+        "mname": "摩托罗拉 XT912",
+        "mrank": "6"
+    },
+    {
+        "mid": "110020",
+        "mname": "摩托罗拉 XT910+",
+        "mrank": "7"
+    },
+    {
+        "mid": "110019",
+        "mname": "摩托罗拉 XT910",
+        "mrank": "8"
+    },
+    {
+        "mid": "110018",
+        "mname": "摩托罗拉 XT890",
+        "mrank": "9"
+    },
+    {
+        "mid": "110017",
+        "mname": "摩托罗拉 XT889",
+        "mrank": "10"
+    },
+    {
+        "mid": "110016",
+        "mname": "摩托罗拉 XT885",
+        "mrank": "11"
+    },
+    {
+        "mid": "110015",
+        "mname": "摩托罗拉 XT882",
+        "mrank": "12"
+    },
+    {
+        "mid": "110014",
+        "mname": "摩托罗拉 XT788",
+        "mrank": "13"
+    },
+    {
+        "mid": "110013",
+        "mname": "摩托罗拉 MT917",
+        "mrank": "14"
+    },
+    {
+        "mid": "110012",
+        "mname": "摩托罗拉 MT887",
+        "mrank": "15"
+    },
+    {
+        "mid": "110011",
+        "mname": "摩托罗拉 MT788",
+        "mrank": "16"
+    },
+    {
+        "mid": "110033",
+        "mname": "摩托罗拉 Moto 青柚1s",
+        "mrank": "17"
+    },
+    {
+        "mid": "110026",
+        "mname": "摩托罗拉 Moto Z Play",
+        "mrank": "18"
+    },
+    {
+        "mid": "110032",
+        "mname": "摩托罗拉 Moto Z 2018",
+        "mrank": "19"
+    },
+    {
+        "mid": "110025",
+        "mname": "摩托罗拉 Moto Z",
+        "mrank": "20"
+    },
+    {
+        "mid": "110027",
+        "mname": "摩托罗拉 Moto M XT1662",
+        "mrank": "21"
+    },
+    {
+        "mid": "110005",
+        "mname": "摩托罗拉 ME865",
+        "mrank": "22"
+    },
+    {
+        "mid": "110004",
+        "mname": "摩托罗拉 ME860",
+        "mrank": "23"
+    },
+    {
+        "mid": "110003",
+        "mname": "摩托罗拉 MB865",
+        "mrank": "24"
+    },
+    {
+        "mid": "110002",
+        "mname": "摩托罗拉 MB860",
+        "mrank": "25"
+    },
+    {
+        "mid": "110001",
+        "mname": "摩托罗拉 DROID RAZR MAXX HD",
+        "mrank": "26"
+    },
+    {
+        "mid": "110029",
+        "mname": "摩托罗拉 Nexus 6",
+        "mrank": "27"
+    },
+    {
+        "mid": "110031",
+        "mname": "摩托罗拉 X 极",
+        "mrank": "28"
+    },
+    {
+        "mid": "110028",
+        "mname": "摩托罗拉 X Style",
+        "mrank": "29"
+    },
+    {
+        "mid": "110030",
+        "mname": "摩托罗拉 X Pro",
+        "mrank": "30"
+    },
+    {
+        "mid": "120086",
+        "mname": "诺基亚 8 Sirocco",
+        "mrank": "1"
+    },
+    {
+        "mid": "120074",
+        "mname": "诺基亚 8",
+        "mrank": "2"
+    },
+    {
+        "mid": "120076",
+        "mname": "诺基亚 X6",
+        "mrank": "3"
+    },
+    {
+        "mid": "120075",
+        "mname": "诺基亚 7 Plus",
+        "mrank": "4"
+    },
+    {
+        "mid": "120072",
+        "mname": "诺基亚 7",
+        "mrank": "5"
+    },
+    {
+        "mid": "120073",
+        "mname": "诺基亚 6 第二代",
+        "mrank": "6"
+    },
+    {
+        "mid": "120070",
+        "mname": "诺基亚 6",
+        "mrank": "7"
+    },
+    {
+        "mid": "120085",
+        "mname": "诺基亚 3310 Dual SIM",
+        "mrank": "8"
+    },
+    {
+        "mid": "120084",
+        "mname": "诺基亚 3310 4G",
+        "mrank": "9"
+    },
+    {
+        "mid": "120001",
+        "mname": "诺基亚 1050",
+        "mrank": "10"
+    },
+    {
+        "mid": "120013",
+        "mname": "诺基亚 808",
+        "mrank": "11"
+    },
+    {
+        "mid": "120012",
+        "mname": "诺基亚 710",
+        "mrank": "12"
+    },
+    {
+        "mid": "120011",
+        "mname": "诺基亚 700",
+        "mrank": "13"
+    },
+    {
+        "mid": "120009",
+        "mname": "诺基亚 630",
+        "mrank": "14"
+    },
+    {
+        "mid": "120007",
+        "mname": "诺基亚 603",
+        "mrank": "15"
+    },
+    {
+        "mid": "120006",
+        "mname": "诺基亚 510",
+        "mrank": "16"
+    },
+    {
+        "mid": "120005",
+        "mname": "诺基亚 500",
+        "mrank": "17"
+    },
+    {
+        "mid": "120083",
+        "mname": "诺基亚 230 Dual SIM",
+        "mrank": "18"
+    },
+    {
+        "mid": "120082",
+        "mname": "诺基亚 216 Dual SIM",
+        "mrank": "19"
+    },
+    {
+        "mid": "120004",
+        "mname": "诺基亚 210",
+        "mrank": "20"
+    },
+    {
+        "mid": "120081",
+        "mname": "诺基亚 130 Dual SIM",
+        "mrank": "21"
+    },
+    {
+        "mid": "120080",
+        "mname": "诺基亚 130",
+        "mrank": "22"
+    },
+    {
+        "mid": "120079",
+        "mname": "诺基亚 105 Dual SIM",
+        "mrank": "23"
+    },
+    {
+        "mid": "120078",
+        "mname": "诺基亚 105 Classic",
+        "mrank": "24"
+    },
+    {
+        "mid": "120077",
+        "mname": "诺基亚 105",
+        "mrank": "25"
+    },
+    {
+        "mid": "120029",
+        "mname": "诺基亚 Lumia 1520",
+        "mrank": "26"
+    },
+    {
+        "mid": "120028",
+        "mname": "诺基亚 Lumia 1320",
+        "mrank": "27"
+    },
+    {
+        "mid": "120027",
+        "mname": "诺基亚 Lumia 1020",
+        "mrank": "28"
+    },
+    {
+        "mid": "120048",
+        "mname": "诺基亚 Lumia 930",
+        "mrank": "29"
+    },
+    {
+        "mid": "120047",
+        "mname": "诺基亚 Lumia 929",
+        "mrank": "30"
+    },
+    {
+        "mid": "120046",
+        "mname": "诺基亚 Lumia 928",
+        "mrank": "31"
+    },
+    {
+        "mid": "120045",
+        "mname": "诺基亚 Lumia 925T",
+        "mrank": "32"
+    },
+    {
+        "mid": "120044",
+        "mname": "诺基亚 Lumia 925",
+        "mrank": "33"
+    },
+    {
+        "mid": "120043",
+        "mname": "诺基亚 Lumia 920T",
+        "mrank": "34"
+    },
+    {
+        "mid": "120042",
+        "mname": "诺基亚 Lumia 920",
+        "mrank": "35"
+    },
+    {
+        "mid": "120041",
+        "mname": "诺基亚 Lumia 900",
+        "mrank": "36"
+    },
+    {
+        "mid": "120040",
+        "mname": "诺基亚 Lumia 830",
+        "mrank": "37"
+    },
+    {
+        "mid": "120039",
+        "mname": "诺基亚 Lumia 820",
+        "mrank": "38"
+    },
+    {
+        "mid": "120038",
+        "mname": "诺基亚 Lumia 800C",
+        "mrank": "39"
+    },
+    {
+        "mid": "120037",
+        "mname": "诺基亚 Lumia 800",
+        "mrank": "40"
+    },
+    {
+        "mid": "120036",
+        "mname": "诺基亚 Lumia 638",
+        "mrank": "41"
+    },
+    {
+        "mid": "120035",
+        "mname": "诺基亚 Lumia 625",
+        "mrank": "42"
+    },
+    {
+        "mid": "120034",
+        "mname": "诺基亚 Lumia 620",
+        "mrank": "43"
+    },
+    {
+        "mid": "120033",
+        "mname": "诺基亚 Lumia 526",
+        "mrank": "44"
+    },
+    {
+        "mid": "120032",
+        "mname": "诺基亚 Lumia 525",
+        "mrank": "45"
+    },
+    {
+        "mid": "120031",
+        "mname": "诺基亚 Lumia 520T",
+        "mrank": "46"
+    },
+    {
+        "mid": "120030",
+        "mname": "诺基亚 Lumia 520",
+        "mrank": "47"
+    },
+    {
+        "mid": "120054",
+        "mname": "诺基亚 X7",
+        "mrank": "48"
+    },
+    {
+        "mid": "120087",
+        "mname": "诺基亚 X5",
+        "mrank": "49"
+    },
+    {
+        "mid": "120071",
+        "mname": "诺基亚 XL",
+        "mrank": "50"
+    },
+    {
+        "mid": "120053",
+        "mname": "诺基亚 X2-02",
+        "mrank": "51"
+    },
+    {
+        "mid": "120052",
+        "mname": "诺基亚 X2-01",
+        "mrank": "52"
+    },
+    {
+        "mid": "120051",
+        "mname": "诺基亚 N9",
+        "mrank": "53"
+    },
+    {
+        "mid": "120050",
+        "mname": "诺基亚 N8",
+        "mrank": "54"
+    },
+    {
+        "mid": "120026",
+        "mname": "诺基亚 E72I",
+        "mrank": "55"
+    },
+    {
+        "mid": "120025",
+        "mname": "诺基亚 E72",
+        "mrank": "56"
+    },
+    {
+        "mid": "120024",
+        "mname": "诺基亚 E71",
+        "mrank": "57"
+    },
+    {
+        "mid": "120023",
+        "mname": "诺基亚 E63",
+        "mrank": "58"
+    },
+    {
+        "mid": "120022",
+        "mname": "诺基亚 E52",
+        "mrank": "59"
+    },
+    {
+        "mid": "120021",
+        "mname": "诺基亚 E5",
+        "mrank": "60"
+    },
+    {
+        "mid": "120020",
+        "mname": "诺基亚 C7",
+        "mrank": "61"
+    },
+    {
+        "mid": "120019",
+        "mname": "诺基亚 C6-01",
+        "mrank": "62"
+    },
+    {
+        "mid": "120018",
+        "mname": "诺基亚 C5-00",
+        "mrank": "63"
+    },
+    {
+        "mid": "120017",
+        "mname": "诺基亚 8800SE",
+        "mrank": "64"
+    },
+    {
+        "mid": "120016",
+        "mname": "诺基亚 8800E",
+        "mrank": "65"
+    },
+    {
+        "mid": "120015",
+        "mname": "诺基亚 8800A",
+        "mrank": "66"
+    },
+    {
+        "mid": "120014",
+        "mname": "诺基亚 8800",
+        "mrank": "67"
+    },
+    {
+        "mid": "120088",
+        "mname": "诺基亚 8110",
+        "mrank": "68"
+    },
+    {
+        "mid": "120010",
+        "mname": "诺基亚 6700C",
+        "mrank": "69"
+    },
+    {
+        "mid": "120003",
+        "mname": "诺基亚 2060",
+        "mrank": "70"
+    },
+    {
+        "mid": "120002",
+        "mname": "诺基亚 1280",
+        "mrank": "71"
+    },
+    {
+        "mid": "120008",
+        "mname": "诺基亚 6120ci",
+        "mrank": "72"
+    },
+    {
+        "mid": "130123",
+        "mname": "中兴 天机Axon 7s",
+        "mrank": "1"
+    },
+    {
+        "mid": "130121",
+        "mname": "中兴 天机Axon Max",
+        "mrank": "2"
+    },
+    {
+        "mid": "130122",
+        "mname": "中兴 天机Axon Mini",
+        "mrank": "3"
+    },
+    {
+        "mid": "130117",
+        "mname": "中兴 天机Axon M",
+        "mrank": "4"
+    },
+    {
+        "mid": "130110",
+        "mname": "中兴 天机7 MAX",
+        "mrank": "5"
+    },
+    {
+        "mid": "130104",
+        "mname": "中兴 天机7",
+        "mrank": "6"
+    },
+    {
+        "mid": "130001",
+        "mname": "中兴 A910",
+        "mrank": "7"
+    },
+    {
+        "mid": "130115",
+        "mname": "中兴 Axon天机",
+        "mrank": "8"
+    },
+    {
+        "mid": "130107",
+        "mname": "中兴 Blade A2",
+        "mrank": "9"
+    },
+    {
+        "mid": "130119",
+        "mname": "中兴 远航5 Plus",
+        "mrank": "10"
+    },
+    {
+        "mid": "130118",
+        "mname": "中兴 远航5",
+        "mrank": "11"
+    },
+    {
+        "mid": "130112",
+        "mname": "中兴 远航4s",
+        "mrank": "12"
+    },
+    {
+        "mid": "130103",
+        "mname": "中兴 远航4",
+        "mrank": "13"
+    },
+    {
+        "mid": "130102",
+        "mname": "中兴 远航3",
+        "mrank": "14"
+    },
+    {
+        "mid": "130101",
+        "mname": "中兴 远航 Plus",
+        "mrank": "15"
+    },
+    {
+        "mid": "130100",
+        "mname": "中兴 星星2号",
+        "mrank": "16"
+    },
+    {
+        "mid": "130099",
+        "mname": "中兴 小星星",
+        "mrank": "17"
+    },
+    {
+        "mid": "130124",
+        "mname": "中兴 小鲜5",
+        "mrank": "18"
+    },
+    {
+        "mid": "130125",
+        "mname": "中兴 小鲜4",
+        "mrank": "19"
+    },
+    {
+        "mid": "130098",
+        "mname": "中兴 小鲜3",
+        "mrank": "20"
+    },
+    {
+        "mid": "130097",
+        "mname": "中兴 小鲜2",
+        "mrank": "21"
+    },
+    {
+        "mid": "130096",
+        "mname": "中兴 小鲜",
+        "mrank": "22"
+    },
+    {
+        "mid": "130095",
+        "mname": "中兴 威武3",
+        "mrank": "23"
+    },
+    {
+        "mid": "130094",
+        "mname": "中兴 红牛V5",
+        "mrank": "24"
+    },
+    {
+        "mid": "130093",
+        "mname": "中兴 V9E",
+        "mrank": "25"
+    },
+    {
+        "mid": "130080",
+        "mname": "中兴 V9",
+        "mrank": "26"
+    },
+    {
+        "mid": "130092",
+        "mname": "中兴 V988",
+        "mrank": "27"
+    },
+    {
+        "mid": "130091",
+        "mname": "中兴 V987",
+        "mrank": "28"
+    },
+    {
+        "mid": "130090",
+        "mname": "中兴 V985",
+        "mrank": "29"
+    },
+    {
+        "mid": "130089",
+        "mname": "中兴 V975",
+        "mrank": "30"
+    },
+    {
+        "mid": "130088",
+        "mname": "中兴 V970",
+        "mrank": "31"
+    },
+    {
+        "mid": "130087",
+        "mname": "中兴 V967S",
+        "mrank": "32"
+    },
+    {
+        "mid": "130086",
+        "mname": "中兴 V965W",
+        "mrank": "33"
+    },
+    {
+        "mid": "130085",
+        "mname": "中兴 V965",
+        "mrank": "34"
+    },
+    {
+        "mid": "130084",
+        "mname": "中兴 V961",
+        "mrank": "35"
+    },
+    {
+        "mid": "130083",
+        "mname": "中兴 V960",
+        "mrank": "36"
+    },
+    {
+        "mid": "130082",
+        "mname": "中兴 V956",
+        "mrank": "37"
+    },
+    {
+        "mid": "130081",
+        "mname": "中兴 V955",
+        "mrank": "38"
+    },
+    {
+        "mid": "130079",
+        "mname": "中兴 V889S",
+        "mrank": "39"
+    },
+    {
+        "mid": "130078",
+        "mname": "中兴 V889F",
+        "mrank": "40"
+    },
+    {
+        "mid": "130077",
+        "mname": "中兴 V852",
+        "mrank": "41"
+    },
+    {
+        "mid": "130076",
+        "mname": "中兴 V818",
+        "mrank": "42"
+    },
+    {
+        "mid": "130075",
+        "mname": "中兴 V790",
+        "mrank": "43"
+    },
+    {
+        "mid": "130074",
+        "mname": "中兴 V788D",
+        "mrank": "44"
+    },
+    {
+        "mid": "130073",
+        "mname": "中兴 V7 Max",
+        "mrank": "45"
+    },
+    {
+        "mid": "130072",
+        "mname": "中兴 V5S",
+        "mrank": "46"
+    },
+    {
+        "mid": "130071",
+        "mname": "中兴 V5 N9180",
+        "mrank": "47"
+    },
+    {
+        "mid": "130070",
+        "mname": "中兴 V5 MAX N958ST",
+        "mrank": "48"
+    },
+    {
+        "mid": "130069",
+        "mname": "中兴 U988S",
+        "mrank": "49"
+    },
+    {
+        "mid": "130068",
+        "mname": "中兴 U985",
+        "mrank": "50"
+    },
+    {
+        "mid": "130067",
+        "mname": "中兴 U9815",
+        "mrank": "51"
+    },
+    {
+        "mid": "130066",
+        "mname": "中兴 U970",
+        "mrank": "52"
+    },
+    {
+        "mid": "130065",
+        "mname": "中兴 U969",
+        "mrank": "53"
+    },
+    {
+        "mid": "130064",
+        "mname": "中兴 U968",
+        "mrank": "54"
+    },
+    {
+        "mid": "130063",
+        "mname": "中兴 U960S",
+        "mrank": "55"
+    },
+    {
+        "mid": "130062",
+        "mname": "中兴 U960E",
+        "mrank": "56"
+    },
+    {
+        "mid": "130061",
+        "mname": "中兴 U960",
+        "mrank": "57"
+    },
+    {
+        "mid": "130060",
+        "mname": "中兴 U956",
+        "mrank": "58"
+    },
+    {
+        "mid": "130059",
+        "mname": "中兴 U950",
+        "mrank": "59"
+    },
+    {
+        "mid": "130058",
+        "mname": "中兴 U930 HD",
+        "mrank": "60"
+    },
+    {
+        "mid": "130057",
+        "mname": "中兴 U930",
+        "mrank": "61"
+    },
+    {
+        "mid": "130056",
+        "mname": "中兴 U887",
+        "mrank": "62"
+    },
+    {
+        "mid": "130055",
+        "mname": "中兴 U880F",
+        "mrank": "63"
+    },
+    {
+        "mid": "130054",
+        "mname": "中兴 U880E",
+        "mrank": "64"
+    },
+    {
+        "mid": "130053",
+        "mname": "中兴 U880",
+        "mrank": "65"
+    },
+    {
+        "mid": "130052",
+        "mname": "中兴 U879",
+        "mrank": "66"
+    },
+    {
+        "mid": "130051",
+        "mname": "中兴 U819",
+        "mrank": "67"
+    },
+    {
+        "mid": "130050",
+        "mname": "中兴 U817",
+        "mrank": "68"
+    },
+    {
+        "mid": "130049",
+        "mname": "中兴 U809",
+        "mrank": "69"
+    },
+    {
+        "mid": "130048",
+        "mname": "中兴 U795+",
+        "mrank": "70"
+    },
+    {
+        "mid": "130047",
+        "mname": "中兴 U795",
+        "mrank": "71"
+    },
+    {
+        "mid": "130046",
+        "mname": "中兴 U793",
+        "mrank": "72"
+    },
+    {
+        "mid": "130045",
+        "mname": "中兴 U790",
+        "mrank": "73"
+    },
+    {
+        "mid": "130044",
+        "mname": "中兴 U5",
+        "mrank": "74"
+    },
+    {
+        "mid": "130043",
+        "mname": "中兴 Q805T",
+        "mrank": "75"
+    },
+    {
+        "mid": "130042",
+        "mname": "中兴 Q802T",
+        "mrank": "76"
+    },
+    {
+        "mid": "130041",
+        "mname": "中兴 Q802D",
+        "mrank": "77"
+    },
+    {
+        "mid": "130040",
+        "mname": "中兴 Q802C",
+        "mrank": "78"
+    },
+    {
+        "mid": "130039",
+        "mname": "中兴 Q801L",
+        "mrank": "79"
+    },
+    {
+        "mid": "130038",
+        "mname": "中兴 Q705U",
+        "mrank": "80"
+    },
+    {
+        "mid": "130037",
+        "mname": "中兴 Q7",
+        "mrank": "81"
+    },
+    {
+        "mid": "130036",
+        "mname": "中兴 Q519T",
+        "mrank": "82"
+    },
+    {
+        "mid": "130035",
+        "mname": "中兴 Q507T",
+        "mrank": "83"
+    },
+    {
+        "mid": "130034",
+        "mname": "中兴 Q505T",
+        "mrank": "84"
+    },
+    {
+        "mid": "130033",
+        "mname": "中兴 Q302C",
+        "mrank": "85"
+    },
+    {
+        "mid": "130032",
+        "mname": "中兴 Q201T",
+        "mrank": "86"
+    },
+    {
+        "mid": "130031",
+        "mname": "中兴 Q101T",
+        "mrank": "87"
+    },
+    {
+        "mid": "130030",
+        "mname": "中兴 N988",
+        "mrank": "88"
+    },
+    {
+        "mid": "130029",
+        "mname": "中兴 N986",
+        "mrank": "89"
+    },
+    {
+        "mid": "130028",
+        "mname": "中兴 N983",
+        "mrank": "90"
+    },
+    {
+        "mid": "130027",
+        "mname": "中兴 N980",
+        "mrank": "91"
+    },
+    {
+        "mid": "130026",
+        "mname": "中兴 N970",
+        "mrank": "92"
+    },
+    {
+        "mid": "130025",
+        "mname": "中兴 N919D",
+        "mrank": "93"
+    },
+    {
+        "mid": "130024",
+        "mname": "中兴 N919",
+        "mrank": "94"
+    },
+    {
+        "mid": "130023",
+        "mname": "中兴 N909",
+        "mrank": "95"
+    },
+    {
+        "mid": "130022",
+        "mname": "中兴 N900",
+        "mrank": "96"
+    },
+    {
+        "mid": "130021",
+        "mname": "中兴 N881E",
+        "mrank": "97"
+    },
+    {
+        "mid": "130020",
+        "mname": "中兴 N880S",
+        "mrank": "98"
+    },
+    {
+        "mid": "130019",
+        "mname": "中兴 N855D",
+        "mrank": "99"
+    },
+    {
+        "mid": "130018",
+        "mname": "中兴 N818",
+        "mrank": "100"
+    },
+    {
+        "mid": "130017",
+        "mname": "中兴 N807",
+        "mrank": "101"
+    },
+    {
+        "mid": "130016",
+        "mname": "中兴 N799D",
+        "mrank": "102"
+    },
+    {
+        "mid": "130015",
+        "mname": "中兴 N798+",
+        "mrank": "103"
+    },
+    {
+        "mid": "130014",
+        "mname": "中兴 N798",
+        "mrank": "104"
+    },
+    {
+        "mid": "130013",
+        "mname": "中兴 N795",
+        "mrank": "105"
+    },
+    {
+        "mid": "130012",
+        "mname": "中兴 N790S",
+        "mrank": "106"
+    },
+    {
+        "mid": "130011",
+        "mname": "中兴 N780",
+        "mrank": "107"
+    },
+    {
+        "mid": "130010",
+        "mname": "中兴 N700",
+        "mrank": "108"
+    },
+    {
+        "mid": "130009",
+        "mname": "中兴 N5",
+        "mrank": "109"
+    },
+    {
+        "mid": "130008",
+        "mname": "中兴 Memo 5S",
+        "mrank": "110"
+    },
+    {
+        "mid": "130007",
+        "mname": "中兴 M901C",
+        "mrank": "111"
+    },
+    {
+        "mid": "130006",
+        "mname": "中兴 Grand SII",
+        "mrank": "112"
+    },
+    {
+        "mid": "130005",
+        "mname": "中兴 G719C",
+        "mrank": "113"
+    },
+    {
+        "mid": "130004",
+        "mname": "中兴 G718C",
+        "mrank": "114"
+    },
+    {
+        "mid": "130003",
+        "mname": "中兴 G717C",
+        "mrank": "115"
+    },
+    {
+        "mid": "130113",
+        "mname": "中兴 BV0710",
+        "mrank": "116"
+    },
+    {
+        "mid": "130114",
+        "mname": "中兴 Blade V8",
+        "mrank": "117"
+    },
+    {
+        "mid": "130111",
+        "mname": "中兴 Blade BA910",
+        "mrank": "118"
+    },
+    {
+        "mid": "130108",
+        "mname": "中兴 Blade A601",
+        "mrank": "119"
+    },
+    {
+        "mid": "130120",
+        "mname": "中兴 Blade A510",
+        "mrank": "120"
+    },
+    {
+        "mid": "130116",
+        "mname": "中兴 Blade A3",
+        "mrank": "121"
+    },
+    {
+        "mid": "130109",
+        "mname": "中兴 Blade A2 Plus",
+        "mrank": "122"
+    },
+    {
+        "mid": "130002",
+        "mname": "中兴 Blade A1",
+        "mrank": "123"
+    },
+    {
+        "mid": "130126",
+        "mname": "中兴 BLADE A2S",
+        "mrank": "124"
+    },
+    {
+        "mid": "140033",
+        "mname": "努比亚 Z18 mini",
+        "mrank": "1"
+    },
+    {
+        "mid": "140032",
+        "mname": "努比亚 V18",
+        "mrank": "2"
+    },
+    {
+        "mid": "140030",
+        "mname": "努比亚 Z17S",
+        "mrank": "3"
+    },
+    {
+        "mid": "140029",
+        "mname": "努比亚 Z17",
+        "mrank": "4"
+    },
+    {
+        "mid": "140023",
+        "mname": "努比亚 Z17 mini",
+        "mrank": "5"
+    },
+    {
+        "mid": "140021",
+        "mname": "努比亚 Z11 miniS",
+        "mrank": "6"
+    },
+    {
+        "mid": "140002",
+        "mname": "努比亚 Z11 mini",
+        "mrank": "7"
+    },
+    {
+        "mid": "140019",
+        "mname": "努比亚 Z11 Max",
+        "mrank": "8"
+    },
+    {
+        "mid": "140020",
+        "mname": "努比亚 Z11",
+        "mrank": "9"
+    },
+    {
+        "mid": "140017",
+        "mname": "努比亚 Z9 mini",
+        "mrank": "10"
+    },
+    {
+        "mid": "140014",
+        "mname": "努比亚 Z9 Max",
+        "mrank": "11"
+    },
+    {
+        "mid": "140013",
+        "mname": "努比亚 Z9",
+        "mrank": "12"
+    },
+    {
+        "mid": "140035",
+        "mname": "努比亚 Z17 miniS",
+        "mrank": "13"
+    },
+    {
+        "mid": "140011",
+        "mname": "努比亚 Z7 mini",
+        "mrank": "13"
+    },
+    {
+        "mid": "140010",
+        "mname": "努比亚 Z7 Max",
+        "mrank": "14"
+    },
+    {
+        "mid": "140012",
+        "mname": "努比亚 Z7",
+        "mrank": "15"
+    },
+    {
+        "mid": "140009",
+        "mname": "努比亚 Z5SN",
+        "mrank": "16"
+    },
+    {
+        "mid": "140008",
+        "mname": "努比亚 Z5S mini LTE",
+        "mrank": "17"
+    },
+    {
+        "mid": "140007",
+        "mname": "努比亚 Z5S mini",
+        "mrank": "18"
+    },
+    {
+        "mid": "140006",
+        "mname": "努比亚 Z5S LTE NX403A",
+        "mrank": "19"
+    },
+    {
+        "mid": "140005",
+        "mname": "努比亚 Z5S",
+        "mrank": "20"
+    },
+    {
+        "mid": "140004",
+        "mname": "努比亚 Z5 NX501",
+        "mrank": "21"
+    },
+    {
+        "mid": "140003",
+        "mname": "努比亚 Z5 mini",
+        "mrank": "22"
+    },
+    {
+        "mid": "140031",
+        "mname": "努比亚 N3",
+        "mrank": "23"
+    },
+    {
+        "mid": "140028",
+        "mname": "努比亚 N2",
+        "mrank": "24"
+    },
+    {
+        "mid": "140027",
+        "mname": "努比亚 M2 青春版",
+        "mrank": "25"
+    },
+    {
+        "mid": "140026",
+        "mname": "努比亚 M2",
+        "mrank": "26"
+    },
+    {
+        "mid": "140034",
+        "mname": "努比亚 红魔电竞游戏手机",
+        "mrank": "27"
+    },
+    {
+        "mid": "140018",
+        "mname": "努比亚 布拉格S",
+        "mrank": "28"
+    },
+    {
+        "mid": "140001",
+        "mname": "努比亚 X6",
+        "mrank": "29"
+    },
+    {
+        "mid": "140036",
+        "mname": "努比亚 Z18",
+        "mrank": "200"
+    },
+    {
+        "mid": "150050",
+        "mname": "索尼 Xperia XZ2 premium",
+        "mrank": "1"
+    },
+    {
+        "mid": "150049",
+        "mname": "索尼 Xperia XZ2",
+        "mrank": "2"
+    },
+    {
+        "mid": "150047",
+        "mname": "索尼 Xperia XA2 Ultra",
+        "mrank": "3"
+    },
+    {
+        "mid": "150039",
+        "mname": "索尼 Xperia ZL",
+        "mrank": "4"
+    },
+    {
+        "mid": "150043",
+        "mname": "索尼 Xperia Z5 Premium E6853",
+        "mrank": "5"
+    },
+    {
+        "mid": "150037",
+        "mname": "索尼 Xperia Z5 Compact",
+        "mrank": "6"
+    },
+    {
+        "mid": "150038",
+        "mname": "索尼 Xperia Z5",
+        "mrank": "7"
+    },
+    {
+        "mid": "150036",
+        "mname": "索尼 Xperia Z3+ Dual E6533",
+        "mrank": "8"
+    },
+    {
+        "mid": "150034",
+        "mname": "索尼 Xperia Z3 Compact M55w",
+        "mrank": "9"
+    },
+    {
+        "mid": "150035",
+        "mname": "索尼 Xperia Z3",
+        "mrank": "10"
+    },
+    {
+        "mid": "150033",
+        "mname": "索尼 Xperia Z2",
+        "mrank": "11"
+    },
+    {
+        "mid": "150031",
+        "mname": "索尼 Xperia Z1",
+        "mrank": "12"
+    },
+    {
+        "mid": "150030",
+        "mname": "索尼 Xperia Z L36h",
+        "mrank": "13"
+    },
+    {
+        "mid": "150044",
+        "mname": "索尼 Xperia XZs",
+        "mrank": "14"
+    },
+    {
+        "mid": "150048",
+        "mname": "索尼 Xperia XZ Premium",
+        "mrank": "15"
+    },
+    {
+        "mid": "150041",
+        "mname": "索尼 Xperia XZ",
+        "mrank": "16"
+    },
+    {
+        "mid": "150018",
+        "mname": "索尼 XL39h",
+        "mrank": "17"
+    },
+    {
+        "mid": "150046",
+        "mname": "索尼 Xperia XA Ultra",
+        "mrank": "18"
+    },
+    {
+        "mid": "150042",
+        "mname": "索尼 Xperia X Performance F8132",
+        "mrank": "19"
+    },
+    {
+        "mid": "150029",
+        "mname": "索尼 Xperia VC LT25c",
+        "mrank": "20"
+    },
+    {
+        "mid": "150028",
+        "mname": "索尼 Xperia T3 M50W",
+        "mrank": "21"
+    },
+    {
+        "mid": "150027",
+        "mname": "索尼 Xperia T2 Ultra",
+        "mrank": "22"
+    },
+    {
+        "mid": "150026",
+        "mname": "索尼 Xperia SP",
+        "mrank": "23"
+    },
+    {
+        "mid": "150025",
+        "mname": "索尼 Xperia P LT22i",
+        "mrank": "24"
+    },
+    {
+        "mid": "150024",
+        "mname": "索尼 Xperia M4 Aqua",
+        "mrank": "25"
+    },
+    {
+        "mid": "150023",
+        "mname": "索尼 Xperia M2 S50h",
+        "mrank": "26"
+    },
+    {
+        "mid": "150022",
+        "mname": "索尼 Xperia C5",
+        "mrank": "27"
+    },
+    {
+        "mid": "150021",
+        "mname": "索尼 Xperia C3 S55t",
+        "mrank": "28"
+    },
+    {
+        "mid": "150020",
+        "mname": "索尼 Xperia Arc S LT18i",
+        "mrank": "29"
+    },
+    {
+        "mid": "150019",
+        "mname": "索尼 Xperia Arc LT15i",
+        "mrank": "30"
+    },
+    {
+        "mid": "150017",
+        "mname": "索尼 ST27i",
+        "mrank": "31"
+    },
+    {
+        "mid": "150016",
+        "mname": "索尼 ST26i",
+        "mrank": "32"
+    },
+    {
+        "mid": "150015",
+        "mname": "索尼 ST25i",
+        "mrank": "33"
+    },
+    {
+        "mid": "150014",
+        "mname": "索尼 ST18i",
+        "mrank": "34"
+    },
+    {
+        "mid": "150013",
+        "mname": "索尼 S39h",
+        "mrank": "35"
+    },
+    {
+        "mid": "150012",
+        "mname": "索尼 S36h",
+        "mrank": "36"
+    },
+    {
+        "mid": "150011",
+        "mname": "索尼 MT27i",
+        "mrank": "37"
+    },
+    {
+        "mid": "150010",
+        "mname": "索尼 MT25i",
+        "mrank": "38"
+    },
+    {
+        "mid": "150009",
+        "mname": "索尼 M36h",
+        "mrank": "39"
+    },
+    {
+        "mid": "150008",
+        "mname": "索尼 LT30p",
+        "mrank": "40"
+    },
+    {
+        "mid": "150007",
+        "mname": "索尼 LT29i",
+        "mrank": "41"
+    },
+    {
+        "mid": "150006",
+        "mname": "索尼 LT28i",
+        "mrank": "42"
+    },
+    {
+        "mid": "150005",
+        "mname": "索尼 LT28h",
+        "mrank": "43"
+    },
+    {
+        "mid": "150004",
+        "mname": "索尼 LT26w",
+        "mrank": "44"
+    },
+    {
+        "mid": "150003",
+        "mname": "索尼 LT26ii",
+        "mrank": "45"
+    },
+    {
+        "mid": "150002",
+        "mname": "索尼 LT26i",
+        "mrank": "46"
+    },
+    {
+        "mid": "150001",
+        "mname": "索尼 LT25i",
+        "mrank": "47"
+    },
+    {
+        "mid": "150045",
+        "mname": "索尼 D2533",
+        "mrank": "48"
+    },
+    {
+        "mid": "160081",
+        "mname": "金立 S11S",
+        "mrank": "1"
+    },
+    {
+        "mid": "160073",
+        "mname": "金立 S11",
+        "mrank": "2"
+    },
+    {
+        "mid": "160082",
+        "mname": "金立 金刚3",
+        "mrank": "3"
+    },
+    {
+        "mid": "160071",
+        "mname": "金立 S10C",
+        "mrank": "4"
+    },
+    {
+        "mid": "160066",
+        "mname": "金立 S10B",
+        "mrank": "5"
+    },
+    {
+        "mid": "160070",
+        "mname": "金立 S10",
+        "mrank": "6"
+    },
+    {
+        "mid": "160060",
+        "mname": "金立 S9",
+        "mrank": "7"
+    },
+    {
+        "mid": "160041",
+        "mname": "金立 S8",
+        "mrank": "8"
+    },
+    {
+        "mid": "160040",
+        "mname": "金立 S7 Mini",
+        "mrank": "9"
+    },
+    {
+        "mid": "160039",
+        "mname": "金立 S7",
+        "mrank": "10"
+    },
+    {
+        "mid": "160038",
+        "mname": "金立 S6 Pro",
+        "mrank": "11"
+    },
+    {
+        "mid": "160037",
+        "mname": "金立 S6",
+        "mrank": "12"
+    },
+    {
+        "mid": "160036",
+        "mname": "金立 S5.5",
+        "mrank": "13"
+    },
+    {
+        "mid": "160035",
+        "mname": "金立 S5.1 Pro",
+        "mrank": "14"
+    },
+    {
+        "mid": "160034",
+        "mname": "金立 S5.1",
+        "mrank": "15"
+    },
+    {
+        "mid": "160062",
+        "mname": "金立 M2017",
+        "mrank": "16"
+    },
+    {
+        "mid": "160080",
+        "mname": "金立 M7 Plus",
+        "mrank": "17"
+    },
+    {
+        "mid": "160072",
+        "mname": "金立 M7",
+        "mrank": "18"
+    },
+    {
+        "mid": "160068",
+        "mname": "金立 M6S Plus",
+        "mrank": "19"
+    },
+    {
+        "mid": "160058",
+        "mname": "金立 M6 Plus",
+        "mrank": "20"
+    },
+    {
+        "mid": "160057",
+        "mname": "金立 M6",
+        "mrank": "21"
+    },
+    {
+        "mid": "160076",
+        "mname": "金立 M5 畅享版",
+        "mrank": "22"
+    },
+    {
+        "mid": "160032",
+        "mname": "金立 M5 Plus",
+        "mrank": "23"
+    },
+    {
+        "mid": "160031",
+        "mname": "金立 M5",
+        "mrank": "24"
+    },
+    {
+        "mid": "160030",
+        "mname": "金立 M3s",
+        "mrank": "25"
+    },
+    {
+        "mid": "160029",
+        "mname": "金立 M3",
+        "mrank": "26"
+    },
+    {
+        "mid": "160079",
+        "mname": "金立 F6",
+        "mrank": "27"
+    },
+    {
+        "mid": "160064",
+        "mname": "金立 F5",
+        "mrank": "28"
+    },
+    {
+        "mid": "160063",
+        "mname": "金立 F306",
+        "mrank": "29"
+    },
+    {
+        "mid": "160017",
+        "mname": "金立 F303",
+        "mrank": "30"
+    },
+    {
+        "mid": "160016",
+        "mname": "金立 F301",
+        "mrank": "31"
+    },
+    {
+        "mid": "160077",
+        "mname": "金立 F205",
+        "mrank": "32"
+    },
+    {
+        "mid": "160078",
+        "mname": "金立 F109",
+        "mrank": "33"
+    },
+    {
+        "mid": "160075",
+        "mname": "金立 F106",
+        "mrank": "34"
+    },
+    {
+        "mid": "160015",
+        "mname": "金立 F105",
+        "mrank": "35"
+    },
+    {
+        "mid": "160014",
+        "mname": "金立 F103S",
+        "mrank": "36"
+    },
+    {
+        "mid": "160013",
+        "mname": "金立 F103",
+        "mrank": "37"
+    },
+    {
+        "mid": "160012",
+        "mname": "金立 F100",
+        "mrank": "38"
+    },
+    {
+        "mid": "160074",
+        "mname": "金立 大金钢2",
+        "mrank": "39"
+    },
+    {
+        "mid": "160061",
+        "mname": "金立 大金钢",
+        "mrank": "40"
+    },
+    {
+        "mid": "160065",
+        "mname": "金立 金钢2",
+        "mrank": "41"
+    },
+    {
+        "mid": "160055",
+        "mname": "金立 金钢",
+        "mrank": "42"
+    },
+    {
+        "mid": "160052",
+        "mname": "金立 W909",
+        "mrank": "43"
+    },
+    {
+        "mid": "160056",
+        "mname": "金立 W900S",
+        "mrank": "44"
+    },
+    {
+        "mid": "160051",
+        "mname": "金立 W900",
+        "mrank": "45"
+    },
+    {
+        "mid": "160050",
+        "mname": "金立 W808",
+        "mrank": "46"
+    },
+    {
+        "mid": "160049",
+        "mname": "金立 W800",
+        "mrank": "47"
+    },
+    {
+        "mid": "160048",
+        "mname": "金立 W601",
+        "mrank": "48"
+    },
+    {
+        "mid": "160028",
+        "mname": "金立 GN878",
+        "mrank": "49"
+    },
+    {
+        "mid": "160027",
+        "mname": "金立 GN858",
+        "mrank": "50"
+    },
+    {
+        "mid": "160026",
+        "mname": "金立 GN818T",
+        "mrank": "51"
+    },
+    {
+        "mid": "160025",
+        "mname": "金立 GN810",
+        "mrank": "52"
+    },
+    {
+        "mid": "160024",
+        "mname": "金立 GN787",
+        "mrank": "53"
+    },
+    {
+        "mid": "160023",
+        "mname": "金立 GN777",
+        "mrank": "54"
+    },
+    {
+        "mid": "160022",
+        "mname": "金立 GN715",
+        "mrank": "55"
+    },
+    {
+        "mid": "160021",
+        "mname": "金立 GN709L",
+        "mrank": "56"
+    },
+    {
+        "mid": "160020",
+        "mname": "金立 GN706L",
+        "mrank": "57"
+    },
+    {
+        "mid": "160019",
+        "mname": "金立 GN600",
+        "mrank": "58"
+    },
+    {
+        "mid": "160018",
+        "mname": "金立 GN151",
+        "mrank": "59"
+    },
+    {
+        "mid": "160011",
+        "mname": "金立 E8",
+        "mrank": "60"
+    },
+    {
+        "mid": "160010",
+        "mname": "金立 E7T",
+        "mrank": "61"
+    },
+    {
+        "mid": "160009",
+        "mname": "金立 E7L",
+        "mrank": "62"
+    },
+    {
+        "mid": "160008",
+        "mname": "金立 E7 mini",
+        "mrank": "63"
+    },
+    {
+        "mid": "160007",
+        "mname": "金立 E7",
+        "mrank": "64"
+    },
+    {
+        "mid": "160006",
+        "mname": "金立 E6T",
+        "mrank": "65"
+    },
+    {
+        "mid": "160005",
+        "mname": "金立 E6 mini",
+        "mrank": "66"
+    },
+    {
+        "mid": "160004",
+        "mname": "金立 E6",
+        "mrank": "67"
+    },
+    {
+        "mid": "160003",
+        "mname": "金立 E5",
+        "mrank": "68"
+    },
+    {
+        "mid": "160002",
+        "mname": "金立 E3T",
+        "mrank": "69"
+    },
+    {
+        "mid": "160001",
+        "mname": "金立 E3",
+        "mrank": "70"
+    },
+    {
+        "mid": "160054",
+        "mname": "金立 X817",
+        "mrank": "71"
+    },
+    {
+        "mid": "160053",
+        "mname": "金立 X805",
+        "mrank": "72"
+    },
+    {
+        "mid": "160047",
+        "mname": "金立 V188S",
+        "mrank": "73"
+    },
+    {
+        "mid": "160046",
+        "mname": "金立 V188",
+        "mrank": "74"
+    },
+    {
+        "mid": "160045",
+        "mname": "金立 V185",
+        "mrank": "75"
+    },
+    {
+        "mid": "160044",
+        "mname": "金立 V183",
+        "mrank": "76"
+    },
+    {
+        "mid": "160043",
+        "mname": "金立 V182",
+        "mrank": "77"
+    },
+    {
+        "mid": "160042",
+        "mname": "金立 T1",
+        "mrank": "78"
+    },
+    {
+        "mid": "160033",
+        "mname": "金立 Q1",
+        "mrank": "79"
+    },
+    {
+        "mid": "170009",
+        "mname": "乐Pro 3",
+        "mrank": "1"
+    },
+    {
+        "mid": "170010",
+        "mname": "乐S3",
+        "mrank": "2"
+    },
+    {
+        "mid": "170004",
+        "mname": "乐2 Pro",
+        "mrank": "3"
+    },
+    {
+        "mid": "170005",
+        "mname": "乐2",
+        "mrank": "4"
+    },
+    {
+        "mid": "170003",
+        "mname": "乐1s",
+        "mrank": "5"
+    },
+    {
+        "mid": "170001",
+        "mname": "乐1 Pro",
+        "mrank": "6"
+    },
+    {
+        "mid": "170002",
+        "mname": "乐1",
+        "mrank": "7"
+    },
+    {
+        "mid": "170006",
+        "mname": "乐Max 2",
+        "mrank": "8"
+    },
+    {
+        "mid": "170008",
+        "mname": "乐Max-蓝宝石版",
+        "mrank": "9"
+    },
+    {
+        "mid": "170007",
+        "mname": "乐Max",
+        "mrank": "10"
+    },
+    {
+        "mid": "170012",
+        "mname": "乐 pro3 AI双摄版",
+        "mrank": "200"
+    },
+    {
+        "mid": "180009",
+        "mname": "锤子 坚果3",
+        "mrank": "1"
+    },
+    {
+        "mid": "180008",
+        "mname": "锤子 坚果 R1",
+        "mrank": "2"
+    },
+    {
+        "mid": "180007",
+        "mname": "锤子 坚果 Pro2",
+        "mrank": "3"
+    },
+    {
+        "mid": "180006",
+        "mname": "锤子 坚果 Pro",
+        "mrank": "4"
+    },
+    {
+        "mid": "180003",
+        "mname": "锤子 坚果1",
+        "mrank": "5"
+    },
+    {
+        "mid": "180002",
+        "mname": "锤子 Smartisan T2",
+        "mrank": "6"
+    },
+    {
+        "mid": "180001",
+        "mname": "锤子 Smartisan T1",
+        "mrank": "7"
+    },
+    {
+        "mid": "180005",
+        "mname": "锤子 Smartisan M1L",
+        "mrank": "8"
+    },
+    {
+        "mid": "180004",
+        "mname": "锤子 Smartisan M1",
+        "mrank": "9"
+    },
+    {
+        "mid": "180010",
+        "mname": "锤子 坚果 Pro2S",
+        "mrank": "200"
+    },
+    {
+        "mid": "190016",
+        "mname": "360手机 N7",
+        "mrank": "1"
+    },
+    {
+        "mid": "190012",
+        "mname": "360手机 N6 Pro",
+        "mrank": "2"
+    },
+    {
+        "mid": "190013",
+        "mname": "360手机 N6 Lite",
+        "mrank": "3"
+    },
+    {
+        "mid": "190011",
+        "mname": "360手机 N6",
+        "mrank": "4"
+    },
+    {
+        "mid": "190014",
+        "mname": "360手机 N5S",
+        "mrank": "5"
+    },
+    {
+        "mid": "190009",
+        "mname": "360手机 N5",
+        "mrank": "6"
+    },
+    {
+        "mid": "190005",
+        "mname": "360手机 N4s",
+        "mrank": "7"
+    },
+    {
+        "mid": "190006",
+        "mname": "360手机 N4A",
+        "mrank": "8"
+    },
+    {
+        "mid": "190004",
+        "mname": "360手机 N4",
+        "mrank": "9"
+    },
+    {
+        "mid": "190003",
+        "mname": "360手机 F4",
+        "mrank": "10"
+    },
+    {
+        "mid": "190008",
+        "mname": "360手机 Q5 Plus",
+        "mrank": "11"
+    },
+    {
+        "mid": "190007",
+        "mname": "360手机 Q5",
+        "mrank": "12"
+    },
+    {
+        "mid": "190002",
+        "mname": "360奇酷青春",
+        "mrank": "13"
+    },
+    {
+        "mid": "190001",
+        "mname": "360奇酷旗舰",
+        "mrank": "14"
+    },
+    {
+        "mid": "190015",
+        "mname": "360手机 vizza",
+        "mrank": "15"
+    },
+    {
+        "mid": "190018",
+        "mname": "360手机 N7 Lite",
+        "mrank": "200"
+    },
+    {
+        "mid": "190017",
+        "mname": "360手机 N7 Pro",
+        "mrank": "200"
+    },
+    {
+        "mid": "200008",
+        "mname": "一加手机6",
+        "mrank": "1"
+    },
+    {
+        "mid": "200007",
+        "mname": "一加手机5T",
+        "mrank": "2"
+    },
+    {
+        "mid": "200006",
+        "mname": "一加手机5",
+        "mrank": "3"
+    },
+    {
+        "mid": "200003",
+        "mname": "一加手机X",
+        "mrank": "4"
+    },
+    {
+        "mid": "200005",
+        "mname": "一加手机3T",
+        "mrank": "5"
+    },
+    {
+        "mid": "200002",
+        "mname": "一加手机3",
+        "mrank": "6"
+    },
+    {
+        "mid": "200001",
+        "mname": "一加手机2",
+        "mrank": "7"
+    },
+    {
+        "mid": "200004",
+        "mname": "一加手机1",
+        "mrank": "8"
+    },
+    {
+        "mid": "210043",
+        "mname": "荣耀 8X MAX",
+        "mrank": "0"
+    },
+    {
+        "mid": "210042",
+        "mname": "荣耀 8X",
+        "mrank": "1"
+    },
+    {
+        "mid": "210041",
+        "mname": "荣耀 Note 10",
+        "mrank": "1"
+    },
+    {
+        "mid": "210038",
+        "mname": "荣耀 Play",
+        "mrank": "2"
+    },
+    {
+        "mid": "210036",
+        "mname": "荣耀 10",
+        "mrank": "3"
+    },
+    {
+        "mid": "210039",
+        "mname": "荣耀 9i",
+        "mrank": "4"
+    },
+    {
+        "mid": "210032",
+        "mname": "荣耀 9 青春版",
+        "mrank": "5"
+    },
+    {
+        "mid": "40135",
+        "mname": "荣耀 9",
+        "mrank": "6"
+    },
+    {
+        "mid": "210024",
+        "mname": "荣耀 8 青春版",
+        "mrank": "7"
+    },
+    {
+        "mid": "210019",
+        "mname": "荣耀 8",
+        "mrank": "8"
+    },
+    {
+        "mid": "210017",
+        "mname": "荣耀 7i",
+        "mrank": "9"
+    },
+    {
+        "mid": "210016",
+        "mname": "荣耀 7",
+        "mrank": "10"
+    },
+    {
+        "mid": "210015",
+        "mname": "荣耀 6 Plus",
+        "mrank": "11"
+    },
+    {
+        "mid": "210014",
+        "mname": "荣耀 6",
+        "mrank": "12"
+    },
+    {
+        "mid": "210013",
+        "mname": "荣耀 5X",
+        "mrank": "13"
+    },
+    {
+        "mid": "210012",
+        "mname": "荣耀 4X",
+        "mrank": "14"
+    },
+    {
+        "mid": "210011",
+        "mname": "荣耀 4C",
+        "mrank": "15"
+    },
+    {
+        "mid": "210010",
+        "mname": "荣耀 4A",
+        "mrank": "16"
+    },
+    {
+        "mid": "210009",
+        "mname": "荣耀 4",
+        "mrank": "17"
+    },
+    {
+        "mid": "210008",
+        "mname": "荣耀 3X Pro",
+        "mrank": "18"
+    },
+    {
+        "mid": "210033",
+        "mname": "荣耀 3X 畅玩版",
+        "mrank": "19"
+    },
+    {
+        "mid": "210007",
+        "mname": "荣耀 3X",
+        "mrank": "20"
+    },
+    {
+        "mid": "210006",
+        "mname": "荣耀 3C",
+        "mrank": "21"
+    },
+    {
+        "mid": "210005",
+        "mname": "荣耀 3",
+        "mrank": "22"
+    },
+    {
+        "mid": "210004",
+        "mname": "荣耀 +",
+        "mrank": "23"
+    },
+    {
+        "mid": "210030",
+        "mname": "荣耀 畅玩7X",
+        "mrank": "24"
+    },
+    {
+        "mid": "210035",
+        "mname": "荣耀 畅玩7C",
+        "mrank": "25"
+    },
+    {
+        "mid": "210034",
+        "mname": "荣耀 畅玩7A",
+        "mrank": "26"
+    },
+    {
+        "mid": "210040",
+        "mname": "荣耀 畅玩7",
+        "mrank": "27"
+    },
+    {
+        "mid": "210022",
+        "mname": "荣耀 畅玩6X",
+        "mrank": "28"
+    },
+    {
+        "mid": "210025",
+        "mname": "荣耀 畅玩6A",
+        "mrank": "29"
+    },
+    {
+        "mid": "210028",
+        "mname": "荣耀 畅玩6",
+        "mrank": "30"
+    },
+    {
+        "mid": "210003",
+        "mname": "荣耀 畅玩5C",
+        "mrank": "31"
+    },
+    {
+        "mid": "210002",
+        "mname": "荣耀 畅玩5A",
+        "mrank": "32"
+    },
+    {
+        "mid": "210020",
+        "mname": "荣耀 畅玩5",
+        "mrank": "33"
+    },
+    {
+        "mid": "210031",
+        "mname": "荣耀 V10",
+        "mrank": "34"
+    },
+    {
+        "mid": "210029",
+        "mname": "荣耀 V9 play",
+        "mrank": "35"
+    },
+    {
+        "mid": "210026",
+        "mname": "荣耀 V9",
+        "mrank": "36"
+    },
+    {
+        "mid": "210001",
+        "mname": "荣耀 V8",
+        "mrank": "37"
+    },
+    {
+        "mid": "210021",
+        "mname": "荣耀 Note8",
+        "mrank": "38"
+    },
+    {
+        "mid": "210023",
+        "mname": "荣耀 Magic",
+        "mrank": "39"
+    },
+    {
+        "mid": "220011",
+        "mname": "中国移动 A5",
+        "mrank": "1"
+    },
+    {
+        "mid": "220010",
+        "mname": "中国移动 A4s",
+        "mrank": "2"
+    },
+    {
+        "mid": "220009",
+        "mname": "中国移动 A4",
+        "mrank": "3"
+    },
+    {
+        "mid": "220008",
+        "mname": "中国移动 A3",
+        "mrank": "4"
+    },
+    {
+        "mid": "220007",
+        "mname": "中国移动 A2",
+        "mrank": "5"
+    },
+    {
+        "mid": "220001",
+        "mname": "中国移动 A1",
+        "mrank": "6"
+    },
+    {
+        "mid": "220013",
+        "mname": "中国移动 N3",
+        "mrank": "7"
+    },
+    {
+        "mid": "220012",
+        "mname": "中国移动 N2",
+        "mrank": "8"
+    },
+    {
+        "mid": "220006",
+        "mname": "中国移动 N1 M821",
+        "mrank": "9"
+    },
+    {
+        "mid": "220005",
+        "mname": "中国移动 M812c",
+        "mrank": "10"
+    },
+    {
+        "mid": "220004",
+        "mname": "中国移动 M811",
+        "mrank": "11"
+    },
+    {
+        "mid": "220003",
+        "mname": "中国移动 M701",
+        "mrank": "12"
+    },
+    {
+        "mid": "220002",
+        "mname": "中国移动 M601",
+        "mrank": "13"
+    },
+    {
+        "mid": "220014",
+        "mname": "中国移动 新生1",
+        "mrank": "14"
+    },
+    {
+        "mid": "230005",
+        "mname": "微软 Lumia 950 XL",
+        "mrank": "1"
+    },
+    {
+        "mid": "230004",
+        "mname": "微软 Lumia 950",
+        "mrank": "2"
+    },
+    {
+        "mid": "230003",
+        "mname": "微软 Lumia 650",
+        "mrank": "3"
+    },
+    {
+        "mid": "230002",
+        "mname": "微软 Lumia 640 XL",
+        "mrank": "4"
+    },
+    {
+        "mid": "230001",
+        "mname": "微软 Lumia 640",
+        "mrank": "5"
+    },
+    {
+        "mid": "240015",
+        "mname": "美图 T9",
+        "mrank": "1"
+    },
+    {
+        "mid": "240011",
+        "mname": "美图 T8s",
+        "mrank": "2"
+    },
+    {
+        "mid": "240008",
+        "mname": "美图 T8",
+        "mrank": "3"
+    },
+    {
+        "mid": "240014",
+        "mname": "美图 V6",
+        "mrank": "4"
+    },
+    {
+        "mid": "240006",
+        "mname": "美图 V4s",
+        "mrank": "5"
+    },
+    {
+        "mid": "240005",
+        "mname": "美图 V4",
+        "mrank": "6"
+    },
+    {
+        "mid": "240010",
+        "mname": "美图 M8s",
+        "mrank": "7"
+    },
+    {
+        "mid": "240009",
+        "mname": "美图 M8",
+        "mrank": "8"
+    },
+    {
+        "mid": "240007",
+        "mname": "美图 M6s",
+        "mrank": "9"
+    },
+    {
+        "mid": "240004",
+        "mname": "美图 M6",
+        "mrank": "10"
+    },
+    {
+        "mid": "240003",
+        "mname": "美图 M4s",
+        "mrank": "11"
+    },
+    {
+        "mid": "240002",
+        "mname": "美图 M4",
+        "mrank": "12"
+    },
+    {
+        "mid": "240001",
+        "mname": "美图 2",
+        "mrank": "13"
+    },
+    {
+        "mid": "240013",
+        "mname": "美图 1s",
+        "mrank": "14"
+    },
+    {
+        "mid": "240012",
+        "mname": "美图 1",
+        "mrank": "15"
+    },
+    {
+        "mid": "240017",
+        "mname": "美图 T9 Hello Kitty限量版",
+        "mrank": "200"
+    },
+    {
+        "mid": "240018",
+        "mname": "美图 T9 幻彩版",
+        "mrank": "200"
+    },
+    {
+        "mid": "240016",
+        "mname": "美图 T9 美少女战士限量版",
+        "mrank": "200"
+    },
+    {
+        "mid": "250001",
+        "mname": "环保回收手机",
+        "mrank": "4"
+    }
+]

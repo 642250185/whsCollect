@@ -39,5 +39,5 @@ const crawlerBrands = async () => {
     return bids;
 };
 
-crawlerBrands()
+
 exports.crawlerBrands = crawlerBrands;
