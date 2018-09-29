@@ -86,4 +86,4 @@ const exportExcel = async () => {
 };
 
 
-exportExcel();
+exports.exportExcel = exportExcel;
