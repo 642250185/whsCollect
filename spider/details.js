@@ -19,16 +19,19 @@ const getDetails = async (spu, cookie) => {
         const {questions, pageinfo} = result.data;
         const final = [];
         for(let question of questions){
-            const {qgroup, qalise, answers} = question;
+            const {qgroup, qalise, qrank, qdesc, answers} = question;
             for(let answer of answers){
-                const {aid, aalise} = answer;
+                const {aid, arank, aalise} = answer;
                 final.push({
-                    mid: spu.mid,
-                    mname: spu.mname,
-                    qid: qgroup,
-                    qname: qalise,
-                    aid: aid,
-                    aname: aalise
+                    mid     : spu.mid,
+                    mname   : spu.mname,
+                    qid     : qgroup,
+                    qname   : qalise,
+                    qrank   : qrank,
+                    qdesc   : qdesc,
+                    aid     : aid,
+                    arank   : arank,
+                    aname   : aalise
                 });
             }
         }
@@ -61,14 +64,17 @@ const exportExcel = async () => {
     try {
         const allSpuDetails = await getAllPrdouctDetails();
         console.info(`${allSpuDetails.length} 条机型详情信息......`);
-        const result = [['机型ID', '机型名称', '问题项ID', '问题项名称', '答案项ID', '答案项名称']];
+        const result = [['机型ID', '机型名称', '问题项ID', '问题项名称', 'qrank', 'qdesc', '答案项ID', 'arank', '答案项名称']];
         for(let spuDetail of allSpuDetails){
             const row = [];
             row.push(spuDetail.mid);
             row.push(spuDetail.mname);
             row.push(spuDetail.qid);
             row.push(spuDetail.qname);
+            row.push(spuDetail.qrank);
+            row.push(spuDetail.qdesc);
             row.push(spuDetail.aid);
+            row.push(spuDetail.arank);
             row.push(spuDetail.aname);
             result.push(row);
         }
