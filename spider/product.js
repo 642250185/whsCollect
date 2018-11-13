@@ -23,11 +23,12 @@ const _getPListByBrandId = async (brandId, cookie, pageIndex, plist) => {
         result = JSON.parse(result.text);
         const {datalist, pageinfo} = result.data ? result.data : {};
         plist = plist.concat(datalist);
-        if(datalist.length < pageinfo.pagesize){
-            return plist;
-        } else {
-            pageIndex++;
+        pageIndex++;
+        const end = Math.ceil(pageinfo.total / pageinfo.pagesize);
+        if(pageIndex < end){
             return await _getPListByBrandId(brandId, cookie, pageIndex, plist);
+        } else {
+            return plist;
         }
     } catch(e) {
         console.log('=========', e);
@@ -59,5 +60,5 @@ const crawlerProducts = async () => {
     }
 };
 
-
+// crawlerProducts();
 exports.crawlerProducts = crawlerProducts;
