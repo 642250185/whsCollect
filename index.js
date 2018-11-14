@@ -18,10 +18,10 @@ const start = async () => {
 
         console.info('end......');
     } catch (e) {
-        console.error(e);
+        console.error('数据采集失败');
         return e;
     }
 };
 
-
 start();
+// exports.start = start;

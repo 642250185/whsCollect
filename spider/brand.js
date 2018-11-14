@@ -63,10 +63,15 @@ const getBrands = () => {
 };
 
 const crawlerBrands = async () => {
-    const bids = getBrands();
-    await fs.ensureDir(path.join(brandDataPath, '..'));
-    fs.writeFileSync(brandDataPath, JSON.stringify(bids, null, 4));
-    return bids;
+    try {
+        const bids = getBrands();
+        await fs.ensureDir(path.join(brandDataPath, '..'));
+        fs.writeFileSync(brandDataPath, JSON.stringify(bids, null, 4));
+        return bids;
+    } catch (e) {
+        console.error(e);
+        return e;
+    }
 };
 
 

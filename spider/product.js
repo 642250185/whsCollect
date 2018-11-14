@@ -60,5 +60,5 @@ const crawlerProducts = async () => {
     }
 };
 
-// crawlerProducts();
+
 exports.crawlerProducts = crawlerProducts;
