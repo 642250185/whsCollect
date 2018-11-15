@@ -30,6 +30,9 @@ const getBrands = () => {
         {bid: '230000', name: '微软', categoryId: '1'},
         {bid: '240000', name: '美图', categoryId: '1'},
         {bid: '250000', name: '环保回收', categoryId: '1'},
+        {bid: '260000', name: 'LG', categoryId: '1'},
+        {bid: '280000', name: '朵唯', categoryId: '1'},
+        {bid: '290000', name: '黑莓', categoryId: '1'},
         // tablePC
         {bid: '400000', name: '苹果平板', categoryId: '3000'},
         {bid: '410000', name: '华为平板', categoryId: '3100'},

@@ -125,6 +125,21 @@
         "categoryId": "1"
     },
     {
+        "bid": "260000",
+        "name": "LG",
+        "categoryId": "1"
+    },
+    {
+        "bid": "280000",
+        "name": "朵唯",
+        "categoryId": "1"
+    },
+    {
+        "bid": "290000",
+        "name": "黑莓",
+        "categoryId": "1"
+    },
+    {
         "bid": "400000",
         "name": "苹果平板",
         "categoryId": "3000"
