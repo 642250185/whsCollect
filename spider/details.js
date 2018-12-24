@@ -50,7 +50,7 @@ const getAllPrdouctDetails = async () => {
         const spus = JSON.parse(fs.readFileSync(spuDataPath));
         console.info('机型总数: %d', spus.length);
         for(let spu of spus){
-            console.info(`${spu.mid}, 正在采集 [ ${spu.mname} ] 机型的详情数据.`);
+            console.info(`mid: ${spu.mid}, 正在采集 [ ${spu.mname} ] 机型的详情数据.`);
             const spuDetail = await getDetails(spu, cookie);
             final = final.concat(spuDetail);
         }
