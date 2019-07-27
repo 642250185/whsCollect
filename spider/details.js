@@ -61,6 +61,7 @@ const getAllPrdouctDetails = async () => {
     }
 };
 
+
 const exportExcel = async () => {
     try {
         const allSpuDetails = await getAllPrdouctDetails();
