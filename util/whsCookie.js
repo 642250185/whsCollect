@@ -13,8 +13,8 @@ const getWhsCookie = async () => {
                     var u = document.getElementById('u');
                     var p = document.getElementById('p');
                     if(u) {
-                        u.value= '963320737';
-                        p.value= 'lt880919';
+                        u.value= '2369083632';
+                        p.value= '15274662451';
                         document.getElementById('go').click();
                     }
                 }).then(async function(html){
